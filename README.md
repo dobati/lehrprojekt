@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lehrprojekt (V1)
 
 
@@ -102,3 +103,6 @@ torch==1.10.2
 tqdm==4.62.3
 typing_extensions==4.1.1
 urllib3==1.26.8
+=======
+# lehrprojekt
+>>>>>>> 6a5077ec8ee01d09d1c2e61753f83a13dfabffbf
