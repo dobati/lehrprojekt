@@ -47,8 +47,6 @@ class Input2Conllu():
         for line in open(self.inputfile).readlines()[1:]:
             line = line.rstrip("\n")
             linesp = line.split("\t")
-            #print ("groupid", linesp[6] )
-            #linesp[6] = int(linesp[6])
             d[linesp[0]] += [linesp[1:]]
         for key in d:
             c = 0
@@ -141,7 +139,6 @@ class Input2Conllu():
                         definite = self.getDefinite(feat, definite)
                 gloss.append([case, number, gender, definite])
                 str_list = list(filter(None, gloss[0]))
-                #print (".".join(str_list))
                 return (".".join(str_list))
             else:
                 return "-"
@@ -176,7 +173,6 @@ class Input2Conllu():
                 # tempus+="PST"
                 gloss.append([aspect, modus, tempus, person, number, gender])
                 str_list = list(filter(None, gloss[0]))
-               # print (".".join(str_list))
                 return (".".join(str_list))
             else:
                 return "-"
@@ -229,19 +225,14 @@ class Input2Conllu():
                 lang += key
                 nlp = stanza.Pipeline(lang)
             # sort dict according to alignment id (k[5])
-            #for example in sorted(self.inputdict[key]):
-            #for example in sorted(self.inputdict[key]):
-            #for example in sorted(self.inputdict[key],key=lambda k: (k[4])):
+            # TODO: check this sorting again
             for example in sorted(self.inputdict[key],key=lambda k: (k[5])):
                 print (example)
                 # LANGCODE	EXAMPLE	SOURCE	REFERENCE	REFERENCE_PAGE	CAT	GROUPID	EDITOR	COMMENT	VERSION	COMMENT_INTERN
                 example_text = self.replace_sonderzeichen(example[0])
-                #category = example[3]
                 category = example[4]
-                #editor = example[5]
                 editor = example[6]
                 example_id = example[-1]
-                #doc = nlp(example_text)
                 dict_underlined_ids = defaultdict(list)
 
                 if "[" in example_text:
@@ -268,8 +259,6 @@ class Input2Conllu():
                             omit_annotations += "_omit_annotations_"
                         else:
                             omit_annotations += ""
-                        #print(word.id, word.text, word.lemma, word.upos, word.xpos, word.feats, word.head, word.deprel)
-                        ## if any of this is None, set - in output
                         conllu_file.write("\t".join([self.xstr(word.id),
                                                     self.xstr(word.text),
                                                     self.xstr(word.lemma),
