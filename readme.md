@@ -26,11 +26,11 @@
 		
 Calling the scripts:
 
-$ pip install -r requirements.txt 
+	$ pip install -r requirements.txt 
 
-$ python annotate.py
+	$ python annotate.py
 
-$ python createTables.py
+	$ python createTables.py
 
 ## Tables
 ### Token
@@ -76,6 +76,7 @@ The columns 16. and 17. are only there for our information and should be removed
 Python 3.7
 
 Libraries
+
 	certifi==2021.10.8
 
 	chardet==3.0.4
