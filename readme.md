@@ -86,7 +86,7 @@ The columns 16. and 17. are only there for our information and should be removed
 1. LANGUAGE: Language
 2. LANGCODE: (Language code like ru, bcms, etc.)
 
-### categorydesc.csv
+### categorydesc
 1. CAT: Category (short)
 2. DESC: Category
 3. INFO: Information about this category
