@@ -1,26 +1,26 @@
-CAT;DESC
-POSS;Possessivität
-EXIST;Existenz
-REL;Relativsatz
-NOMPRED;Nominale Prädikation
-DIRSP;Direktiver Sprechakt
-UPER;Unpersönlich
-GIVE;GIVE
-AGRSEM;Semantisches Agreement
-DOM;Differentielle Objektmarkierung
-ITR;Intransitivierung
-DEO;Deontisch
-PSEK;Pseudo-Koordination
-SPEC;Spezifische Referenz
-INDEFIN;Indefinit
-NSPEC;Nicht-spezifisch
-EPIST;Epistemisch
-DSM;Differentielle Subjektmarkierung
-PREPOST;Prä-Postposition
-XYZ;test
-RS;?
-REZI;Reziprok
-OPTSP;Optativische Sprechakte
-IMPP;Implikatives Prädikat
-ECH;Echodeontische (interpretative) Äußerung
-APPR;Apprehensionale Strategien
+CAT;DESC;INFO
+POSS;Possessivität;Kürzer Text über diese Kategorie
+EXIST;Existenz;
+REL;Relativsatz;
+NOMPRED;Nominale Prädikation;
+DIRSP;Direktiver Sprechakt;
+UPER;Unpersönlich;
+GIVE;GIVE;
+AGRSEM;Semantisches Agreement;
+DOM;Differentielle Objektmarkierung;
+ITR;Intransitivierung;
+DEO;Deontisch;
+PSEK;Pseudo-Koordination;
+SPEC;Spezifische Referenz;
+INDEFIN;Indefinit;
+NSPEC;Nicht-spezifisch;
+EPIST;Epistemisch;
+DSM;Differentielle Subjektmarkierung;
+PREPOST;Prä-Postposition;
+XYZ;test;
+RS;?;
+REZI;Reziprok;
+OPTSP;Optativische Sprechakte;
+IMPP;Implikatives Prädikat;
+ECH;Echodeontische (interpretative) Äußerung;
+APPR;Apprehensionale Strategien;

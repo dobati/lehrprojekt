@@ -71,6 +71,27 @@ The columns 16. and 17. are only there for our information and should be removed
 8. _COMMENT_INTERN: Comment that is there for authors information (should not appear on the Web-Interface)
 9. EXAMPLEID: Language and corpus-specific integer in range of 1000
 
+
+## Stand-Off csv
+
+### sourcedesc
+1. SOURCE: Source (short)
+2. DESC: Source (long)
+
+### referencedesc
+1. REFERENCE: Reference (short)
+2. DESC: Reference (long)
+
+### languages
+1. LANGUAGE: Language
+2. LANGCODE: (Language code like ru, bcms, etc.)
+
+### categorydesc.csv
+1. CAT: Category (short)
+2. DESC: Category
+3. INFO: Information about this category
+				
+
 ### Requirements
 
 Python 3.7
