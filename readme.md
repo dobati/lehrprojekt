@@ -49,8 +49,8 @@ The first 9 columns match the standard CoNNL-U format:
 11. GLOSS: Leipzig Glossing Rules (https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf)
 12. GLOSSKORR: Corrected annotations from the column GLOSS
 13. OMIT_ANNOTATIONS: The value "_omit_annotations_" in this column stands for those tokens for which the annotations must not be shown on the Web-Interface
-14. TOKENID: Language specific string (LANGCODE + str((range of 1 million) + VERSION)
-15. EXAMPLEID: Language specific string (LANGCODE + str(range of 1000) + VERSION)
+14. TOKENID: Language specific string (LANGCODE + VERSION + str((range of 1 million))
+15. EXAMPLEID: Language specific string (LANGCODE + VERSION + str(range of 1000))
 16. _CAT: Category
 17. _EDITOR: Editor of the Example
 
@@ -58,7 +58,7 @@ The columns 16. and 17. are only there for our information and should be removed
 
 ### Category
 1. CAT: Category for the example
-2. EXAMPLEID: Language specific string (LANGCODE + str(range of 1000) + VERSION)
+2. EXAMPLEID: Language specific string (LANGCODE + VERSION + str(range of 1000))
 
 ### SlavExample
 1. SOURCE: The corpus or Website in which the example has been found
@@ -69,7 +69,7 @@ The columns 16. and 17. are only there for our information and should be removed
 6. COMMENT: Comment that should appear for users to see
 7. VERSION: The version in which the example has been introduced
 8. _COMMENT_INTERN: Comment that is there for authors information (should not appear on the Web-Interface)
-9. EXAMPLEID: Language specific string (LANGCODE + str(range of 1000) + VERSION)
+9. EXAMPLEID: Language specific string (LANGCODE + VERSION  + str(range of 1000))
 
 
 ## Stand-Off csv
