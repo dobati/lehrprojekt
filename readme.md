@@ -12,10 +12,10 @@
 				slavexample.tsv
 				category.tsv
 			stand_off/
-				sourcedesc.csv
-				referencedesc.csv
-				languages.csv
-				categorydesc.csv
+				sourcedesc.tsv
+				referencedesc.tsv
+				languages.tsv
+				categorydesc.tsv
 			requirements.txt 
 
 ## Scripts
@@ -72,7 +72,7 @@ The columns 16. and 17. are only there for our information and should be removed
 9. EXAMPLEID: Language specific string (LANGCODE + VERSION  + str(range of 1000))
 
 
-## Stand-Off csv
+## Stand-Off tsv
 
 ### sourcedesc
 1. SOURCE: Source (short)
@@ -94,64 +94,43 @@ The columns 16. and 17. are only there for our information and should be removed
 
 ### Requirements
 
-Python 3.7
+Python 3.10
 
 Libraries
 
-	certifi==2021.10.8
-
-	chardet==3.0.4
-
-	charset-normalizer==2.0.12
-
-	classla==1.1.0
-
-	emoji==1.6.3
-
-	googletrans==3.1.0a0
-
-	h11==0.9.0
-
-	h2==3.2.0
-
-	hpack==3.0.0
-
-	hstspreload==2021.12.1
-
-	httpcore==0.9.1
-
-	httpx==0.13.3
-
-	hyperframe==5.2.0
-
-	idna==2.10
-
-	lxml==4.7.1
-
-	numpy==1.22.2
-
-	obeliks==1.1.4
-
-	protobuf==3.19.4
-
-	regex==2022.1.18
-
-	reldi-tokeniser==1.0.1
-
-	requests==2.27.1
-
-	rfc3986==1.5.0
-
-	six==1.16.0
-
-	sniffio==1.2.0
-
-	stanza==1.2.3
-
-	torch==1.10.2
-
-	tqdm==4.62.3
-
-	typing_extensions==4.1.1
-
-	urllib3==1.26.8
+certifi==2022.6.15
+chardet==3.0.4
+charset-normalizer==2.0.12
+classla==1.2.0
+emoji==2.0.0
+filelock==3.8.0
+googletrans==3.1.0a0
+h11==0.9.0
+h2==3.2.0
+hpack==3.0.0
+hstspreload==2022.9.1
+httpcore==0.9.1
+httpx==0.13.3
+huggingface-hub==0.9.1
+hyperframe==5.2.0
+idna==2.10
+lxml==4.9.1
+numpy==1.23.0
+obeliks==1.1.6
+packaging==21.3
+protobuf==4.21.2
+pyparsing==3.0.9
+PyYAML==6.0
+regex==2022.8.17
+reldi-tokeniser==1.0.2
+requests==2.28.0
+rfc3986==1.5.0
+six==1.16.0
+sniffio==1.3.0
+stanza==1.4.0
+tokenizers==0.12.1
+torch==1.12.0
+tqdm==4.62.3
+transformers==4.21.3
+typing_extensions==4.3.0
+urllib3==1.26.12

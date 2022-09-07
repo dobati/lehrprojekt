@@ -1,698 +1,702 @@
-ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	MISC	ENGLISH	GLOSS	GLOSSKORR	OMIT_ANNOTATIONS	TOKENID	EXAMPLEID	LANGCODE	_CAT	_EDITOR
-1	Taj	taj	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	-	that	-			bcms0000001	bcms00001	bcms	DOM	Barbara
-2	savetnik	savetnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	-	advisor	NOM.SG.M			bcms0000002	bcms00001	bcms	DOM	Barbara
-3	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	-	to be	IND.PRS.3.SG			bcms0000003	bcms00001	bcms	DOM	Barbara
-4	malopre	malopre	ADV	Rgp	Degree=Pos	8	advmod	-	just before	-			bcms0000004	bcms00001	bcms	DOM	Barbara
-5	kod	kod	ADP	Sg	Case=Gen	7	case	-	code	-			bcms0000005	bcms00001	bcms	DOM	Barbara
-6	Patrijaršijskih	patrijaršijski	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	amod	-	patriarchal	GEN.PL.M.DEF			bcms0000006	bcms00001	bcms	DOM	Barbara
-7	ribnjaka	ribnjak	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	8	obl	-	pond	GEN.PL.M			bcms0000007	bcms00001	bcms	DOM	Barbara
-8	ubio	ubiti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	to kill	PST.SG.M			bcms0000008	bcms00001	bcms	DOM	Barbara
-9	Mišu	Miš	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	-	Mouse	-			bcms0000009	bcms00001	bcms	DOM	Barbara
-10	Berlioza	Berlilz	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	9	flat	SpaceAfter=No	Berlitz	-			bcms0000010	bcms00001	bcms	DOM	Barbara
-11	.	.	PUNCT	Z	-	8	punct	-	.	-			bcms0000011	bcms00001	bcms	DOM	Barbara
-1	Kod	kod	ADP	Sg	Case=Gen	2	case	-	code	-			bcms0000012	bcms00002	bcms	EXIST, DOM	Barbara
-2	nas	mi	PRON	Pp1-pa	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	obl	-	we	-			bcms0000013	bcms00002	bcms	EXIST, DOM	Barbara
-3	u	u	ADP	Sl	Case=Loc	4	case	-	u	-			bcms0000014	bcms00002	bcms	EXIST, DOM	Barbara
-4	stanu	stan	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	2	nmod	-	apartment	LOC.SG.M			bcms0000015	bcms00002	bcms	EXIST, DOM	Barbara
-5	ničeg	niče	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	4	nmod	-	nothing	GEN.SG			bcms0000016	bcms00002	bcms	EXIST, DOM	Barbara
-6	takvog	takav	DET	Pd-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	det	-	such a	-			bcms0000017	bcms00002	bcms	EXIST, DOM	Barbara
-7	nema	nemati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	-	do not have	IND.PRS.3.SG			bcms0000018	bcms00002	bcms	EXIST, DOM	Barbara
-1	Ivan	Ivan	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	-	Ivan	-			bcms0000019	bcms00003	bcms	POSS	Björn
-2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	-	to be	IND.PRS.3.SG			bcms0000020	bcms00003	bcms	POSS	Björn
-3	poljubio	poljubiti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	to kiss	PST.SG.M			bcms0000021	bcms00003	bcms	POSS	Björn
-4	dami	dam	ADJ	Agpfsdy	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	-	dam	DAT.SG.F.DEF			bcms0000022	bcms00003	bcms	POSS	Björn
-5	ruku	ruka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	SpaceAfter=No	hand	ACC.SG.F			bcms0000023	bcms00003	bcms	POSS	Björn
-6	.	.	PUNCT	Z	-	3	punct	-	.	-			bcms0000024	bcms00003	bcms	POSS	Björn
-1	Opravdu	opravdu	ADV	Db-------------	-	3	advmod	-	really	-			cs0000001	cs00001	cs	EXIST, REL	Barbara
-2	,	,	PUNCT	Z:-------------	-	1	punct	-	,	-			cs0000002	cs00001	cs	EXIST, REL	Barbara
-3	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	be	IND.PRS.3.PL			cs0000003	cs00001	cs	EXIST, REL	Barbara
-4	knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	3	nsubj	-	book	NOM.PL.F			cs0000004	cs00001	cs	EXIST, REL	Barbara
-5	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	-	for	-			cs0000005	cs00001	cs	EXIST, REL	Barbara
-6	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	-	day	ACC.SG.M			cs0000006	cs00001	cs	EXIST, REL	Barbara
-7	a	a	CCONJ	J^-------------	-	8	cc	-	and	-			cs0000007	cs00001	cs	EXIST, REL	Barbara
-8	knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	6	conj	-	book	NOM.PL.F			cs0000008	cs00001	cs	EXIST, REL	Barbara
-9	,	,	PUNCT	Z:-------------	-	11	punct	-	,	-			cs0000009	cs00001	cs	EXIST, REL	Barbara
-10	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	12	obj	-	who	-			cs0000010	cs00001	cs	EXIST, REL	Barbara
-11	můžete	moci	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	-	can	IND.PRS.2.PL			cs0000011	cs00001	cs	EXIST, REL	Barbara
-12	číst	číst	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	11	xcomp	-	read				cs0000012	cs00001	cs	EXIST, REL	Barbara
-13	jen	jen	PART	TT-------------	-	15	advmod:emph	-	just	-			cs0000013	cs00001	cs	EXIST, REL	Barbara
-14	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	-	in	-			cs0000014	cs00001	cs	EXIST, REL	Barbara
-15	noci	noc	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	12	obl	-	night	LOC.SG.F			cs0000015	cs00001	cs	EXIST, REL	Barbara
-16	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs0000016	cs00001	cs	EXIST, REL	Barbara
-1	Jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	-	be	IND.PRS.3.PL			cs0000017	cs00002	cs	NOMPRED, REL	Barbara
-2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	-	the	-			cs0000018	cs00002	cs	NOMPRED, REL	Barbara
-3	otázky	otázka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	-	question	NOM.PL.F			cs0000019	cs00002	cs	NOMPRED, REL	Barbara
-4	,	,	PUNCT	Z:-------------	-	7	punct	-	,	-			cs0000020	cs00002	cs	NOMPRED, REL	Barbara
-5	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	-	on	-			cs0000021	cs00002	cs	NOMPRED, REL	Barbara
-6	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	8	det	-	who	-			cs0000022	cs00002	cs	NOMPRED, REL	Barbara
-7	není	být	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	-	be	IND.PRS.3.SG			cs0000023	cs00002	cs	NOMPRED, REL	Barbara
-8	odpověď	odpověď	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	-	answer	NOM.SG.F			cs0000024	cs00002	cs	NOMPRED, REL	Barbara
-9	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs0000025	cs00002	cs	NOMPRED, REL	Barbara
-1	I	i	CCONJ	J^-------------	-	2	advmod:emph	-	and	-			cs0000026	cs00003	cs	GIVE	Barbara
-2	tak	tak	ADV	Db-------------	PronType=Dem	4	advmod	-	so	-			cs0000027	cs00003	cs	GIVE	Barbara
-3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	-	se	-			cs0000028	cs00003	cs	GIVE	Barbara
-4	dá	dát	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	give	IND.PRS.3.SG			cs0000029	cs00003	cs	GIVE	Barbara
-5	ovlivnit	ovlivnit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	xcomp	-	affect	PFV			cs0000030	cs00003	cs	GIVE	Barbara
-6	představení	představení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	nsubj:pass	-	performance	NOM.SG			cs0000031	cs00003	cs	GIVE	Barbara
-7	.	.	PUNCT	Z:-------------	-	4	punct	-	.	-			cs0000032	cs00003	cs	GIVE	Barbara
-1	Mamince	Maminka	PROPN	NNFS3-----A----	Case=Dat|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	3	obl:arg	-	Mom	-			cs0000033	cs00004	cs	POSS, ITR	Björn
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	-	se	-			cs0000034	cs00004	cs	POSS, ITR	Björn
-3	točila	točit	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	spin	PST			cs0000035	cs00004	cs	POSS, ITR	Björn
-4	hlava	hlava	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	-	head	NOM.SG.F			cs0000036	cs00004	cs	POSS, ITR	Björn
-5	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs0000037	cs00004	cs	POSS, ITR	Björn
-1	Asi	asi	PART	TT-------------	-	4	advmod	-	about	-			cs0000038	cs00005	cs	RS	Imke
-2	jste	být	AUX	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	-	be	IND.PRS.2.PL			cs0000039	cs00005	cs	RS	Imke
-3	špatně	špatně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	-	poorly	-			cs0000040	cs00005	cs	RS	Imke
-4	rozuměl	rozumět	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	understand	PST.SG.M			cs0000041	cs00005	cs	RS	Imke
-5	dopisu	dopis	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	-	letter	DAT.SG.M			cs0000042	cs00005	cs	RS	Imke
-6	,	,	PUNCT	Z:-------------	-	9	punct	-	,	-			cs0000043	cs00005	cs	RS	Imke
-7	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	9	obj	-	what	-			cs0000044	cs00005	cs	RS	Imke
-8	Vám	ty	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	obl:arg	-	you	-			cs0000045	cs00005	cs	RS	Imke
-9	poslali	poslat	VERB	VpMP---XR-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl:relcl	-	send	PST.PL.M			cs0000046	cs00005	cs	RS	Imke
-10	.	.	PUNCT	Z:-------------	-	4	punct	-	.	-			cs0000047	cs00005	cs	RS	Imke
-1	Обрѣтохъ	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.1.SG			cu0000001	cu00001	cu	XYZ	Sandra
-2	недостоинъ	недостоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	obj	-	-	NOM.SG.M			cu0000002	cu00001	cu	XYZ	Sandra
-3	сꙑ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	1	aux	-	-	PRS.SG.M			cu0000003	cu00001	cu	XYZ	Sandra
-4	такъ	такъ	ADP	R-	-	5	case	-	-	-			cu0000004	cu00001	cu	XYZ	Sandra
-5	даръ.	даръ.а	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obl	-	-	ACC.PL.M			cu0000005	cu00001	cu	XYZ	Sandra
-1	ѥже	оудеити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	-	IMP.PRS.2.SG			cu0000006	cu00001	cu	XYZ	Sandra
-2	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	-	-	-			cu0000007	cu00001	cu	XYZ	Sandra
-3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl	-	-	-			cu0000008	cu00001	cu	XYZ	Sandra
-4	поѹчѧти	поѹчѧти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	-	-	PRS			cu0000009	cu00001	cu	XYZ	Sandra
-5	словесьмъ	слово	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	4	iobj	-	-	DAT.PL			cu0000010	cu00001	cu	XYZ	Sandra
-6	твоимъ	твои	ADJ	Ps	Case=Dat|Number=Plur|Person=2|Poss=Yes	5	nmod	-	-	DAT.PL			cu0000011	cu00001	cu	XYZ	Sandra
-7	дьнь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	-	-	ACC.SG.M			cu0000012	cu00001	cu	XYZ	Sandra
-8	и	и	CCONJ	C-	-	7	cc	-	-	-			cu0000013	cu00001	cu	XYZ	Sandra
-9	ношть.	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	conj	-	-	ACC.PL.F			cu0000014	cu00001	cu	XYZ	Sandra
-1	А	а	CCONJ	C-	-	5	cc	-	-	-			cu0000015	cu00002	cu	XYZ	Sandra
-2	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	-	-	NOM.SG.M			cu0000016	cu00002	cu	XYZ	Sandra
-3	бѧшеть	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	-	-	PFV.IND.PST.3.SG			cu0000017	cu00002	cu	XYZ	Sandra
-4	тогда	тъгда	ADV	Df	-	5	advmod	-	-	-			cu0000018	cu00002	cu	XYZ	Sandra
-5	впалъ	впалъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu0000019	cu00002	cu	XYZ	Sandra
-6	в	въ	ADP	R-	-	7	case	-	-	-			cu0000020	cu00002	cu	XYZ	Sandra
-7	болесть	болесть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	-	-	ACC.SG.F			cu0000021	cu00002	cu	XYZ	Sandra
-8	великѹ.	великъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	-	-	NOM.SG.M			cu0000022	cu00002	cu	XYZ	Sandra
-9	в	въ	ADP	R-	-	10	case	-	-	-			cu0000023	cu00002	cu	XYZ	Sandra
-10	неиже	иже	PRON	Pr	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	12	obl	-	-	-			cu0000024	cu00002	cu	XYZ	Sandra
-11	и	и	CCONJ	C-	-	12	cc	-	-	-			cu0000025	cu00002	cu	XYZ	Sandra
-12	сконча	сконити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	-	-	PFV.IND.PST.3.SG			cu0000026	cu00002	cu	XYZ	Sandra
-13	животъ	животъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj	-	-	ACC.SG.M			cu0000027	cu00002	cu	XYZ	Sandra
-14	свои.	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	-	-	ACC.SG.M			cu0000028	cu00002	cu	XYZ	Sandra
-15	и	и	CCONJ	C-	-	12	cc	-	-	-			cu0000029	cu00002	cu	XYZ	Sandra
-16	положиша	положити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	-	-	IND.PST.3.SG			cu0000030	cu00002	cu	XYZ	Sandra
-17	во	въ	ADP	R-	-	18	case	-	-	-			cu0000031	cu00002	cu	XYZ	Sandra
-18	цр҃кви	црькꙑ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	16	obl	-	-	LOC.SG.F			cu0000032	cu00002	cu	XYZ	Sandra
-19	ст҃ѣ	съто	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	18	nmod	-	-	LOC.SG.M			cu0000033	cu00002	cu	XYZ	Sandra
-1	Бц҃и.	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	advmod	-	-	NOM.PL.M			cu0000034	cu00002	cu	XYZ	Sandra
-2	в	въ	ADP	R-	-	3	case	-	-	-			cu0000035	cu00002	cu	XYZ	Sandra
-3	Холмѣ	Холмѣ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	obl	-	-	LOC.SG.M			cu0000036	cu00002	cu	XYZ	Sandra
-4	юже	оуже	ADV	Df	-	7	advmod	-	-	-			cu0000037	cu00002	cu	XYZ	Sandra
-5	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	-	-	IND.PST.3.SG			cu0000038	cu00002	cu	XYZ	Sandra
-6	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	7	det	-	-	-			cu0000039	cu00002	cu	XYZ	Sandra
-7	создалъ.	създати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	-	PST.PL.M			cu0000040	cu00002	cu	XYZ	Sandra
-1	Зимноє	зимно	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	-	-	NOM.SG			cu0000041	cu00003	cu	XYZ	Sandra
-2	бо`	бо`	ADP	R-	-	3	case	-	-	-			cu0000042	cu00003	cu	XYZ	Sandra
-3	времѧ	врьмѧ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	obl	-	-	GEN.SG			cu0000043	cu00003	cu	XYZ	Sandra
-4	бранѧ´ше	бранити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	advcl	-	-	PST.PL.M			cu0000044	cu00003	cu	XYZ	Sandra
-5	мѹ	мѹ	PRON	Pp	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	-	-	-			cu0000045	cu00003	cu	XYZ	Sandra
-6	ити	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	-	-	PRS			cu0000046	cu00003	cu	XYZ	Sandra
-7	къ	къ	ADP	R-	-	8	case	-	-	-			cu0000047	cu00003	cu	XYZ	Sandra
-8	римꙋ:	римꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	obl	-	-	-			cu0000048	cu00003	cu	XYZ	Sandra
-1	Ходи	Ходи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu0000049	cu00004	cu	XYZ	Sandra
-2	Ꙗрославъ	Ꙗрославъ	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	advcl	-	-	PST.SG.M			cu0000050	cu00004	cu	XYZ	Sandra
-3	сн҃ъ	сꙑнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obj	-	-	ACC.SG.M			cu0000051	cu00004	cu	XYZ	Sandra
-4	Ст҃ополчь	стѵполь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	-	-	NOM.SG.M			cu0000052	cu00004	cu	XYZ	Sandra
-5	на	на	ADP	R-	-	6	case	-	-	-			cu0000053	cu00004	cu	XYZ	Sandra
-6	Ꙗтьвѧгꙑ	Ꙗтьвѧгꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obl	-	-	ACC.PL.F			cu0000054	cu00004	cu	XYZ	Sandra
-7	второє.	вторъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	-	-	ACC.PL.M			cu0000055	cu00004	cu	XYZ	Sandra
-8	и	и	CCONJ	C-	-	2	cc	-	-	-			cu0000056	cu00004	cu	XYZ	Sandra
-9	побѣди	побѣдити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	-	-	PFV.IND.PST.3.SG			cu0000057	cu00004	cu	XYZ	Sandra
-10	ꙗ.	ꙗ.	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	-	-	-			cu0000058	cu00004	cu	XYZ	Sandra
-1	Въ	въ	ADP	R-	-	2	case	-	-	-			cu0000059	cu00005	cu	XYZ	Sandra
-2	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	nmod	-	-	ACC.SG			cu0000060	cu00005	cu	XYZ	Sandra
-3	·҂ꙅ҃·ф҃·л͠ꙅ·	·҂ꙅ҃·ф҃·л͠ꙅ·	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	-	-	GEN.SG.M			cu0000061	cu00005	cu	XYZ	Sandra
-4	знамениѥ	знамениѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	-	-	NOM.SG			cu0000062	cu00005	cu	XYZ	Sandra
-5	змиѥво	змиѥво	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	appos	-	-	NOM.SG.F			cu0000063	cu00005	cu	XYZ	Sandra
-6	на	на	ADP	R-	-	7	case	-	-	-			cu0000064	cu00005	cu	XYZ	Sandra
-7	нб҃си	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	5	nmod	-	-	LOC.SG			cu0000065	cu00005	cu	XYZ	Sandra
-8	ꙗви	твии	NUM	Ma	Case=Acc|Number=Plur	5	nmod	-	-	-			cu0000066	cu00005	cu	XYZ	Sandra
-9	сѧ.	сь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	-	-	ACC.PL.M			cu0000067	cu00005	cu	XYZ	Sandra
-1	И	и	CCONJ	C-	-	4	cc	-	-	-			cu0000068	cu00006	cu	XYZ	Sandra
-2	на	на	ADP	R-	-	3	case	-	-	-			cu0000069	cu00006	cu	XYZ	Sandra
-3	западѣ	западъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	-	-	LOC.SG.M			cu0000070	cu00006	cu	XYZ	Sandra
-4	ꙗви	ввити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.3.SG			cu0000071	cu00006	cu	XYZ	Sandra
-5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	-	-	-			cu0000072	cu00006	cu	XYZ	Sandra
-6	звѣзда	звѣздо	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	-	-	NOM.SG.F			cu0000073	cu00006	cu	XYZ	Sandra
-7	велика.	великъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	amod	-	-	NOM.PL.F			cu0000074	cu00006	cu	XYZ	Sandra
-1	Томь	сомъ	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	-	-	LOC.SG			cu0000075	cu00007	cu	XYZ	Sandra
-2	(ж̑)	(ж̑)	ADV	Df	-	6	advmod	-	-	-			cu0000076	cu00007	cu	XYZ	Sandra
-3	·	·	ADP	R-	-	4	case	-	-	-			cu0000077	cu00007	cu	XYZ	Sandra
-4	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	obl	-	-	NOM.SG			cu0000078	cu00007	cu	XYZ	Sandra
-5	·	·	ADP	R-	-	6	case	-	-	-			cu0000079	cu00007	cu	XYZ	Sandra
-6	прѣстави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.3.SG			cu0000080	cu00007	cu	XYZ	Sandra
-7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	-	-	-			cu0000081	cu00007	cu	XYZ	Sandra
-8	·ӏѡ҃а·	·ӏѡ҃а·	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	-	-	NOM.SG.M			cu0000082	cu00007	cu	XYZ	Sandra
-9	сн҃ъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	-	-	NOM.SG.M			cu0000083	cu00007	cu	XYZ	Sandra
-10	всѣволожь	всѣволожь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	-	-	GEN.SG.M			cu0000084	cu00007	cu	XYZ	Sandra
-11	вънѹкъ	вънѹкъ	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	-	-	PST.SG.M			cu0000085	cu00007	cu	XYZ	Sandra
-12	мьстиславль.	мьстиславити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	9	acl	-	-	PST.PL.M			cu0000086	cu00007	cu	XYZ	Sandra
-1	Въ	въ	ADP	R-	-	3	case	-	-	-			cu0000087	cu00008	cu	XYZ	Sandra
-2	то	тъ	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	-	-	-			cu0000088	cu00008	cu	XYZ	Sandra
-3	(ж̑)	(ж̑)	ADV	Df	-	6	obl	-	-	-			cu0000089	cu00008	cu	XYZ	Sandra
-4	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	-	-	NOM.SG			cu0000090	cu00008	cu	XYZ	Sandra
-5	·	·	ADP	R-	-	6	case	-	-	-			cu0000091	cu00008	cu	XYZ	Sandra
-6	заложиша	заложити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	IND.PST.3.SG			cu0000092	cu00008	cu	XYZ	Sandra
-7	цр҃квь	црькꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	-	-	ACC.SG.F			cu0000093	cu00008	cu	XYZ	Sandra
-8	камѧну.	камѧнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nsubj	-	-	NOM.SG.F			cu0000094	cu00008	cu	XYZ	Sandra
-1	И	и	CCONJ	C-	-	4	cc	-	-	-			cu0000095	cu00009	cu	XYZ	Sandra
-2	томь	тъ	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	-	-	LOC.SG			cu0000096	cu00009	cu	XYZ	Sandra
-3	<ве>чере	<ве>чере	ADV	Df	-	4	advmod	-	-	-			cu0000097	cu00009	cu	XYZ	Sandra
-4	перевози	перевозь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu0000098	cu00009	cu	XYZ	Sandra
-5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	-	-	-			cu0000099	cu00009	cu	XYZ	Sandra
-6	ꙗрославъ	дрослати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	acl	-	-	PST.SG.M			cu0000100	cu00009	cu	XYZ	Sandra
-7	·	·	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	-	-	-			cu0000101	cu00009	cu	XYZ	Sandra
-8	съ	съ	ADP	R-	-	9	case	-	-	-			cu0000102	cu00009	cu	XYZ	Sandra
-9	вои	вои	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	obl	-	-	INS.PL.M			cu0000103	cu00009	cu	XYZ	Sandra
-10	на	на	ADP	R-	-	12	case	-	-	-			cu0000104	cu00009	cu	XYZ	Sandra
-11	дрѹгꙑи	дрѹгꙑи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	-	-	ACC.SG.M			cu0000105	cu00009	cu	XYZ	Sandra
-12	полъ	полъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	-	-	ACC.SG.M			cu0000106	cu00009	cu	XYZ	Sandra
-13	дънѣпр<а>.	дънѣпр<а>.	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	-	-	ACC.SG.M			cu0000107	cu00009	cu	XYZ	Sandra
-1	Въ	въ	ADP	R-	-	2	case	-	-	-			cu0000108	cu00010	cu	XYZ	Sandra
-2	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obl	-	-	ACC.SG			cu0000109	cu00010	cu	XYZ	Sandra
-3	·҂ꙅ҃·ф҃·о͠ꙅ·	·҂ꙅ҃·ф҃·о͠ꙅ·	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	-	-	GEN.SG.M			cu0000110	cu00010	cu	XYZ	Sandra
-4	гнѣвъ	гнѣвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	-	-	NOM.SG.M			cu0000111	cu00010	cu	XYZ	Sandra
-5	бж҃ии	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	-	-	NOM.SG.M			cu0000112	cu00010	cu	XYZ	Sandra
-6	бꙑ(с̑)	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	8	cop	-	-	PST.SG.M			cu0000113	cu00010	cu	XYZ	Sandra
-7	·	·	ADP	R-	-	8	case	-	-	-			cu0000114	cu00010	cu	XYZ	Sandra
-8	придоша	придовати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	-	-	PFV.IND.PST.3.SG			cu0000115	cu00010	cu	XYZ	Sandra
-9	половци	половити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	-	IMP.PRS.2.SG			cu0000116	cu00010	cu	XYZ	Sandra
-10	·	·	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	expl	-	-	-			cu0000117	cu00010	cu	XYZ	Sandra
-11	и	и	CCONJ	C-	-	9	cc	-	-	-			cu0000118	cu00010	cu	XYZ	Sandra
-12	побѣдиша	побѣдити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	-	-	IND.PRS.2.SG			cu0000119	cu00010	cu	XYZ	Sandra
-13	рꙋсьскѹю	рꙋсьскѹю	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	14	amod	-	-	DAT.SG			cu0000120	cu00010	cu	XYZ	Sandra
-14	землю.	землꙗ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obj	-	-	GEN.SG.F			cu0000121	cu00010	cu	XYZ	Sandra
-1	Jacek	Jacek	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Jack	-			pl0000001	pl00001	pl	POSS	Barbara
-2	rozbil	rozbić	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	break	PFV.IND.PST.SG.M			pl0000002	pl00001	pl	POSS	Barbara
-3	samochód	samochód	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	car	ACC.SG.M			pl0000003	pl00001	pl	POSS	Barbara
-4	Roberta	Robert	PROPN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	3	nmod	-	Robert	-			pl0000004	pl00001	pl	POSS	Barbara
-5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl0000005	pl00001	pl	POSS	Barbara
-1	Jacek	Jacek	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Jack	-			pl0000006	pl00002	pl	POSS	Barbara
-2	rozbil	rozbić	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	break	PFV.IND.PST.SG.M			pl0000007	pl00002	pl	POSS	Barbara
-3	Robertowi	Robert	PROPN	subst:sg:dat:m1	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing	2	iobj	-	Robert	-			pl0000008	pl00002	pl	POSS	Barbara
-4	samochód	samochód	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	car	ACC.SG.M			pl0000009	pl00002	pl	POSS	Barbara
-5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl0000010	pl00002	pl	POSS	Barbara
-1	Więc	więc	SCONJ	comp	-	3	mark	-	so	COMP			pl0000011	pl00003	pl	DIRSP, DEO	Barbara
-2	co	co	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obj	-	what	-			pl0000012	pl00003	pl	DIRSP, DEO	Barbara
-3	mam	mieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	to have	IND.PRS.1.SG			pl0000013	pl00003	pl	DIRSP, DEO	Barbara
-4	robić	robić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	-	do				pl0000014	pl00003	pl	DIRSP, DEO	Barbara
-5	?	?	PUNCT	interp	PunctType=Qest	3	punct	-	?	-			pl0000015	pl00003	pl	DIRSP, DEO	Barbara
-1	Krwi	krew	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nsubj	-	blood	GEN.SG.F			pl0000016	pl00004	pl	OPTSP	Björn
-2	tyle	tyle	ADV	adv	-	0	root	-	so much	-			pl0000017	pl00004	pl	OPTSP	Björn
-3	,	,	PUNCT	interp	PunctType=Comm	7	punct	-	,	-			pl0000018	pl00004	pl	OPTSP	Björn
-4	że	że	SCONJ	comp	-	7	mark	-	that	COMP			pl0000019	pl00004	pl	OPTSP	Björn
-5	niech	niech	AUX	part	-	7	aux:imp	-	let	-			pl0000020	pl00004	pl	OPTSP	Björn
-6	Bóg	Bóg	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	-	God	-			pl0000021	pl00004	pl	OPTSP	Björn
-7	uchowa	uchować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	-	save	IND.PRS.3.SG			pl0000022	pl00004	pl	OPTSP	Björn
-8	!	!	PUNCT	interp	PunctType=Excl	2	punct	-	!	-			pl0000023	pl00004	pl	OPTSP	Björn
-1	Więźniowie	więzień	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	-	prisoner	NOM.PL.M		_omit_annotations_	pl0000024	pl00005	pl	REZI	Björn
-2	doprowadzani	doprowadzać	ADJ	ppas:pl:nom:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	acl	-	bring	NOM.PL.M		_omit_annotations_	pl0000025	pl00005	pl	REZI	Björn
-3	na	na	ADP	prep:acc	AdpType=Prep	4	case	-	on	-		_omit_annotations_	pl0000026	pl00005	pl	REZI	Björn
-4	msze	msza	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	2	obl:arg	-	mass	ACC.PL.F		_omit_annotations_	pl0000027	pl00005	pl	REZI	Björn
-5	przebywali	przebywać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	stay	IND.PST.PL.M		_omit_annotations_	pl0000028	pl00005	pl	REZI	Björn
-6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	-	in	-		_omit_annotations_	pl0000029	pl00005	pl	REZI	Björn
-7	takich	taki	DET	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	8	det	-	such	-		_omit_annotations_	pl0000030	pl00005	pl	REZI	Björn
-8	boksach	boks	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	-	box	LOC.PL.M		_omit_annotations_	pl0000031	pl00005	pl	REZI	Björn
-9	,	,	PUNCT	interp	PunctType=Comm	11	punct	-	,	-			pl0000032	pl00005	pl	REZI	Björn
-10	właściwie	właściwie	ADV	adv:pos	Degree=Pos	11	parataxis:insert	-	actually	-		_omit_annotations_	pl0000033	pl00005	pl	REZI	Björn
-11	klatkach	klatka	NOUN	subst:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur	8	conj	-	cage	LOC.PL.F		_omit_annotations_	pl0000034	pl00005	pl	REZI	Björn
-12	.	.	PUNCT	interp	PunctType=Peri	5	punct	-	.	-			pl0000035	pl00005	pl	REZI	Björn
-1	Nie	nie	PART	part	Polarity=Neg	2	advmod:neg	-	not	NEG			pl0000036	pl00005	pl	REZI	Björn
-2	widzieli	widzieć	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	see	IND.PST.PL.M			pl0000037	pl00005	pl	REZI	Björn
-3	siebie	siebie	PRON	siebie:gen	Case=Gen|PronType=Prs|Reflex=Yes	2	obj	-	myself	-			pl0000038	pl00005	pl	REZI	Björn
-4	nawzajem	nawzajem	ADV	adv	-	2	advmod	-	mutually	-			pl0000039	pl00005	pl	REZI	Björn
-5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl0000040	pl00005	pl	REZI	Björn
-1	Stoją	stać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	be	IND.PRS.3.PL			pl0000041	pl00006	pl	REZI	Björn
-2	obok	obok	ADP	prep:gen	AdpType=Prep	3	case	-	next to	-			pl0000042	pl00006	pl	REZI	Björn
-3	siebie	siebie	PRON	siebie:gen	Case=Gen|PronType=Prs|Reflex=Yes	1	obl	-	myself	-			pl0000043	pl00006	pl	REZI	Björn
-4	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl0000044	pl00006	pl	REZI	Björn
-5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	-	not	NEG			pl0000045	pl00006	pl	REZI	Björn
-6	widząc	widzieć	VERB	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	advcl	-	see	PRS			pl0000046	pl00006	pl	REZI	Björn
-7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	-	myself	-			pl0000047	pl00006	pl	REZI	Björn
-8	prawie	prawie	PART	part	-	6	advmod:emph	-	almost	-			pl0000048	pl00006	pl	REZI	Björn
-9	,	,	PUNCT	interp	PunctType=Comm	11	punct	-	,	-		_omit_annotations_	pl0000049	pl00006	pl	REZI	Björn
-10	i	i	CCONJ	conj	-	11	cc	-	and	-			pl0000050	pl00006	pl	REZI	Björn
-11	upływa	upływać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	-	elapse	IND.PRS.3.SG		_omit_annotations_	pl0000051	pl00006	pl	REZI	Björn
-12	bardzo	bardzo	ADV	adv:pos	Degree=Pos	13	advmod	-	very	-		_omit_annotations_	pl0000052	pl00006	pl	REZI	Björn
-13	długa	długi	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	-	long	NOM.SG.F		_omit_annotations_	pl0000053	pl00006	pl	REZI	Björn
-14	chwila	chwila	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	-	moment	NOM.SG.F		_omit_annotations_	pl0000054	pl00006	pl	REZI	Björn
-15	,	,	PUNCT	interp	PunctType=Comm	17	punct	-	,	-		_omit_annotations_	pl0000055	pl00006	pl	REZI	Björn
-16	zanim	zanim	SCONJ	comp	-	17	mark	-	before	COMP			pl0000056	pl00006	pl	REZI	Björn
-17	pada	padać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	-	rain	IND.PRS.3.SG		_omit_annotations_	pl0000057	pl00006	pl	REZI	Björn
-18	pierwsze	pierwszy	ADJ	adj:sg:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	-	first	ACC.SG		_omit_annotations_	pl0000058	pl00006	pl	REZI	Björn
-19	słowo	słowo	NOUN	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing	17	obj	-	word	ACC.SG		_omit_annotations_	pl0000059	pl00006	pl	REZI	Björn
-20	.	.	PUNCT	interp	PunctType=Peri	1	punct	-	.	-		_omit_annotations_	pl0000060	pl00006	pl	REZI	Björn
-1	Przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	case	-	by	-			pl0000061	pl00007	pl	REZI	Björn
-2	te	ten	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	4	det	-	this	-			pl0000062	pl00007	pl	REZI	Björn
-3	wszystkie	wszystek	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	4	det	-	everything	-			pl0000063	pl00007	pl	REZI	Björn
-4	lata	rok	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	-	year	ACC.PL.M			pl0000064	pl00007	pl	REZI	Björn
-5	widzieli	widzieć	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	see	IND.PST.PL.M			pl0000065	pl00007	pl	REZI	Björn
-6	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Plur|Person=1|Variant=Short	5	aux:clitic	-	to be	1.PL			pl0000066	pl00007	pl	REZI	Björn
-7	się	się	PRON	part	PronType=Prs|Reflex=Yes	5	expl:pv	-	myself	-			pl0000067	pl00007	pl	REZI	Björn
-8	zaledwie	zaledwie	PART	part	-	9	advmod:emph	-	just	-			pl0000068	pl00007	pl	REZI	Björn
-9	pięć	pięć	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|Number=Plur	10	nummod:gov	-	bake	-			pl0000069	pl00007	pl	REZI	Björn
-10	razy	raz	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	-	once	GEN.PL.M			pl0000070	pl00007	pl	REZI	Björn
-11	!	!	PUNCT	interp	PunctType=Excl	5	punct	-	!	-			pl0000071	pl00007	pl	REZI	Björn
-1	-	-	PUNCT	interp	PunctType=Dash	8	punct	-	-	-			pl0000072	pl00008	pl	ITR, ECH	Björn
-2	Co	co	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	-	what	-			pl0000073	pl00008	pl	ITR, ECH	Björn
-3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	-	myself	-			pl0000074	pl00008	pl	ITR, ECH	Björn
-4	czepiasz	czepiać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis:obj	-	pick on	IND.PRS.2.SG			pl0000075	pl00008	pl	ITR, ECH	Björn
-5	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl0000076	pl00008	pl	ITR, ECH	Björn
-6	kopana	kopać	ADJ	ppas:sg:nom:f:imperf:aff	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	conj	-	to dig	NOM.SG.F			pl0000077	pl00008	pl	ITR, ECH	Björn
-7	-	-	PUNCT	interp	PunctType=Dash	8	punct	-	-	-			pl0000078	pl00008	pl	ITR, ECH	Björn
-8	rzekł	rzec	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	say	PFV.IND.PST.SG.M			pl0000079	pl00008	pl	ITR, ECH	Björn
-9	pogardliwie	pogardliwie	ADV	adv:pos	Degree=Pos	8	advmod	-	contemptuously	-			pl0000080	pl00008	pl	ITR, ECH	Björn
-10	Polek	Polek	PROPN	subst:sg:nom:m1	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	-	Polish women	-			pl0000081	pl00008	pl	ITR, ECH	Björn
-11	.	.	PUNCT	interp	PunctType=Peri	8	punct	-	.	-			pl0000082	pl00008	pl	ITR, ECH	Björn
-1	-	-	PUNCT	interp	PunctType=Dash	4	punct	-	-	-			pl0000083	pl00008	pl	ITR, ECH	Björn
-2	Ja	ja	PRON	ppron12:sg:nom:m1:pri	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	-	i	-			pl0000084	pl00008	pl	ITR, ECH	Björn
-3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	-	myself	-			pl0000085	pl00008	pl	ITR, ECH	Björn
-4	czepiam	czepiać	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	pick on	IND.PRS.1.SG			pl0000086	pl00008	pl	ITR, ECH	Björn
-5	?	?	PUNCT	interp	PunctType=Qest	4	punct	-	?	-			pl0000087	pl00008	pl	ITR, ECH	Björn
-1	To	to	PART	part	-	2	advmod:emph	-	this	-		_omit_annotations_	pl0000088	pl00008	pl	ITR, ECH	Björn
-2	ty	ty	PRON	ppron12:sg:nom:m1:sec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	-	you	-		_omit_annotations_	pl0000089	pl00008	pl	ITR, ECH	Björn
-3	mnie	ja	PRON	ppron12:sg:acc:m1:pri:akc	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long	4	obj	-	i	-		_omit_annotations_	pl0000090	pl00008	pl	ITR, ECH	Björn
-4	popchnął	popchnąć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	push	PFV.IND.PST.SG.M			pl0000091	pl00008	pl	ITR, ECH	Björn
-5	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=2|Variant=Long	4	aux:clitic	-	to be	2.SG			pl0000092	pl00008	pl	ITR, ECH	Björn
-6	.	.	PUNCT	interp	PunctType=Peri	4	punct	-	.	-			pl0000093	pl00008	pl	ITR, ECH	Björn
-1	Chciał	chcieć	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	want	IND.PST.SG.M			pl0000094	pl00009	pl	GIVE, IMPP, ITR	Björn
-2	ją	on	PRON	ppron3:sg:acc:f:ter:akc:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	3	obj	-	he	-			pl0000095	pl00009	pl	GIVE, IMPP, ITR	Björn
-3	obrazić	obrazić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	-	offend	PFV			pl0000096	pl00009	pl	GIVE, IMPP, ITR	Björn
-4	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl0000097	pl00009	pl	GIVE, IMPP, ITR	Björn
-5	ale	ale	CCONJ	conj	-	6	cc	-	but	-			pl0000098	pl00009	pl	GIVE, IMPP, ITR	Björn
-6	ucieszyła	ucieszyć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	-	please	PFV.IND.PST.SG.F			pl0000099	pl00009	pl	GIVE, IMPP, ITR	Björn
-7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	-	myself	-			pl0000100	pl00009	pl	GIVE, IMPP, ITR	Björn
-8	,	,	PUNCT	interp	PunctType=Comm	9	punct	-	,	-			pl0000101	pl00009	pl	GIVE, IMPP, ITR	Björn
-9	przestała	przestać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	stop	PFV.IND.PST.SG.F			pl0000102	pl00009	pl	GIVE, IMPP, ITR	Björn
-10	kopać	kopać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	-	to dig				pl0000103	pl00009	pl	GIVE, IMPP, ITR	Björn
-11	i	i	CCONJ	conj	-	12	cc	-	and	-			pl0000104	pl00009	pl	GIVE, IMPP, ITR	Björn
-12	dała	dać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	to give	PFV.IND.PST.SG.F			pl0000105	pl00009	pl	GIVE, IMPP, ITR	Björn
-13	sobie	siebie	PRON	siebie:dat	Case=Dat|PronType=Prs|Reflex=Yes	14	expl:pv	-	myself	-			pl0000106	pl00009	pl	GIVE, IMPP, ITR	Björn
-14	zrobić	zrobić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	-	to do	PFV			pl0000107	pl00009	pl	GIVE, IMPP, ITR	Björn
-15	zastrzyk	zastrzyk	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	-	shot	ACC.SG.M			pl0000108	pl00009	pl	GIVE, IMPP, ITR	Björn
-16	uspokajający	uspokajający	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	-	soothing	ACC.SG.M			pl0000109	pl00009	pl	GIVE, IMPP, ITR	Björn
-17	.	.	PUNCT	interp	PunctType=Peri	1	punct	-	.	-			pl0000110	pl00009	pl	GIVE, IMPP, ITR	Björn
-1	Prace	praca	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	-	praca	NOM.PL.F			pl0000111	pl00010	pl	DOM	Imke
-2	nadesłane	nadesłać	ADJ	ppas:pl:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	acl	-	submit	NOM.PL.F			pl0000112	pl00010	pl	DOM	Imke
-3	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	case	-	by	-			pl0000113	pl00010	pl	DOM	Imke
-4	przedszkolaki	przedszkolak	NOUN	subst:pl:acc:n:col	Case=Acc|Gender=Neut|Number=Plur	2	obl:agent	-	preschooler	ACC.PL			pl0000114	pl00010	pl	DOM	Imke
-5	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl0000115	pl00010	pl	DOM	Imke
-6	uczniów	uczeń	NOUN	subst:pl:acc:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	4	conj	-	uczeń	GEN.PL.M			pl0000116	pl00010	pl	DOM	Imke
-7	i	i	CCONJ	conj	-	8	cc	-	i	-			pl0000117	pl00010	pl	DOM	Imke
-8	mieszkańców	mieszkaniec	NOUN	subst:pl:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur	4	conj	-	mieszkaniec	ACC.PL.M			pl0000118	pl00010	pl	DOM	Imke
-9	gminy	gmina	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	nmod	-	gmina	GEN.SG.F			pl0000119	pl00010	pl	DOM	Imke
-10	oceniało	oceniać	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	oceniać	IND.PST.SG			pl0000120	pl00010	pl	DOM	Imke
-11	jury	jury	NOUN	subst:pl:acc:n:ncol	Case=Acc|Gender=Neut|Number=Plur	10	obj	-	jury	ACC.PL			pl0000121	pl00010	pl	DOM	Imke
-12	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	13	case	-	w	-			pl0000122	pl00010	pl	DOM	Imke
-13	składzie	skład	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	-	skład	LOC.SG.M			pl0000123	pl00010	pl	DOM	Imke
-14	.	.	PUNCT	interp	PunctType=Peri	10	punct	-	.	-			pl0000124	pl00010	pl	DOM	Imke
-1	że	że	SCONJ	comp	-	4	mark	-	że	COMP			pl0000125	pl00011	pl	DSM	Imke
-2	dyżurne	dyżurny	ADJ	adj:pl:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	-	dyżurny	NOM.PL.F			pl0000126	pl00011	pl	DSM	Imke
-3	eksperty	ekspert	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	-	ekspert	NOM.PL.F			pl0000127	pl00011	pl	DSM	Imke
-4	wprowadziły	wprowadzić	VERB	praet:pl:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	wprowadzić	PFV.IND.PST.PL.F			pl0000128	pl00011	pl	DSM	Imke
-5	by	by	AUX	part	-	4	aux:cnd	-	by	-			pl0000129	pl00011	pl	DSM	Imke
-6	strach	strach	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	-	strach	ACC.SG.M			pl0000130	pl00011	pl	DSM	Imke
-7	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	-	w	-			pl0000131	pl00011	pl	DSM	Imke
-8	społeczeństwie	społeczeństwo	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	4	obl	-	społeczeństwo	LOC.SG			pl0000132	pl00011	pl	DSM	Imke
-9	.	.	PUNCT	interp	PunctType=Peri	4	punct	-	.	-			pl0000133	pl00011	pl	DSM	Imke
-1	зачем	зачем	ADV	-	Degree=Pos	4	advmod	-	зачем	-			ru0000001	ru00001	ru	DIRSP, UPER	Barbara
-2	мне	я	PRON	-	Case=Dat|Number=Sing|Person=1	4	iobj	-	я	-			ru0000002	ru00001	ru	DIRSP, UPER	Barbara
-3	это	это	PRON	-	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	-	это	-			ru0000003	ru00001	ru	DIRSP, UPER	Barbara
-4	делать	делать	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	-	делать				ru0000004	ru00001	ru	DIRSP, UPER	Barbara
-5	?	?	PUNCT	-	-	4	punct	-	?	-			ru0000005	ru00001	ru	DIRSP, UPER	Barbara
-1	Специалист	специалист	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	специалист	NOM.SG.M			ru0000006	ru00002	ru	AGRSEM	Barbara
-2	добавила	добавить	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	добавить	PFV.IND.PST.SG.F			ru0000007	ru00002	ru	AGRSEM	Barbara
-3	,	,	PUNCT	-	-	4	punct	-	,	-			ru0000008	ru00002	ru	AGRSEM	Barbara
-4	что	что	SCONJ	-	-	2	obj	-	что	-			ru0000009	ru00002	ru	AGRSEM	Barbara
-1	сама	сам	ADJ	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	obl	-	сам	NOM.SG.F			ru0000010	ru00003	ru	NOMPRED, AGRSEM	Barbara
-2	бы	бы	AUX	-	-	4	aux	-	бы	-			ru0000011	ru00003	ru	NOMPRED, AGRSEM	Barbara
-3	профессором	профессор	NOUN	-	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl	-	профессор	INS.SG.M			ru0000012	ru00003	ru	NOMPRED, AGRSEM	Barbara
-4	стала	стать	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	стать	PFV.IND.PST.SG.F			ru0000013	ru00003	ru	NOMPRED, AGRSEM	Barbara
-1	Семен	Семен	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Семен	-			ru0000014	ru00004	ru	DOM	Barbara
-2	обзвонил	обзвонить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	обзвонить	PFV.IND.PST.SG.M			ru0000015	ru00004	ru	DOM	Barbara
-3	городские	городской	ADJ	-	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	-	городской	ACC.PL			ru0000016	ru00004	ru	DOM	Barbara
-4	гостиницы	гостиница	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	-	гостиница	ACC.PL.F			ru0000017	ru00004	ru	DOM	Barbara
-5	,	,	PUNCT	-	-	13	punct	-	,	-			ru0000018	ru00004	ru	DOM	Barbara
-6	но	но	CCONJ	-	-	13	cc	-	но	-			ru0000019	ru00004	ru	DOM	Barbara
-7	ни	ни	CCONJ	-	-	8	cc	-	ни	-			ru0000020	ru00004	ru	DOM	Barbara
-8	Светланы	Светлана	PROPN	-	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	nsubj	-	Светлана	-			ru0000021	ru00004	ru	DOM	Barbara
-9	,	,	PUNCT	-	-	11	punct	-	,	-			ru0000022	ru00004	ru	DOM	Barbara
-10	ни	ни	CCONJ	-	-	11	cc	-	ни	-			ru0000023	ru00004	ru	DOM	Barbara
-11	Влада	Влад	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	conj	-	Влад	-			ru0000024	ru00004	ru	DOM	Barbara
-12	не	не	PART	-	-	13	advmod	-	не	-			ru0000025	ru00004	ru	DOM	Barbara
-13	нашел	найти	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	найти	PFV.IND.PST.SG.M			ru0000026	ru00004	ru	DOM	Barbara
-14	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000027	ru00004	ru	DOM	Barbara
-1	Я	я	PRON	-	Case=Nom|Number=Sing|Person=1	3	nsubj	-	я	-			ru0000028	ru00005	ru	DOM	Barbara
-2	не	не	PART	-	-	3	advmod	-	не	-			ru0000029	ru00005	ru	DOM	Barbara
-3	нашла	найти	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	найти	PFV.IND.PST.SG.F			ru0000030	ru00005	ru	DOM	Barbara
-4	маму	мама	NOUN	-	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	3	obj	-	мама	ACC.SG.F			ru0000031	ru00005	ru	DOM	Barbara
-5	с	с	ADP	-	-	6	case	-	с	-			ru0000032	ru00005	ru	DOM	Barbara
-6	сестренкой	сестренка	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	-	сестренка	INS.SG.F			ru0000033	ru00005	ru	DOM	Barbara
-7	,	,	PUNCT	-	-	8	punct	-	,	-			ru0000034	ru00005	ru	DOM	Barbara
-8	еду	еда	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	-	еда	ACC.SG.F			ru0000035	ru00005	ru	DOM	Barbara
-9	без	без	ADP	-	-	10	case	-	без	-			ru0000036	ru00005	ru	DOM	Barbara
-10	них	они	PRON	-	Case=Gen|Number=Plur|Person=3	8	orphan	-	они	-			ru0000037	ru00005	ru	DOM	Barbara
-11	.	.	PUNCT	-	-	3	punct	-	.	-			ru0000038	ru00005	ru	DOM	Barbara
-1	Сколько	сколько	NUM	-	-	2	nummod:gov	-	сколько	-			ru0000039	ru00006	ru	UPER, DIRSP, DEO	Barbara
-2	раз	раз	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	-	раз	GEN.PL.M			ru0000040	ru00006	ru	UPER, DIRSP, DEO	Barbara
-3	тебе	ты	PRON	-	Case=Dat|Number=Sing|Person=2	4	iobj	-	ты	-			ru0000041	ru00006	ru	UPER, DIRSP, DEO	Barbara
-4	говорить	говорить	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	-	говорить				ru0000042	ru00006	ru	UPER, DIRSP, DEO	Barbara
-5	?	?	PUNCT	-	-	4	punct	-	?	-			ru0000043	ru00006	ru	UPER, DIRSP, DEO	Barbara
-1	Тарелка	тарелка	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	тарелка	NOM.SG.F			ru0000044	ru00007	ru	ITR	Barbara
-2	выскользнула	выскользнуть	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	выскользнуть	PFV.IND.PST.SG.F			ru0000045	ru00007	ru	ITR	Barbara
-3	из	из	ADP	-	-	4	case	-	из	-			ru0000046	ru00007	ru	ITR	Barbara
-4	рук	рука	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	-	рука	GEN.PL.F			ru0000047	ru00007	ru	ITR	Barbara
-5	,	,	PUNCT	-	-	6	punct	-	,	-			ru0000048	ru00007	ru	ITR	Barbara
-6	разбилась	разбиться	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	-	разбиться	PFV.IND.PST.SG.F			ru0000049	ru00007	ru	ITR	Barbara
-1	Он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	-	он	-			ru0000050	ru00008	ru	ECH, IMPP, PSEK	Björn
-2	ее	ее	DET	-	-	3	det	-	ее	-			ru0000051	ru00008	ru	ECH, IMPP, PSEK	Björn
-3	руку	рука	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	-	рука	ACC.SG.F			ru0000052	ru00008	ru	ECH, IMPP, PSEK	Björn
-4	не	не	PART	-	-	5	advmod	-	не	-			ru0000053	ru00008	ru	ECH, IMPP, PSEK	Björn
-5	показывает	показывать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	показывать	IND.PRS.3.SG			ru0000054	ru00008	ru	ECH, IMPP, PSEK	Björn
-6	,	,	PUNCT	-	-	9	punct	-	,	-			ru0000055	ru00008	ru	ECH, IMPP, PSEK	Björn
-7	а	а	CCONJ	-	-	9	cc	-	а	-			ru0000056	ru00008	ru	ECH, IMPP, PSEK	Björn
-8	ты	ты	PRON	-	Case=Nom|Number=Sing|Person=2	9	nsubj	-	ты	-			ru0000057	ru00008	ru	ECH, IMPP, PSEK	Björn
-9	ухитрись	ухиться	VERB	-	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	5	conj	-	ухиться	IMP.2.SG			ru0000058	ru00008	ru	ECH, IMPP, PSEK	Björn
-10	и	и	CCONJ	-	-	11	cc	-	и	-			ru0000059	ru00008	ru	ECH, IMPP, PSEK	Björn
-11	посмотри	смотреть	VERB	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	conj	-	смотреть	PFV.IMP.2.SG			ru0000060	ru00008	ru	ECH, IMPP, PSEK	Björn
-12	.	.	PUNCT	-	-	5	punct	-	.	-			ru0000061	ru00008	ru	ECH, IMPP, PSEK	Björn
-1	Роль	роль	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	-	роль	NOM.SG.F		_omit_annotations_	ru0000062	ru00009	ru	APPR	Björn
-2	дружки	другок	NOUN	-	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	1	nmod	-	другок	GEN.SG.F		_omit_annotations_	ru0000063	ru00009	ru	APPR	Björn
-3	велика	большой	ADJ	-	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	-	большой	SG.F		_omit_annotations_	ru0000064	ru00009	ru	APPR	Björn
-4	:	:	PUNCT	-	-	6	punct	-	:	-			ru0000065	ru00009	ru	APPR	Björn
-5	он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	-	он	-			ru0000066	ru00009	ru	APPR	Björn
-6	отвечал	отвечать	VERB	-	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	-	отвечать	IND.PST.SG.M			ru0000067	ru00009	ru	APPR	Björn
-7	за	за	ADP	-	-	8	case	-	за	-			ru0000068	ru00009	ru	APPR	Björn
-8	коней	конь	NOUN	-	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obl	-	конь	ACC.PL.M			ru0000069	ru00009	ru	APPR	Björn
-9	и	и	CCONJ	-	-	10	cc	-	и	-			ru0000070	ru00009	ru	APPR	Björn
-10	следил	следить	VERB	-	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	следить	IND.PST.SG.M			ru0000071	ru00009	ru	APPR	Björn
-11	,	,	PUNCT	-	-	16	punct	-	,	-			ru0000072	ru00009	ru	APPR	Björn
-12	как	как	ADV	-	Degree=Pos	16	advmod	-	как	-			ru0000073	ru00009	ru	APPR	Björn
-13	бы	бы	AUX	-	-	16	aux	-	бы	-			ru0000074	ru00009	ru	APPR	Björn
-14	свадьбе	свадьба	NOUN	-	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	iobj	-	свадьба	DAT.SG.F			ru0000075	ru00009	ru	APPR	Björn
-15	не	не	PART	-	-	16	advmod	-	не	-			ru0000076	ru00009	ru	APPR	Björn
-16	повредили	повредить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	-	повредить	PFV.IND.PST.PL			ru0000077	ru00009	ru	APPR	Björn
-17	местные	местный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	18	amod	-	местный	NOM.PL			ru0000078	ru00009	ru	APPR	Björn
-18	колдуны	колдуна	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	-	колдуна	NOM.PL.M			ru0000079	ru00009	ru	APPR	Björn
-19	.	.	PUNCT	-	-	3	punct	-	.	-			ru0000080	ru00009	ru	APPR	Björn
-1	И	и	CCONJ	-	-	4	cc	-	и	-			ru0000081	ru00010	ru	APPR	Björn
-2	Володя	Володя	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	-	Володя	-			ru0000082	ru00010	ru	APPR	Björn
-3	однажды	однажды	ADV	-	Degree=Pos	4	advmod	-	однажды	-			ru0000083	ru00010	ru	APPR	Björn
-4	сказал	сказать	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	сказать	PFV.IND.PST.SG.M			ru0000084	ru00010	ru	APPR	Björn
-5	мне	я	PRON	-	Case=Dat|Number=Sing|Person=1	4	iobj	-	я	-			ru0000085	ru00010	ru	APPR	Björn
-6	,	,	PUNCT	-	-	9	punct	-	,	-			ru0000086	ru00010	ru	APPR	Björn
-7	что	что	SCONJ	-	-	9	mark	-	что	COMP			ru0000087	ru00010	ru	APPR	Björn
-8	там	там	ADV	-	Degree=Pos	9	advmod	-	там	-			ru0000088	ru00010	ru	APPR	Björn
-9	возникли	возникнуть	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	-	возникнуть	PFV.IND.PST.PL			ru0000089	ru00010	ru	APPR	Björn
-10	проблемы	проблема	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	-	проблема	NOM.PL.F			ru0000090	ru00010	ru	APPR	Björn
-11	,	,	PUNCT	-	-	13	punct	-	,	-			ru0000091	ru00010	ru	APPR	Björn
-12	и	и	CCONJ	-	-	13	cc	-	и	-			ru0000092	ru00010	ru	APPR	Björn
-13	обронил	обронить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	-	обронить	PFV.IND.PST.SG.M			ru0000093	ru00010	ru	APPR	Björn
-14	фразу	фраза	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	-	фраза	ACC.SG.F			ru0000094	ru00010	ru	APPR	Björn
-15	:	:	PUNCT	-	-	21	punct	-	:	-			ru0000095	ru00010	ru	APPR	Björn
-16	-	-	PUNCT	-	-	21	punct	-	-	-			ru0000096	ru00010	ru	APPR	Björn
-17	Как	как	ADV	-	Degree=Pos	21	advmod	-	как	-			ru0000097	ru00010	ru	APPR	Björn
-18	бы	бы	AUX	-	-	21	aux	-	бы	-			ru0000098	ru00010	ru	APPR	Björn
-19	меня	я	PRON	-	Case=Acc|Number=Sing|Person=1	21	obj	-	я	-			ru0000099	ru00010	ru	APPR	Björn
-20	не	не	PART	-	-	21	advmod	-	не	-			ru0000100	ru00010	ru	APPR	Björn
-21	убили	убить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	-	убить	PFV.IND.PST.PL			ru0000101	ru00010	ru	APPR	Björn
-22	-	-	PUNCT	-	-	21	punct	-	-	-			ru0000102	ru00010	ru	APPR	Björn
-23	.	.	PUNCT	-	-	4	punct	-	.	-			ru0000103	ru00010	ru	APPR	Björn
-1	И	и	CCONJ	-	-	3	cc	-	и	-			ru0000104	ru00011	ru	APPR	Björn
-2	парень	парень	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	-	парень	NOM.SG.M			ru0000105	ru00011	ru	APPR	Björn
-3	начал	начать	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	начать	PFV.IND.PST.SG.M			ru0000106	ru00011	ru	APPR	Björn
-4	опасаться	опасаться	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	-	опасаться				ru0000107	ru00011	ru	APPR	Björn
-5	,	,	PUNCT	-	-	11	punct	-	,	-			ru0000108	ru00011	ru	APPR	Björn
-6	как	как	ADV	-	Degree=Pos	11	advmod	-	как	-			ru0000109	ru00011	ru	APPR	Björn
-7	бы	бы	AUX	-	-	11	aux	-	бы	-			ru0000110	ru00011	ru	APPR	Björn
-8	его	его	DET	-	-	9	det	-	его	-			ru0000111	ru00011	ru	APPR	Björn
-9	неуверенности	неуверенность	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	-	неуверенность	GEN.SG.F			ru0000112	ru00011	ru	APPR	Björn
-10	не	не	PART	-	-	11	advmod	-	не	-			ru0000113	ru00011	ru	APPR	Björn
-11	заметили	заметить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	-	заметить	PFV.IND.PST.PL			ru0000114	ru00011	ru	APPR	Björn
-12	остальные	остальной	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	11	nsubj	-	остальной	NOM.PL			ru0000115	ru00011	ru	APPR	Björn
-13	.	.	PUNCT	-	-	3	punct	-	.	-			ru0000116	ru00011	ru	APPR	Björn
-1	Она	она	PRON	-	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	-	она	-			ru0000117	ru00012	ru	APPR	Björn
-2	вылезла	вылезть	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	вылезть	PFV.IND.PST.SG.F			ru0000118	ru00012	ru	APPR	Björn
-3	из	из	ADP	-	-	4	case	-	из	-			ru0000119	ru00012	ru	APPR	Björn
-4	воды	вода	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	-	вода	GEN.SG.F			ru0000120	ru00012	ru	APPR	Björn
-5	и	и	CCONJ	-	-	6	cc	-	и	-			ru0000121	ru00012	ru	APPR	Björn
-6	сказала	сказать	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	сказать	PFV.IND.PST.SG.F			ru0000122	ru00012	ru	APPR	Björn
-7	:	:	PUNCT	-	-	12	punct	-	:	-			ru0000123	ru00012	ru	APPR	Björn
-8	-	-	PUNCT	-	-	12	punct	-	-	-			ru0000124	ru00012	ru	APPR	Björn
-9	Ах	ах	INTJ	-	-	12	parataxis	-	ах	-			ru0000125	ru00012	ru	APPR	Björn
-10	,	,	PUNCT	-	-	9	punct	-	,	-			ru0000126	ru00012	ru	APPR	Björn
-11	как	как	ADV	-	Degree=Pos	12	obl	-	как	-			ru0000127	ru00012	ru	APPR	Björn
-12	хорошо	хороший	ADJ	-	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	parataxis	-	хороший	SG			ru0000128	ru00012	ru	APPR	Björn
-13	!	!	PUNCT	-	-	12	punct	-	!	-			ru0000129	ru00012	ru	APPR	Björn
-14	-	-	PUNCT	-	-	20	punct	-	-	-			ru0000130	ru00012	ru	APPR	Björn
-15	-	-	PUNCT	-	-	20	punct	-	-	-			ru0000131	ru00012	ru	APPR	Björn
-16	лишь	лишь	PART	-	-	20	advmod	-	лишь	-			ru0000132	ru00012	ru	APPR	Björn
-17	бы	бы	AUX	-	-	20	aux	-	бы	-			ru0000133	ru00012	ru	APPR	Björn
-18	никто	никто	PRON	-	Case=Nom	20	nsubj	-	никто	-			ru0000134	ru00012	ru	APPR	Björn
-19	не	не	PART	-	-	20	advmod	-	не	-			ru0000135	ru00012	ru	APPR	Björn
-20	увидел	видеть	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	видеть	PFV.IND.PST.SG.M			ru0000136	ru00012	ru	APPR	Björn
-21	,	,	PUNCT	-	-	24	punct	-	,	-			ru0000137	ru00012	ru	APPR	Björn
-22	как	как	SCONJ	-	-	24	mark	-	как	COMP			ru0000138	ru00012	ru	APPR	Björn
-23	ей	она	PRON	-	Case=Dat|Gender=Fem|Number=Sing|Person=3	24	iobj	-	она	-			ru0000139	ru00012	ru	APPR	Björn
-24	больно	больно	ADV	-	Degree=Pos	20	ccomp	-	больно	-			ru0000140	ru00012	ru	APPR	Björn
-25	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000141	ru00012	ru	APPR	Björn
-1	После	после	ADP	-	-	2	case	-	после	-		_omit_annotations_	ru0000142	ru00013	ru	REZI	Björn
-2	скручивания	скручивание	NOUN	-	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	-	скручивание	GEN.SG		_omit_annotations_	ru0000143	ru00013	ru	REZI	Björn
-3	шаль	шаль	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	-	шаль	ACC.SG.F		_omit_annotations_	ru0000144	ru00013	ru	REZI	Björn
-4	и	и	CCONJ	-	-	5	cc	-	и	-		_omit_annotations_	ru0000145	ru00013	ru	REZI	Björn
-5	скатерть	скатерть	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	-	скатерть	ACC.SG.F		_omit_annotations_	ru0000146	ru00013	ru	REZI	Björn
-6	убирали	убирать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	убирать	IND.PST.PL		_omit_annotations_	ru0000147	ru00013	ru	REZI	Björn
-7	,	,	PUNCT	-	-	14	punct	-	,	-			ru0000148	ru00013	ru	REZI	Björn
-8	и	и	CCONJ	-	-	14	cc	-	и	-		_omit_annotations_	ru0000149	ru00013	ru	REZI	Björn
-9	новобрачные	новобрачный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	14	nsubj	-	новобрачный	NOM.PL			ru0000150	ru00013	ru	REZI	Björn
-10	на	на	ADP	-	-	11	case	-	на	-			ru0000151	ru00013	ru	REZI	Björn
-11	глазах	глаз	NOUN	-	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	obl	-	глаз	LOC.PL.M			ru0000152	ru00013	ru	REZI	Björn
-12	у	у	ADP	-	-	13	case	-	у	-			ru0000153	ru00013	ru	REZI	Björn
-13	всех	все	PRON	-	Animacy=Anim|Case=Gen|Number=Plur	14	obl	-	все	-			ru0000154	ru00013	ru	REZI	Björn
-14	целовались	целоваться	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	-	целоваться	IND.PST.PL			ru0000155	ru00013	ru	REZI	Björn
-15	(	(	PUNCT	-	-	16	punct	-	(	-			ru0000156	ru00013	ru	REZI	Björn
-16	молодились	молодиться	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	14	parataxis	-	молодиться	IND.PST.PL			ru0000157	ru00013	ru	REZI	Björn
-17	)	)	PUNCT	-	-	16	punct	-	)	-			ru0000158	ru00013	ru	REZI	Björn
-18	.	.	PUNCT	-	-	6	punct	-	.	-			ru0000159	ru00013	ru	REZI	Björn
-1	Надя	Надя	NOUN	-	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	надя	NOM.SG.F			ru0000160	ru00014	ru	REZI	Björn
-2	целовалась	целоваться	VERB	-	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	целоваться	IND.PST.SG.F			ru0000161	ru00014	ru	REZI	Björn
-3	с	с	ADP	-	-	4	case	-	с	-			ru0000162	ru00014	ru	REZI	Björn
-4	военным	военный	NOUN	-	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	-	военный	INS.SG.M			ru0000163	ru00014	ru	REZI	Björn
-5	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000164	ru00014	ru	REZI	Björn
-1	Андрей	Андрей	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Андрей	-			ru0000165	ru00015	ru	PSEK	Imke
-2	изловчился	изловчиться	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	изловчиться	PFV.IND.PST.SG.M			ru0000166	ru00015	ru	PSEK	Imke
-3	и	и	CCONJ	-	-	7	cc	-	и	-			ru0000167	ru00015	ru	PSEK	Imke
-4	с	с	ADP	-	-	6	case	-	с	-			ru0000168	ru00015	ru	PSEK	Imke
-5	третьей	третий	ADJ	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	-	третий	GEN.SG.F			ru0000169	ru00015	ru	PSEK	Imke
-6	попытки	попытка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	-	попытка	GEN.SG.F			ru0000170	ru00015	ru	PSEK	Imke
-7	разбил	разбить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	разбить	PFV.IND.PST.SG.M			ru0000171	ru00015	ru	PSEK	Imke
-8	камнем	камень	NOUN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	-	камень	INS.SG.M			ru0000172	ru00015	ru	PSEK	Imke
-9	лампу	лампа	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	-	лампа	ACC.SG.F			ru0000173	ru00015	ru	PSEK	Imke
-10	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000174	ru00015	ru	PSEK	Imke
-1	Как	как	ADV	-	Degree=Pos	5	advmod	-	как	-			ru0000175	ru00016	ru	PSEK	Imke
-2	-	-	PUNCT	-	-	3	punct	-	-	-			ru0000176	ru00016	ru	PSEK	Imke
-3	то	то	PART	-	-	1	discourse	-	то	-			ru0000177	ru00016	ru	PSEK	Imke
-4	я	я	PRON	-	Case=Nom|Number=Sing|Person=1	5	nsubj	-	я	-			ru0000178	ru00016	ru	PSEK	Imke
-5	сумел	уметь	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	уметь	PFV.IND.PST.SG.M			ru0000179	ru00016	ru	PSEK	Imke
-6	изловчиться	изловчиться	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Mid	5	xcomp	-	изловчиться	PFV			ru0000180	ru00016	ru	PSEK	Imke
-7	и	и	CCONJ	-	-	8	cc	-	и	-			ru0000181	ru00016	ru	PSEK	Imke
-8	ударить	ударить	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	-	ударить	PFV			ru0000182	ru00016	ru	PSEK	Imke
-9	её	ее	DET	-	-	10	det	-	ее	-			ru0000183	ru00016	ru	PSEK	Imke
-10	головой	голова	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	-	голова	INS.SG.F			ru0000184	ru00016	ru	PSEK	Imke
-11	в	в	ADP	-	-	13	case	-	в	-			ru0000185	ru00016	ru	PSEK	Imke
-12	нижнюю	нижний	ADJ	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	-	нижний	ACC.SG.F			ru0000186	ru00016	ru	PSEK	Imke
-13	челюсть	челюсть	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	8	obl	-	челюсть	ACC.SG.F			ru0000187	ru00016	ru	PSEK	Imke
-14	.	.	PUNCT	-	-	5	punct	-	.	-			ru0000188	ru00016	ru	PSEK	Imke
-1	Якобы	якобы	ADV	-	Degree=Pos	2	obl	-	якобы	-			ru0000189	ru00017	ru	SPEC, INDEFIN	Imke
-2	трейлеры	трейлер	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	-	трейлер	NOM.PL.M			ru0000190	ru00017	ru	SPEC, INDEFIN	Imke
-3	с	с	ADP	-	-	4	case	-	с	-			ru0000191	ru00017	ru	SPEC, INDEFIN	Imke
-4	аппаратурой	аппаратура	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	nmod	-	аппаратура	INS.SG.F			ru0000192	ru00017	ru	SPEC, INDEFIN	Imke
-5	застряли	застрять	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	застрять	PFV.IND.PST.PL			ru0000193	ru00017	ru	SPEC, INDEFIN	Imke
-6	где-то	где-то	ADV	-	Degree=Pos	5	advmod	-	где-то	-			ru0000194	ru00017	ru	SPEC, INDEFIN	Imke
-7	под	под	ADP	-	-	9	case	-	под	-			ru0000195	ru00017	ru	SPEC, INDEFIN	Imke
-8	Нижним	нижний	ADJ	-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	-	нижний	INS.SG.M			ru0000196	ru00017	ru	SPEC, INDEFIN	Imke
-9	Новгородом	Новгород	PROPN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	-	Новгород	-			ru0000197	ru00017	ru	SPEC, INDEFIN	Imke
-10	.	.	PUNCT	-	-	5	punct	-	.	-			ru0000198	ru00017	ru	SPEC, INDEFIN	Imke
-1	Похоже	похоже	ADV	-	Degree=Pos	7	parataxis	-	похоже	-			ru0000199	ru00018	ru	SPEC, INDEFIN	Imke
-2	,	,	PUNCT	-	-	1	punct	-	,	-			ru0000200	ru00018	ru	SPEC, INDEFIN	Imke
-3	у	у	ADP	-	-	4	case	-	у	-			ru0000201	ru00018	ru	SPEC, INDEFIN	Imke
-4	организаторов	организатор	NOUN	-	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	-	организатор	GEN.PL.M			ru0000202	ru00018	ru	SPEC, INDEFIN	Imke
-5	что-то	что-то	PRON	-	Case=Nom	7	nsubj	-	что-то	-			ru0000203	ru00018	ru	SPEC, INDEFIN	Imke
-6	не	не	PART	-	-	7	advmod	-	не	-			ru0000204	ru00018	ru	SPEC, INDEFIN	Imke
-7	заладилось	заладиться	VERB	-	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	заладиться	PFV.IND.PST.SG			ru0000205	ru00018	ru	SPEC, INDEFIN	Imke
-8	с	с	ADP	-	-	9	case	-	с	-			ru0000206	ru00018	ru	SPEC, INDEFIN	Imke
-9	рекламой	реклама	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	-	реклама	INS.SG.F			ru0000207	ru00018	ru	SPEC, INDEFIN	Imke
-10	форума	форум	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	-	форум	GEN.SG.M			ru0000208	ru00018	ru	SPEC, INDEFIN	Imke
-11	.	.	PUNCT	-	-	7	punct	-	.	-			ru0000209	ru00018	ru	SPEC, INDEFIN	Imke
-1	Но	но	CCONJ	-	-	10	cc	-	но	-			ru0000210	ru00019	ru	SPEC, INDEFIN	Imke
-2	с	с	ADP	-	-	3	case	-	с	-			ru0000211	ru00019	ru	SPEC, INDEFIN	Imke
-3	приходом	приход	NOUN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	-	приход	INS.SG.M			ru0000212	ru00019	ru	SPEC, INDEFIN	Imke
-4	зимы	зима	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	-	зима	GEN.SG.F			ru0000213	ru00019	ru	SPEC, INDEFIN	Imke
-5	как	как	ADV	-	Degree=Pos	10	advmod	-	как	-			ru0000214	ru00019	ru	SPEC, INDEFIN	Imke
-6	будто	будто	PART	-	-	5	fixed	-	будто	-			ru0000215	ru00019	ru	SPEC, INDEFIN	Imke
-7	что-то	что-то	PRON	-	Case=Nom	10	nsubj	-	что-то	-			ru0000216	ru00019	ru	SPEC, INDEFIN	Imke
-8	с	с	ADP	-	-	9	case	-	с	-			ru0000217	ru00019	ru	SPEC, INDEFIN	Imke
-9	ними	они	PRON	-	Case=Ins|Number=Plur|Person=3	7	nmod	-	они	-			ru0000218	ru00019	ru	SPEC, INDEFIN	Imke
-10	происходит	происходить	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	происходить	IND.PRS.3.SG			ru0000219	ru00019	ru	SPEC, INDEFIN	Imke
-11	.	.	PUNCT	-	-	10	punct	-	.	-			ru0000220	ru00019	ru	SPEC, INDEFIN	Imke
-1	Здоровались	здороваться	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	здороваться	PFV.IND.PST.PL		_omit_annotations_	ru0000221	ru00020	ru	NSPEC, INDEFIN	Imke
-2	.	.	PUNCT	-	-	1	punct	-	.	-			ru0000222	ru00020	ru	NSPEC, INDEFIN	Imke
-1	Наверное	наверное	ADV	-	Degree=Pos	3	parataxis	-	наверное	-			ru0000223	ru00020	ru	NSPEC, INDEFIN	Imke
-2	,	,	PUNCT	-	-	1	punct	-	,	-			ru0000224	ru00020	ru	NSPEC, INDEFIN	Imke
-3	считали	считать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	считать	IND.PST.PL			ru0000225	ru00020	ru	NSPEC, INDEFIN	Imke
-4	меня	я	PRON	-	Case=Acc|Number=Sing|Person=1	3	obj	-	я	-			ru0000226	ru00020	ru	NSPEC, INDEFIN	Imke
-5	своей	свой	DET	-	Case=Ins|Gender=Fem|Number=Sing	3	det	-	свой	-			ru0000227	ru00020	ru	NSPEC, INDEFIN	Imke
-6	,	,	PUNCT	-	-	9	punct	-	,	-			ru0000228	ru00020	ru	NSPEC, INDEFIN	Imke
-7	особо	особо	ADV	-	Degree=Pos	8	advmod	-	особо	-			ru0000229	ru00020	ru	NSPEC, INDEFIN	Imke
-8	не	не	PART	-	-	9	advmod	-	не	-			ru0000230	ru00020	ru	NSPEC, INDEFIN	Imke
-9	задумываясь	задумываться	VERB	-	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	3	advcl	-	задумываться	PRS			ru0000231	ru00020	ru	NSPEC, INDEFIN	Imke
-10	,	,	PUNCT	-	-	11	punct	-	,	-			ru0000232	ru00020	ru	NSPEC, INDEFIN	Imke
-11	мол	мол	ADV	-	Degree=Pos	9	parataxis	-	мол	-			ru0000233	ru00020	ru	NSPEC, INDEFIN	Imke
-12	,	,	PUNCT	-	-	11	punct	-	,	-			ru0000234	ru00020	ru	NSPEC, INDEFIN	Imke
-13	я	я	PRON	-	Case=Nom|Number=Sing|Person=1	14	nsubj	-	я	-			ru0000235	ru00020	ru	NSPEC, INDEFIN	Imke
-14	здесь	здесь	ADV	-	Degree=Pos	16	advmod	-	здесь	-			ru0000236	ru00020	ru	NSPEC, INDEFIN	Imke
-15	с	с	ADP	-	-	16	case	-	с	-			ru0000237	ru00020	ru	NSPEC, INDEFIN	Imke
-16	кем-нибудь	кто-нибудь	PRON	-	Case=Ins	9	obl	-	кто-нибудь	-			ru0000238	ru00020	ru	NSPEC, INDEFIN	Imke
-17	.	.	PUNCT	-	-	3	punct	-	.	-			ru0000239	ru00020	ru	NSPEC, INDEFIN	Imke
-1	Наверно	наверно	ADV	-	Degree=Pos	6	parataxis	-	наверно	-			ru0000240	ru00021	ru	EPIST, INDEFIN	Imke
-2	,	,	PUNCT	-	-	1	punct	-	,	-			ru0000241	ru00021	ru	EPIST, INDEFIN	Imke
-3	и	и	PART	-	-	5	advmod	-	и	-			ru0000242	ru00021	ru	EPIST, INDEFIN	Imke
-4	у	у	ADP	-	-	5	case	-	у	-			ru0000243	ru00021	ru	EPIST, INDEFIN	Imke
-5	него	он	PRON	-	Case=Gen|Gender=Masc|Number=Sing|Person=3	6	obl	-	он	-			ru0000244	ru00021	ru	EPIST, INDEFIN	Imke
-6	была	быть	AUX	-	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	быть	IND.PST.SG.F			ru0000245	ru00021	ru	EPIST, INDEFIN	Imke
-7	какая-то	какой-то	DET	-	Case=Nom|Gender=Fem|Number=Sing	8	det	-	какой-то	-			ru0000246	ru00021	ru	EPIST, INDEFIN	Imke
-8	неудача	неудача	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	-	неудача	NOM.SG.F			ru0000247	ru00021	ru	EPIST, INDEFIN	Imke
-9	в	в	ADP	-	-	11	case	-	в	-			ru0000248	ru00021	ru	EPIST, INDEFIN	Imke
-10	личной	личный	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	-	личный	LOC.SG.F			ru0000249	ru00021	ru	EPIST, INDEFIN	Imke
-11	жизни	жизнь	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	-	жизнь	LOC.SG.F			ru0000250	ru00021	ru	EPIST, INDEFIN	Imke
-12	.	.	PUNCT	-	-	6	punct	-	.	-			ru0000251	ru00021	ru	EPIST, INDEFIN	Imke
-1	—	—	PUNCT	-	-	0	root	-	—	-			ru0000252	ru00022	ru	EPIST, INDEFIN	Imke
-1	Знаешь	знать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	-	знать	IND.PRS.2.SG			ru0000253	ru00022	ru	EPIST, INDEFIN	Imke
-2	,	,	PUNCT	-	-	1	punct	-	,	-			ru0000254	ru00022	ru	EPIST, INDEFIN	Imke
-3	наверно	наверно	ADV	-	Degree=Pos	9	parataxis	-	наверно	-			ru0000255	ru00022	ru	EPIST, INDEFIN	Imke
-4	,	,	PUNCT	-	-	3	punct	-	,	-			ru0000256	ru00022	ru	EPIST, INDEFIN	Imke
-5	кто-нибудь	кто-нибудь	PRON	-	Case=Nom	9	nsubj	-	кто-нибудь	-			ru0000257	ru00022	ru	EPIST, INDEFIN	Imke
-6	из	из	ADP	-	-	8	case	-	из	-			ru0000258	ru00022	ru	EPIST, INDEFIN	Imke
-7	наших	наш	DET	-	Case=Gen|Number=Plur	8	det	-	наш	-			ru0000259	ru00022	ru	EPIST, INDEFIN	Imke
-8	приятелей	приятель	NOUN	-	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	-	приятель	GEN.PL.M			ru0000260	ru00022	ru	EPIST, INDEFIN	Imke
-9	зашел	зайти	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	зайти	PFV.IND.PST.SG.M			ru0000261	ru00022	ru	EPIST, INDEFIN	Imke
-10	,	,	PUNCT	-	-	14	punct	-	,	-			ru0000262	ru00022	ru	EPIST, INDEFIN	Imke
-11	когда	когда	SCONJ	-	-	14	mark	-	когда	COMP			ru0000263	ru00022	ru	EPIST, INDEFIN	Imke
-12	нас	мы	PRON	-	Case=Acc|Number=Plur|Person=1	14	nsubj	-	мы	-			ru0000264	ru00022	ru	EPIST, INDEFIN	Imke
-13	не	не	PART	-	-	14	advmod	-	не	-			ru0000265	ru00022	ru	EPIST, INDEFIN	Imke
-14	было	быть	VERB	-	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	-	быть	IND.PST.SG			ru0000266	ru00022	ru	EPIST, INDEFIN	Imke
-15	.	.	PUNCT	-	-	9	punct	-	.	-			ru0000267	ru00022	ru	EPIST, INDEFIN	Imke
-1	давати	давать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	давать	IND.PRS.2.SG			ru0000268	ru00023	ru	DOM	Imke
-2	ми	ми	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	obj	-	ми	NOM.SG.M			ru0000269	ru00023	ru	DOM	Imke
-3	доци	доца	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	-	доца	NOM.SG.M			ru0000270	ru00023	ru	DOM	Imke
-4	.	.	PUNCT	-	-	1	punct	-	.	-			ru0000271	ru00023	ru	DOM	Imke
-1	ино	ино	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	ино	ACC.SG.M			ru0000272	ru00024	ru	DOM	Imke
-2	достоит	достоять	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	достоять	IND.PRS.3.SG			ru0000273	ru00024	ru	DOM	Imke
-3	мужу	муж	NOUN	-	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	-	муж	DAT.SG.M			ru0000274	ru00024	ru	DOM	Imke
-4	жена	жена	NOUN	-	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	жена	NOM.SG.F			ru0000275	ru00024	ru	DOM	Imke
-5	своя	свой	DET	-	Case=Nom|Gender=Fem|Number=Sing	4	det	-	свой	-			ru0000276	ru00024	ru	DOM	Imke
-6	наказывати	наказывать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	-	наказывать	IND.PRS.3.SG			ru0000277	ru00024	ru	DOM	Imke
-7	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000278	ru00024	ru	DOM	Imke
-1	и	и	CCONJ	-	-	2	cc	-	и	-			ru0000279	ru00025	ru	DOM	Imke
-2	онъ	онить	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	-	онить	IND.2.SG			ru0000280	ru00025	ru	DOM	Imke
-3	гдѣ	гдѣ	PUNCT	-	-	4	punct	-	гдѣ	-			ru0000281	ru00025	ru	DOM	Imke
-4	слышавъ	слышать	VERB	-	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	-	слышать	PFV.PST			ru0000282	ru00025	ru	DOM	Imke
-5	вражду	вражда	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	-	вражда	ACC.SG.F			ru0000283	ru00025	ru	DOM	Imke
-6	-	-	PUNCT	-	-	9	punct	-	-	-			ru0000284	ru00025	ru	DOM	Imke
-7	-	-	PUNCT	-	-	9	punct	-	-	-			ru0000285	ru00025	ru	DOM	Imke
-8	любовь	любовь	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	-	любовь	ACC.SG.F			ru0000286	ru00025	ru	DOM	Imke
-9	скажеть	скажеть	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	-	скажеть	PFV			ru0000287	ru00025	ru	DOM	Imke
-10	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000288	ru00025	ru	DOM	Imke
-1	не	не	PART	-	-	2	advmod	-	не	-			ru0000289	ru00026	ru	RS	Imke
-2	жаль	жаль	ADV	-	Degree=Pos	0	root	-	жаль	-			ru0000290	ru00026	ru	RS	Imke
-3	таких	такой	DET	-	Case=Gen|Number=Plur	2	nsubj	-	такой	-			ru0000291	ru00026	ru	RS	Imke
-4	вот	вот	PART	-	-	3	advmod	-	вот	-			ru0000292	ru00026	ru	RS	Imke
-5	или	или	CCONJ	-	-	6	cc	-	или	-			ru0000293	ru00026	ru	RS	Imke
-6	немного	немного	ADV	-	Degree=Pos	7	obl	-	немного	-			ru0000294	ru00026	ru	RS	Imke
-7	постарше	старший	ADJ	-	Degree=Cmp	2	obl	-	старший				ru0000295	ru00026	ru	RS	Imke
-8	парнишек	парнишка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	-	парнишка	GEN.PL.M			ru0000296	ru00026	ru	RS	Imke
-9	,	,	PUNCT	-	-	12	punct	-	,	-			ru0000297	ru00026	ru	RS	Imke
-10	что	что	SCONJ	-	-	12	mark	-	что	COMP			ru0000298	ru00026	ru	RS	Imke
-11	тысячами	тысяча	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	-	тысяча	INS.PL.F			ru0000299	ru00026	ru	RS	Imke
-12	бросают	бросать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	-	бросать	IND.PRS.3.PL			ru0000300	ru00026	ru	RS	Imke
-13	в	в	ADP	-	-	14	case	-	в	-			ru0000301	ru00026	ru	RS	Imke
-14	бой	бой	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	-	бой	ACC.SG.M			ru0000302	ru00026	ru	RS	Imke
-15	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000303	ru00026	ru	RS	Imke
-1	Занятия	занятие	NOUN	-	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	-	занятие	NOM.PL			ru0000304	ru00027	ru	XYZ	Sandra
-2	в	в	ADP	-	-	4	case	-	в	-			ru0000305	ru00027	ru	XYZ	Sandra
-3	летней	летний	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	-	летний	LOC.SG.F			ru0000306	ru00027	ru	XYZ	Sandra
-4	школе	школа	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	-	школа	LOC.SG.F			ru0000307	ru00027	ru	XYZ	Sandra
-5	проходят	проходить	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	проходить	IND.PRS.3.PL			ru0000308	ru00027	ru	XYZ	Sandra
-6	в	в	ADP	-	-	8	case	-	в	-			ru0000309	ru00027	ru	XYZ	Sandra
-7	первой	первый	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	-	первый	LOC.SG.F			ru0000310	ru00027	ru	XYZ	Sandra
-8	половине	половина	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	-	половина	LOC.SG.F			ru0000311	ru00027	ru	XYZ	Sandra
-9	дня	день	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	-	день	GEN.SG.M			ru0000312	ru00027	ru	XYZ	Sandra
-10	,	,	PUNCT	-	-	12	punct	-	,	-			ru0000313	ru00027	ru	XYZ	Sandra
-11	с	с	ADP	-	-	12	case	-	с	-			ru0000314	ru00027	ru	XYZ	Sandra
-12	9	9	NUM	-	-	8	conj	-	9	-			ru0000315	ru00027	ru	XYZ	Sandra
-13	утра	утро	NOUN	-	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	flat	-	утро	GEN.SG			ru0000316	ru00027	ru	XYZ	Sandra
-14	до	до	ADP	-	-	15	case	-	до	-			ru0000317	ru00027	ru	XYZ	Sandra
-15	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	-	час	GEN.SG.M			ru0000318	ru00027	ru	XYZ	Sandra
-16	дня	день	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	-	день	GEN.SG.M			ru0000319	ru00027	ru	XYZ	Sandra
-17	.	.	PUNCT	-	-	5	punct	-	.	-			ru0000320	ru00027	ru	XYZ	Sandra
-1	Прошло	пройти	VERB	-	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	пройти	PFV.IND.PST.SG			ru0000321	ru00028	ru	XYZ	Sandra
-2	около	около	ADP	-	-	3	case	-	около	-			ru0000322	ru00028	ru	XYZ	Sandra
-3	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nsubj	-	час	GEN.SG.M			ru0000323	ru00028	ru	XYZ	Sandra
-4	,	,	PUNCT	-	-	7	punct	-	,	-			ru0000324	ru00028	ru	XYZ	Sandra
-5	если	если	SCONJ	-	-	7	mark	-	если	COMP			ru0000325	ru00028	ru	XYZ	Sandra
-6	не	не	PART	-	-	7	advmod	-	не	-			ru0000326	ru00028	ru	XYZ	Sandra
-7	больше	больше	ADV	-	Degree=Cmp	1	advcl	-	больше	-			ru0000327	ru00028	ru	XYZ	Sandra
-8	.	.	PUNCT	-	-	1	punct	-	.	-			ru0000328	ru00028	ru	XYZ	Sandra
-1	Он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	-	он	-			ru0000329	ru00029	ru	XYZ	Sandra
-2	по	по	ADP	-	-	3	case	-	по	-			ru0000330	ru00029	ru	XYZ	Sandra
-3	опыту	опыт	NOUN	-	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	-	опыт	DAT.SG.M			ru0000331	ru00029	ru	XYZ	Sandra
-4	знает	знать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	знать	IND.PRS.3.SG			ru0000332	ru00029	ru	XYZ	Sandra
-5	,	,	PUNCT	-	-	7	punct	-	,	-			ru0000333	ru00029	ru	XYZ	Sandra
-6	как	как	ADV	-	Degree=Pos	7	advmod	-	как	-			ru0000334	ru00029	ru	XYZ	Sandra
-7	болят	болеть	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	-	болеть	IND.PRS.3.PL			ru0000335	ru00029	ru	XYZ	Sandra
-8	нетренированные	нетренированный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	9	amod	-	нетренированный	NOM.PL			ru0000336	ru00029	ru	XYZ	Sandra
-9	мышцы	мышца	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	-	мышца	NOM.PL.F			ru0000337	ru00029	ru	XYZ	Sandra
-10	даже	даже	PART	-	-	12	advmod	-	даже	-			ru0000338	ru00029	ru	XYZ	Sandra
-11	после	после	ADP	-	-	12	case	-	после	-			ru0000339	ru00029	ru	XYZ	Sandra
-12	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	-	час	GEN.SG.M			ru0000340	ru00029	ru	XYZ	Sandra
-13	лыжной	лыжный	ADJ	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	-	лыжный	GEN.SG.F			ru0000341	ru00029	ru	XYZ	Sandra
-14	прогулки	прогулка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	-	прогулка	GEN.SG.F			ru0000342	ru00029	ru	XYZ	Sandra
-15	.	.	PUNCT	-	-	4	punct	-	.	-			ru0000343	ru00029	ru	XYZ	Sandra
-1	Не	не	PART	-	-	2	advmod	-	не	-			ru0000344	ru00030	ru	PREPOST	Sandra
-2	думаю	думать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	думать	IND.PRS.1.SG			ru0000345	ru00030	ru	PREPOST	Sandra
-3	,	,	PUNCT	-	-	6	punct	-	,	-			ru0000346	ru00030	ru	PREPOST	Sandra
-4	что	что	SCONJ	-	-	6	mark	-	что	COMP			ru0000347	ru00030	ru	PREPOST	Sandra
-5	фанаты	фанат	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	-	фанат	NOM.PL.M			ru0000348	ru00030	ru	PREPOST	Sandra
-6	способны	способный	ADJ	-	Degree=Pos|Number=Plur|Variant=Short	2	ccomp	-	способный	PL			ru0000349	ru00030	ru	PREPOST	Sandra
-7	ради	ради	ADP	-	-	8	case	-	ради	-			ru0000350	ru00030	ru	PREPOST	Sandra
-8	поездки	поездка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	-	поездка	GEN.SG.F			ru0000351	ru00030	ru	PREPOST	Sandra
-9	на	на	ADP	-	-	10	case	-	на	-			ru0000352	ru00030	ru	PREPOST	Sandra
-10	чемпионат	чемпионат	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	-	чемпионат	ACC.SG.M			ru0000353	ru00030	ru	PREPOST	Sandra
-11	совершить	совершить	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	-	совершить	PFV			ru0000354	ru00030	ru	PREPOST	Sandra
-12	какое-нибудь	какой-нибудь	DET	-	Case=Acc|Gender=Neut|Number=Sing	13	det	-	какой-нибудь	-			ru0000355	ru00030	ru	PREPOST	Sandra
-13	безумство	безумство	NOUN	-	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	-	безумство	ACC.SG			ru0000356	ru00030	ru	PREPOST	Sandra
-14	,	,	PUNCT	-	-	16	punct	-	,	-			ru0000357	ru00030	ru	PREPOST	Sandra
-15	например	например	ADV	-	Degree=Pos	16	advmod	-	например	-			ru0000358	ru00030	ru	PREPOST	Sandra
-16	продать	продать	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	11	parataxis	-	продать	PFV			ru0000359	ru00030	ru	PREPOST	Sandra
-17	машину	машина	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	-	машина	ACC.SG.F			ru0000360	ru00030	ru	PREPOST	Sandra
-18	.	.	PUNCT	-	-	2	punct	-	.	-			ru0000361	ru00030	ru	PREPOST	Sandra
-1	Справедливости	справедливость	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	-	справедливость	GEN.SG.F			ru0000362	ru00031	ru	PREPOST	Sandra
-2	ради	ради	ADP	-	-	1	case	-	ради	-			ru0000363	ru00031	ru	PREPOST	Sandra
-3	надо	надо	ADV	-	Degree=Pos	0	root	-	надо	-			ru0000364	ru00031	ru	PREPOST	Sandra
-4	сказать	сказать	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	-	сказать	PFV			ru0000365	ru00031	ru	PREPOST	Sandra
-5	,	,	PUNCT	-	-	10	punct	-	,	-			ru0000366	ru00031	ru	PREPOST	Sandra
-6	что	что	SCONJ	-	-	10	mark	-	что	COMP			ru0000367	ru00031	ru	PREPOST	Sandra
-7	многие	много	NUM	-	-	8	amod	-	много	-			ru0000368	ru00031	ru	PREPOST	Sandra
-8	проблемы	проблема	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	-	проблема	NOM.PL.F			ru0000369	ru00031	ru	PREPOST	Sandra
-9	уже	уже	ADV	-	Degree=Pos	10	advmod	-	уже	-			ru0000370	ru00031	ru	PREPOST	Sandra
-10	решены	решить	VERB	-	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	ccomp	-	решить	PFV.PST.PL			ru0000371	ru00031	ru	PREPOST	Sandra
-11	.	.	PUNCT	-	-	3	punct	-	.	-			ru0000372	ru00031	ru	PREPOST	Sandra
+ID	FORM	LEMMA	UPOS	XPOS	FEATS	HEAD	DEPREL	MISC	ENGLISH	GLOSS	GLOSSKORR	OMIT_ANNOTATIONS	TOKENID	EXAMPLEID	_CAT	_EDITOR
+1	Taj	taj	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	det	-	that	-			bcms010000001	bcms0100001	DOM	Barbara
+2	savetnik	savetnik	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	-	advisor	NOM.SG.M			bcms010000002	bcms0100001	DOM	Barbara
+3	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	-	to be	IND.PRS.3.SG			bcms010000003	bcms0100001	DOM	Barbara
+4	malopre	malopre	ADV	Rgp	Degree=Pos	8	advmod	-	just before	-			bcms010000004	bcms0100001	DOM	Barbara
+5	kod	kod	ADP	Sg	Case=Gen	7	case	-	the code	-			bcms010000005	bcms0100001	DOM	Barbara
+6	Patrijaršijskih	patrijaršijski	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	amod	-	patriarchal	GEN.PL.M.DEF			bcms010000006	bcms0100001	DOM	Barbara
+7	ribnjaka	ribnjak	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	8	obl	-	pond	GEN.PL.M			bcms010000007	bcms0100001	DOM	Barbara
+8	ubio	ubiti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	to kill	PST.SG.M			bcms010000008	bcms0100001	DOM	Barbara
+9	Mišu	Miš	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	-	Mouse	-			bcms010000009	bcms0100001	DOM	Barbara
+10	Berlioza	Berlilz	PROPN	Npmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	9	flat	SpaceAfter=No	Berlitz	-			bcms010000010	bcms0100001	DOM	Barbara
+11	.	.	PUNCT	Z	-	8	punct	-	.	-			bcms010000011	bcms0100001	DOM	Barbara
+1	Kod	kod	ADP	Sg	Case=Gen	2	case	-	the code	-			bcms010000012	bcms0100002	EXIST, DOM	Barbara
+2	nas	mi	PRON	Pp1-pa	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	obl	-	we	-			bcms010000013	bcms0100002	EXIST, DOM	Barbara
+3	u	u	ADP	Sl	Case=Loc	4	case	-	in	-			bcms010000014	bcms0100002	EXIST, DOM	Barbara
+4	stanu	stan	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	2	nmod	-	apartment	LOC.SG.M			bcms010000015	bcms0100002	EXIST, DOM	Barbara
+5	ničeg	niče	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	4	nmod	-	it sprouts	GEN.SG			bcms010000016	bcms0100002	EXIST, DOM	Barbara
+6	takvog	takav	DET	Pd-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	7	det	-	such a	-			bcms010000017	bcms0100002	EXIST, DOM	Barbara
+7	nema	nemati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	-	don't have	IND.PRS.3.SG			bcms010000018	bcms0100002	EXIST, DOM	Barbara
+1	Ivan	Ivan	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	-	Ivan	-			bcms010000019	bcms0100003	POSS	Björn
+2	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	-	to be	IND.PRS.3.SG			bcms010000020	bcms0100003	POSS	Björn
+3	poljubio	poljubiti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	to kiss	PST.SG.M			bcms010000021	bcms0100003	POSS	Björn
+4	dami	dam	ADJ	Agpfsdy	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	-	dam	DAT.SG.F.DEF			bcms010000022	bcms0100003	POSS	Björn
+5	ruku	ruka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	SpaceAfter=No	hand	ACC.SG.F			bcms010000023	bcms0100003	POSS	Björn
+6	.	.	PUNCT	Z	-	3	punct	-	.	-			bcms010000024	bcms0100003	POSS	Björn
+1	Opravdu	opravdu	ADV	Db-------------	-	3	advmod	-	really	-			cs010000001	cs0100001	EXIST, REL	Barbara
+2	,	,	PUNCT	Z:-------------	-	1	punct	-	,	-			cs010000002	cs0100001	EXIST, REL	Barbara
+3	jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	be	IND.PRS.3.PL			cs010000003	cs0100001	EXIST, REL	Barbara
+4	knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	3	nsubj	-	book	NOM.PL.F			cs010000004	cs0100001	EXIST, REL	Barbara
+5	pro	pro	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	-	for	-			cs010000005	cs0100001	EXIST, REL	Barbara
+6	den	den	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	nmod	-	day	ACC.SG.M			cs010000006	cs0100001	EXIST, REL	Barbara
+7	a	a	CCONJ	J^-------------	-	8	cc	-	and	-			cs010000007	cs0100001	EXIST, REL	Barbara
+8	knihy	kniha	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	6	conj	-	book	NOM.PL.F			cs010000008	cs0100001	EXIST, REL	Barbara
+9	,	,	PUNCT	Z:-------------	-	11	punct	-	,	-			cs010000009	cs0100001	EXIST, REL	Barbara
+10	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	12	obj	-	who	-			cs010000010	cs0100001	EXIST, REL	Barbara
+11	můžete	moci	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	-	can	IND.PRS.2.PL			cs010000011	cs0100001	EXIST, REL	Barbara
+12	číst	číst	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	11	xcomp	-	read				cs010000012	cs0100001	EXIST, REL	Barbara
+13	jen	jen	PART	TT-------------	-	15	advmod:emph	-	just	-			cs010000013	cs0100001	EXIST, REL	Barbara
+14	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	-	in	-			cs010000014	cs0100001	EXIST, REL	Barbara
+15	noci	noc	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	12	obl	-	night	LOC.SG.F			cs010000015	cs0100001	EXIST, REL	Barbara
+16	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs010000016	cs0100001	EXIST, REL	Barbara
+1	Jsou	být	AUX	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	-	be	IND.PRS.3.PL			cs010000017	cs0100002	NOMPRED, REL	Barbara
+2	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	-	the	-			cs010000018	cs0100002	NOMPRED, REL	Barbara
+3	otázky	otázka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	0	root	-	question	NOM.PL.F			cs010000019	cs0100002	NOMPRED, REL	Barbara
+4	,	,	PUNCT	Z:-------------	-	7	punct	-	,	-			cs010000020	cs0100002	NOMPRED, REL	Barbara
+5	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	-	on	-			cs010000021	cs0100002	NOMPRED, REL	Barbara
+6	které	který	DET	P4FP4----------	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel	8	det	-	who	-			cs010000022	cs0100002	NOMPRED, REL	Barbara
+7	není	být	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	-	be	IND.PRS.3.SG			cs010000023	cs0100002	NOMPRED, REL	Barbara
+8	odpověď	odpověď	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	nsubj	-	answer	NOM.SG.F			cs010000024	cs0100002	NOMPRED, REL	Barbara
+9	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs010000025	cs0100002	NOMPRED, REL	Barbara
+1	I	i	CCONJ	J^-------------	-	2	advmod:emph	-	and	-			cs010000026	cs0100003	GIVE	Barbara
+2	tak	tak	ADV	Db-------------	PronType=Dem	4	advmod	-	so	-			cs010000027	cs0100003	GIVE	Barbara
+3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pass	-	with	-			cs010000028	cs0100003	GIVE	Barbara
+4	dá	dát	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	give	IND.PRS.3.SG			cs010000029	cs0100003	GIVE	Barbara
+5	ovlivnit	ovlivnit	VERB	Vf--------A----	Aspect=Perf|Polarity=Pos|VerbForm=Inf	4	xcomp	-	affect	PFV			cs010000030	cs0100003	GIVE	Barbara
+6	představení	představení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	nsubj:pass	-	performance	NOM.SG			cs010000031	cs0100003	GIVE	Barbara
+7	.	.	PUNCT	Z:-------------	-	4	punct	-	.	-			cs010000032	cs0100003	GIVE	Barbara
+1	Mamince	Maminka	PROPN	NNFS3-----A----	Case=Dat|Gender=Fem|NameType=Giv|Number=Sing|Polarity=Pos	3	obl:arg	-	Mom	-			cs010000033	cs0100004	POSS, ITR	Björn
+2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pv	-	with	-			cs010000034	cs0100004	POSS, ITR	Björn
+3	točila	točit	VERB	VpQW---XR-AA---	Aspect=Imp|Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	spin	PST			cs010000035	cs0100004	POSS, ITR	Björn
+4	hlava	hlava	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	-	head	NOM.SG.F			cs010000036	cs0100004	POSS, ITR	Björn
+5	.	.	PUNCT	Z:-------------	-	3	punct	-	.	-			cs010000037	cs0100004	POSS, ITR	Björn
+1	Asi	asi	PART	TT-------------	-	4	advmod	-	about	-			cs010000038	cs0100005	RS	Imke
+2	jste	být	AUX	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	-	be	IND.PRS.2.PL			cs010000039	cs0100005	RS	Imke
+3	špatně	špatně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	-	poorly	-			cs010000040	cs0100005	RS	Imke
+4	rozuměl	rozumět	VERB	VpYS---XR-AA---	Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	understand	PST.SG.M			cs010000041	cs0100005	RS	Imke
+5	dopisu	dopis	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	-	letter	DAT.SG.M			cs010000042	cs0100005	RS	Imke
+6	,	,	PUNCT	Z:-------------	-	9	punct	-	,	-			cs010000043	cs0100005	RS	Imke
+7	co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	9	obj	-	what	-			cs010000044	cs0100005	RS	Imke
+8	Vám	ty	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	obl:arg	-	you	-			cs010000045	cs0100005	RS	Imke
+9	poslali	poslat	VERB	VpMP---XR-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl:relcl	-	send	PST.PL.M			cs010000046	cs0100005	RS	Imke
+10	.	.	PUNCT	Z:-------------	-	4	punct	-	.	-			cs010000047	cs0100005	RS	Imke
+1	Обрѣтохъ	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.1.SG			cu010000001	cu0100001	XYZ	Sandra
+2	недостоинъ	недостоинъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	xcomp	-	-	NOM.SG.M			cu010000002	cu0100001	XYZ	Sandra
+3	сꙑ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	cop	-	-	PRS.SG.M			cu010000003	cu0100001	XYZ	Sandra
+4	такъ	такъ	ADP	R-	-	5	case	-	-	-			cu010000004	cu0100001	XYZ	Sandra
+5	даръ.	даръ.а	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obl	-	-	ACC.PL.M			cu010000005	cu0100001	XYZ	Sandra
+6	ѥже	оже	SCONJ	G-	-	9	mark	-	-	COMP			cu010000006	cu0100001	XYZ	Sandra
+7	ми	азъ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	-	-	-			cu010000007	cu0100001	XYZ	Sandra
+8	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	expl	-	-	-			cu010000008	cu0100001	XYZ	Sandra
+9	поѹчѧти	поѹчѧти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	advcl	-	-	PRS			cu010000009	cu0100001	XYZ	Sandra
+10	словесьмъ	слово	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	9	nsubj	-	-	DAT.PL			cu010000010	cu0100001	XYZ	Sandra
+11	твоимъ	твои	ADJ	Ps	Case=Dat|Number=Plur|Person=2|Poss=Yes	10	nmod	-	-	DAT.PL			cu010000011	cu0100001	XYZ	Sandra
+12	дьнь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	-	-	ACC.SG.M			cu010000012	cu0100001	XYZ	Sandra
+13	и	и	CCONJ	C-	-	12	cc	-	-	-			cu010000013	cu0100001	XYZ	Sandra
+14	ношть.	нощь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	12	conj	-	-	ACC.PL.F			cu010000014	cu0100001	XYZ	Sandra
+1	А	а	CCONJ	C-	-	5	cc	-	-	-			cu010000015	cu0100002	XYZ	Sandra
+2	король	король	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	-	-	NOM.SG.M			cu010000016	cu0100002	XYZ	Sandra
+3	бѧшеть	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	-	-	PFV.IND.PST.3.SG			cu010000017	cu0100002	XYZ	Sandra
+4	тогда	тъгда	ADV	Df	-	5	advmod	-	-	-			cu010000018	cu0100002	XYZ	Sandra
+5	впалъ	впалъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu010000019	cu0100002	XYZ	Sandra
+6	в	въ	ADP	R-	-	7	case	-	-	-			cu010000020	cu0100002	XYZ	Sandra
+7	болесть	болесть	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	-	-	ACC.SG.F			cu010000021	cu0100002	XYZ	Sandra
+8	великѹ.	великъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	amod	-	-	NOM.SG.M			cu010000022	cu0100002	XYZ	Sandra
+9	в	въ	ADP	R-	-	10	case	-	-	-			cu010000023	cu0100002	XYZ	Sandra
+10	неиже	иже	PRON	Pr	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	12	obl	-	-	-			cu010000024	cu0100002	XYZ	Sandra
+11	и	и	CCONJ	C-	-	12	cc	-	-	-			cu010000025	cu0100002	XYZ	Sandra
+12	сконча	сконити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	-	-	PFV.IND.PST.3.SG			cu010000026	cu0100002	XYZ	Sandra
+13	животъ	животъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj	-	-	ACC.SG.M			cu010000027	cu0100002	XYZ	Sandra
+14	свои.	свои	ADJ	Pt	Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	13	nmod	-	-	ACC.SG.M			cu010000028	cu0100002	XYZ	Sandra
+15	и	и	CCONJ	C-	-	12	cc	-	-	-			cu010000029	cu0100002	XYZ	Sandra
+16	положиша	положити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	-	-	IND.PST.3.SG			cu010000030	cu0100002	XYZ	Sandra
+17	во	въ	ADP	R-	-	18	case	-	-	-			cu010000031	cu0100002	XYZ	Sandra
+18	цр҃кви	црькꙑ	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	16	obl	-	-	LOC.SG.F			cu010000032	cu0100002	XYZ	Sandra
+19	ст҃ѣ	съто	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	18	nmod	-	-	LOC.SG.M			cu010000033	cu0100002	XYZ	Sandra
+1	Бц҃и.	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	advmod	-	-	NOM.PL.M			cu010000034	cu0100002	XYZ	Sandra
+2	в	въ	ADP	R-	-	3	case	-	-	-			cu010000035	cu0100002	XYZ	Sandra
+3	Холмѣ	Холмѣ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	7	obl	-	-	LOC.SG.M			cu010000036	cu0100002	XYZ	Sandra
+4	юже	оуже	ADV	Df	-	7	advmod	-	-	-			cu010000037	cu0100002	XYZ	Sandra
+5	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	-	-	IND.PST.3.SG			cu010000038	cu0100002	XYZ	Sandra
+6	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	7	det	-	-	-			cu010000039	cu0100002	XYZ	Sandra
+7	создалъ.	създати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	-	-	PST.PL.M			cu010000040	cu0100002	XYZ	Sandra
+1	Зимноє	зимно	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	-	-	NOM.SG			cu010000041	cu0100003	XYZ	Sandra
+2	бо`	бо`	ADP	R-	-	3	case	-	-	-			cu010000042	cu0100003	XYZ	Sandra
+3	времѧ	врьмѧ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	1	obl	-	-	GEN.SG			cu010000043	cu0100003	XYZ	Sandra
+4	бранѧ´ше	бранити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	advcl	-	-	PST.PL.M			cu010000044	cu0100003	XYZ	Sandra
+5	мѹ	мѹ	PRON	Pp	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	-	-	-			cu010000045	cu0100003	XYZ	Sandra
+6	ити	ити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	-	-	PRS			cu010000046	cu0100003	XYZ	Sandra
+7	къ	къ	ADP	R-	-	8	case	-	-	-			cu010000047	cu0100003	XYZ	Sandra
+8	римꙋ	рꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	obl	-	-	-			cu010000048	cu0100003	XYZ	Sandra
+1	:	:	ADP	R-	-	0	root	-	:	-			cu010000049	cu0100003	XYZ	Sandra
+1	Ходи	Ходи	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	0	root	-	-	VOC.SG.M			cu010000050	cu0100004	XYZ	Sandra
+1	Ꙗрославъ	Ꙗрославъ	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	0	root	-	-	PST.SG.M			cu010000051	cu0100004	XYZ	Sandra
+2	сн҃ъ	сꙑнъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj	-	-	ACC.SG.M			cu010000052	cu0100004	XYZ	Sandra
+3	Ст҃ополчь	стѵполь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nmod	-	-	NOM.SG.M			cu010000053	cu0100004	XYZ	Sandra
+4	на	на	ADP	R-	-	5	case	-	-	-			cu010000054	cu0100004	XYZ	Sandra
+5	Ꙗтьвѧгꙑ	Ꙗтьвѧгꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obl	-	-	ACC.PL.F			cu010000055	cu0100004	XYZ	Sandra
+6	второє.	вторъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	-	-	ACC.PL.M			cu010000056	cu0100004	XYZ	Sandra
+7	и	и	CCONJ	C-	-	1	cc	-	-	-			cu010000057	cu0100004	XYZ	Sandra
+8	побѣди	побѣдити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	-	-	PFV.IND.PST.3.SG			cu010000058	cu0100004	XYZ	Sandra
+9	ꙗ.	ꙗ.	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	-	-	-			cu010000059	cu0100004	XYZ	Sandra
+1	Въ	въ	ADP	R-	-	2	case	-	-	-			cu010000060	cu0100005	XYZ	Sandra
+2	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	-	-	ACC.SG			cu010000061	cu0100005	XYZ	Sandra
+3	·	·	ADP	R-	-	4	case	-	-	-			cu010000062	cu0100005	XYZ	Sandra
+4	҂ꙅ҃	҂ꙅ҃	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	-	-	ACC.SG			cu010000063	cu0100005	XYZ	Sandra
+5	·ф҃·л͠ꙅ·	·ф҃·л͠ꙅ·	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu010000064	cu0100005	XYZ	Sandra
+6	знамениѥ	знамениѥ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	appos	-	-	NOM.SG			cu010000065	cu0100005	XYZ	Sandra
+7	змиѥво	змиѥво	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	appos	-	-	NOM.SG.F			cu010000066	cu0100005	XYZ	Sandra
+8	на	на	ADP	R-	-	9	case	-	-	-			cu010000067	cu0100005	XYZ	Sandra
+9	нб҃си	небо	NOUN	Nb	Case=Loc|Gender=Neut|Number=Sing	7	nmod	-	-	LOC.SG			cu010000068	cu0100005	XYZ	Sandra
+10	ꙗви	твии	NUM	Ma	Case=Acc|Number=Plur	7	orphan	-	-	-			cu010000069	cu0100005	XYZ	Sandra
+11	сѧ.	сь	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	-	-	ACC.PL.M			cu010000070	cu0100005	XYZ	Sandra
+1	И	и	CCONJ	C-	-	4	cc	-	-	-			cu010000071	cu0100006	XYZ	Sandra
+2	на	на	ADP	R-	-	3	case	-	-	-			cu010000072	cu0100006	XYZ	Sandra
+3	западѣ	западъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	4	obl	-	-	LOC.SG.M			cu010000073	cu0100006	XYZ	Sandra
+4	ꙗви	ввити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.3.SG			cu010000074	cu0100006	XYZ	Sandra
+5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	-	-	-			cu010000075	cu0100006	XYZ	Sandra
+6	звѣзда	звѣздо	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	-	-	NOM.SG.F			cu010000076	cu0100006	XYZ	Sandra
+7	велика.	великъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	amod	-	-	NOM.PL.F			cu010000077	cu0100006	XYZ	Sandra
+1	Томь	сомъ	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	2	iobj	-	-	LOC.SG			cu010000078	cu0100007	XYZ	Sandra
+2	(ж̑)	(ещи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	-	IND.PRS.3.SG			cu010000079	cu0100007	XYZ	Sandra
+3	·	·	ADP	R-	-	4	case	-	-	-			cu010000080	cu0100007	XYZ	Sandra
+4	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obl	-	-	ACC.SG			cu010000081	cu0100007	XYZ	Sandra
+1	·	·	ADP	R-	-	2	case	-	-	-			cu010000082	cu0100007	XYZ	Sandra
+2	прѣстави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	PFV.IND.PST.3.SG			cu010000083	cu0100007	XYZ	Sandra
+3	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	expl	-	-	-			cu010000084	cu0100007	XYZ	Sandra
+4	·	·	ADP	R-	-	5	case	-	-	-			cu010000085	cu0100007	XYZ	Sandra
+5	ӏѡ҃а·	ӏѡ҃а·	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	obl	-	-	-			cu010000086	cu0100007	XYZ	Sandra
+6	сн҃ъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	-	NOM.SG.M			cu010000087	cu0100007	XYZ	Sandra
+7	всѣволожь	всѣволожь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	-	-	GEN.SG.M			cu010000088	cu0100007	XYZ	Sandra
+8	вънѹкъ	вънѹкъ	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	2	advcl	-	-	PST.SG.M			cu010000089	cu0100007	XYZ	Sandra
+9	мьстиславль.	мьстиславити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	6	acl	-	-	PST.PL.M			cu010000090	cu0100007	XYZ	Sandra
+1	Въ	въ	ADP	R-	-	3	case	-	-	-			cu010000091	cu0100008	XYZ	Sandra
+2	то	тъ	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	3	det	-	-	-			cu010000092	cu0100008	XYZ	Sandra
+3	(ж̑)	(ж̑)	ADV	Df	-	6	obl	-	-	-			cu010000093	cu0100008	XYZ	Sandra
+4	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	-	-	NOM.SG			cu010000094	cu0100008	XYZ	Sandra
+5	·	·	ADP	R-	-	6	case	-	-	-			cu010000095	cu0100008	XYZ	Sandra
+6	заложиша	заложити	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	-	IND.PST.3.SG			cu010000096	cu0100008	XYZ	Sandra
+7	цр҃квь	црькꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	-	-	ACC.SG.F			cu010000097	cu0100008	XYZ	Sandra
+8	камѧну.	камѧнь	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	nsubj	-	-	NOM.SG.F			cu010000098	cu0100008	XYZ	Sandra
+1	И	и	CCONJ	C-	-	4	cc	-	-	-			cu010000099	cu0100009	XYZ	Sandra
+2	томь	тъ	ADJ	Pd	Case=Loc|Gender=Neut|Number=Sing	6	obl	-	-	LOC.SG			cu010000100	cu0100009	XYZ	Sandra
+3	<ве>чере	<ве>чере	ADV	Df	-	4	advmod	-	-	-			cu010000101	cu0100009	XYZ	Sandra
+4	перевози	перевозь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu010000102	cu0100009	XYZ	Sandra
+5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	-	-	-			cu010000103	cu0100009	XYZ	Sandra
+6	ꙗрославъ	дрослати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	acl	-	-	PST.SG.M			cu010000104	cu0100009	XYZ	Sandra
+7	·	·	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	-	-	-			cu010000105	cu0100009	XYZ	Sandra
+8	съ	съ	ADP	R-	-	9	case	-	-	-			cu010000106	cu0100009	XYZ	Sandra
+9	вои	вои	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	obl	-	-	INS.PL.M			cu010000107	cu0100009	XYZ	Sandra
+10	на	на	ADP	R-	-	12	case	-	-	-			cu010000108	cu0100009	XYZ	Sandra
+11	дрѹгꙑи	дрѹгꙑи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	-	-	ACC.SG.M			cu010000109	cu0100009	XYZ	Sandra
+12	полъ	полъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	-	-	ACC.SG.M			cu010000110	cu0100009	XYZ	Sandra
+13	дънѣпр<а>.	дънѣпр<а>.	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	12	amod	-	-	ACC.SG.M			cu010000111	cu0100009	XYZ	Sandra
+1	Въ	въ	ADP	R-	-	2	case	-	-	-			cu010000112	cu0100010	XYZ	Sandra
+2	лѣ(т̑)	лѣ(ть)ь	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	-	-	ACC.SG			cu010000113	cu0100010	XYZ	Sandra
+3	·	·	ADP	R-	-	4	case	-	-	-			cu010000114	cu0100010	XYZ	Sandra
+4	҂ꙅ҃	҂ꙅ҃	NUM	Ma	Case=Acc|Gender=Neut|Number=Sing	2	appos	-	-	-			cu010000115	cu0100010	XYZ	Sandra
+5	·ф҃·о͠ꙅ·	·ф҃·о͠ꙅ·	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	4	nmod	-	-	-			cu010000116	cu0100010	XYZ	Sandra
+6	гнѣвъ	гнѣвъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	-	-	NOM.SG.M			cu010000117	cu0100010	XYZ	Sandra
+7	бж҃ии	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	advmod	-	-	NOM.SG.M			cu010000118	cu0100010	XYZ	Sandra
+8	бꙑ(с̑)	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	6	cop	-	-	PST.SG.M			cu010000119	cu0100010	XYZ	Sandra
+1	·	·	CCONJ	C-	-	2	cc	-	-	-			cu010000120	cu0100010	XYZ	Sandra
+2	придоша	придовати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	-	-	PFV.IND.PST.3.SG			cu010000121	cu0100010	XYZ	Sandra
+3	половци	половити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	-	IMP.PRS.2.SG			cu010000122	cu0100010	XYZ	Sandra
+4	·	·	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	3	expl	-	-	-			cu010000123	cu0100010	XYZ	Sandra
+5	и	и	CCONJ	C-	-	2	cc	-	-	-			cu010000124	cu0100010	XYZ	Sandra
+6	побѣдиша	побѣдити	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	-	-	IND.PRS.2.SG			cu010000125	cu0100010	XYZ	Sandra
+7	рꙋсьскѹю	рꙋсьскѹю	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	8	amod	-	-	DAT.SG			cu010000126	cu0100010	XYZ	Sandra
+8	землю.	землꙗ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	iobj	-	-	GEN.SG.F			cu010000127	cu0100010	XYZ	Sandra
+1	Jacek	Jacek	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Jack	-			pl010000001	pl0100001	POSS	Barbara
+2	rozbil	rozbić	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	break	PFV.IND.PST.SG.M			pl010000002	pl0100001	POSS	Barbara
+3	samochód	samochód	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	car	ACC.SG.M			pl010000003	pl0100001	POSS	Barbara
+4	Roberta	Robert	PROPN	subst:sg:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing	3	nmod	-	Robert	-			pl010000004	pl0100001	POSS	Barbara
+5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl010000005	pl0100001	POSS	Barbara
+1	Jacek	Jacek	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Jack	-			pl010000006	pl0100002	POSS	Barbara
+2	rozbil	rozbić	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	break	PFV.IND.PST.SG.M			pl010000007	pl0100002	POSS	Barbara
+3	Robertowi	Robert	PROPN	subst:sg:dat:m1	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing	2	iobj	-	Robert	-			pl010000008	pl0100002	POSS	Barbara
+4	samochód	samochód	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	car	ACC.SG.M			pl010000009	pl0100002	POSS	Barbara
+5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl010000010	pl0100002	POSS	Barbara
+1	Więc	więc	SCONJ	comp	-	3	mark	-	so	COMP			pl010000011	pl0100003	DIRSP, DEO	Barbara
+2	co	co	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obj	-	what	-			pl010000012	pl0100003	DIRSP, DEO	Barbara
+3	mam	mieć	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	to have	IND.PRS.1.SG			pl010000013	pl0100003	DIRSP, DEO	Barbara
+4	robić	robić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	-	do				pl010000014	pl0100003	DIRSP, DEO	Barbara
+5	?	?	PUNCT	interp	PunctType=Qest	3	punct	-	?	-			pl010000015	pl0100003	DIRSP, DEO	Barbara
+1	Krwi	krew	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	nsubj	-	blood	GEN.SG.F			pl010000016	pl0100004	OPTSP	Björn
+2	tyle	tyle	ADV	adv	-	0	root	-	so much	-			pl010000017	pl0100004	OPTSP	Björn
+3	,	,	PUNCT	interp	PunctType=Comm	7	punct	-	,	-			pl010000018	pl0100004	OPTSP	Björn
+4	że	że	SCONJ	comp	-	7	mark	-	that	COMP			pl010000019	pl0100004	OPTSP	Björn
+5	niech	niech	AUX	part	-	7	aux:imp	-	let	-			pl010000020	pl0100004	OPTSP	Björn
+6	Bóg	Bóg	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	-	God	-			pl010000021	pl0100004	OPTSP	Björn
+7	uchowa	uchować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	-	save	IND.PRS.3.SG			pl010000022	pl0100004	OPTSP	Björn
+8	!	!	PUNCT	interp	PunctType=Excl	2	punct	-	!	-			pl010000023	pl0100004	OPTSP	Björn
+1	Więźniowie	więzień	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	-	prisoner	NOM.PL.M		_omit_annotations_	pl010000024	pl0100005	REZI	Björn
+2	doprowadzani	doprowadzać	ADJ	ppas:pl:nom:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	acl	-	bring	NOM.PL.M		_omit_annotations_	pl010000025	pl0100005	REZI	Björn
+3	na	na	ADP	prep:acc	AdpType=Prep	4	case	-	on	-		_omit_annotations_	pl010000026	pl0100005	REZI	Björn
+4	msze	msza	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	2	obl:arg	-	mass	ACC.PL.F		_omit_annotations_	pl010000027	pl0100005	REZI	Björn
+5	przebywali	przebywać	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	stay	IND.PST.PL.M		_omit_annotations_	pl010000028	pl0100005	REZI	Björn
+6	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	-	in	-		_omit_annotations_	pl010000029	pl0100005	REZI	Björn
+7	takich	taki	DET	adj:pl:loc:m3:pos	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	8	det	-	such	-		_omit_annotations_	pl010000030	pl0100005	REZI	Björn
+8	boksach	boks	NOUN	subst:pl:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	5	obl	-	box	LOC.PL.M		_omit_annotations_	pl010000031	pl0100005	REZI	Björn
+9	,	,	PUNCT	interp	PunctType=Comm	11	punct	-	,	-			pl010000032	pl0100005	REZI	Björn
+10	właściwie	właściwie	ADV	adv:pos	Degree=Pos	11	parataxis:insert	-	actually	-		_omit_annotations_	pl010000033	pl0100005	REZI	Björn
+11	klatkach	klatka	NOUN	subst:pl:loc:f	Case=Loc|Gender=Fem|Number=Plur	8	conj	-	cage	LOC.PL.F		_omit_annotations_	pl010000034	pl0100005	REZI	Björn
+12	.	.	PUNCT	interp	PunctType=Peri	5	punct	-	.	-			pl010000035	pl0100005	REZI	Björn
+1	Nie	nie	PART	part	Polarity=Neg	2	advmod:neg	-	no	NEG			pl010000036	pl0100005	REZI	Björn
+2	widzieli	widzieć	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	see	IND.PST.PL.M			pl010000037	pl0100005	REZI	Björn
+3	siebie	siebie	PRON	siebie:gen	Case=Gen|PronType=Prs|Reflex=Yes	2	obj	-	myself	-			pl010000038	pl0100005	REZI	Björn
+4	nawzajem	nawzajem	ADV	adv	-	2	advmod	-	mutually	-			pl010000039	pl0100005	REZI	Björn
+5	.	.	PUNCT	interp	PunctType=Peri	2	punct	-	.	-			pl010000040	pl0100005	REZI	Björn
+1	Stoją	stać	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	be	IND.PRS.3.PL			pl010000041	pl0100006	REZI	Björn
+2	obok	obok	ADP	prep:gen	AdpType=Prep	3	case	-	next to	-			pl010000042	pl0100006	REZI	Björn
+3	siebie	siebie	PRON	siebie:gen	Case=Gen|PronType=Prs|Reflex=Yes	1	obl	-	myself	-			pl010000043	pl0100006	REZI	Björn
+4	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl010000044	pl0100006	REZI	Björn
+5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	-	no	NEG			pl010000045	pl0100006	REZI	Björn
+6	widząc	widzieć	VERB	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	1	advcl	-	see	PRS			pl010000046	pl0100006	REZI	Björn
+7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	-	myself	-			pl010000047	pl0100006	REZI	Björn
+8	prawie	prawie	PART	part	-	6	advmod:emph	-	almost	-			pl010000048	pl0100006	REZI	Björn
+9	,	,	PUNCT	interp	PunctType=Comm	11	punct	-	,	-		_omit_annotations_	pl010000049	pl0100006	REZI	Björn
+10	i	i	CCONJ	conj	-	11	cc	-	and	-			pl010000050	pl0100006	REZI	Björn
+11	upływa	upływać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	-	elapse	IND.PRS.3.SG		_omit_annotations_	pl010000051	pl0100006	REZI	Björn
+12	bardzo	bardzo	ADV	adv:pos	Degree=Pos	13	advmod	-	very	-		_omit_annotations_	pl010000052	pl0100006	REZI	Björn
+13	długa	długi	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	-	long	NOM.SG.F		_omit_annotations_	pl010000053	pl0100006	REZI	Björn
+14	chwila	chwila	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	-	moment	NOM.SG.F		_omit_annotations_	pl010000054	pl0100006	REZI	Björn
+15	,	,	PUNCT	interp	PunctType=Comm	17	punct	-	,	-		_omit_annotations_	pl010000055	pl0100006	REZI	Björn
+16	zanim	zanim	SCONJ	comp	-	17	mark	-	before	COMP			pl010000056	pl0100006	REZI	Björn
+17	pada	padać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	-	rain	IND.PRS.3.SG		_omit_annotations_	pl010000057	pl0100006	REZI	Björn
+18	pierwsze	pierwszy	ADJ	adj:sg:acc:n:pos	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	-	first	ACC.SG		_omit_annotations_	pl010000058	pl0100006	REZI	Björn
+19	słowo	słowo	NOUN	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing	17	obj	-	word	ACC.SG		_omit_annotations_	pl010000059	pl0100006	REZI	Björn
+20	.	.	PUNCT	interp	PunctType=Peri	1	punct	-	.	-		_omit_annotations_	pl010000060	pl0100006	REZI	Björn
+1	Przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	case	-	by	-			pl010000061	pl0100007	REZI	Björn
+2	te	ten	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	4	det	-	this	-			pl010000062	pl0100007	REZI	Björn
+3	wszystkie	wszystek	DET	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	4	det	-	everything	-			pl010000063	pl0100007	REZI	Björn
+4	lata	rok	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	5	obl	-	year	ACC.PL.M			pl010000064	pl0100007	REZI	Björn
+5	widzieli	widzieć	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	see	IND.PST.PL.M			pl010000065	pl0100007	REZI	Björn
+6	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Plur|Person=1|Variant=Short	5	aux:clitic	-	to be	1.PL			pl010000066	pl0100007	REZI	Björn
+7	się	się	PRON	part	PronType=Prs|Reflex=Yes	5	expl:pv	-	myself	-			pl010000067	pl0100007	REZI	Björn
+8	zaledwie	zaledwie	PART	part	-	9	advmod:emph	-	just	-			pl010000068	pl0100007	REZI	Björn
+9	pięć	pięć	NUM	num:pl:acc:m3:rec	Animacy=Inan|Case=Acc|Gender=Masc|NumForm=Word|Number=Plur	10	nummod:gov	-	bake	-			pl010000069	pl0100007	REZI	Björn
+10	razy	raz	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	obl	-	once	GEN.PL.M			pl010000070	pl0100007	REZI	Björn
+11	!	!	PUNCT	interp	PunctType=Excl	5	punct	-	!	-			pl010000071	pl0100007	REZI	Björn
+1	-	-	PUNCT	interp	PunctType=Dash	8	punct	-	-	-			pl010000072	pl0100008	ITR, ECH	Björn
+2	Co	co	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	nsubj	-	what	-			pl010000073	pl0100008	ITR, ECH	Björn
+3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	-	myself	-			pl010000074	pl0100008	ITR, ECH	Björn
+4	czepiasz	czepiać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	parataxis:obj	-	pick on	IND.PRS.2.SG			pl010000075	pl0100008	ITR, ECH	Björn
+5	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl010000076	pl0100008	ITR, ECH	Björn
+6	kopana	kopać	ADJ	ppas:sg:nom:f:imperf:aff	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	4	conj	-	to dig	NOM.SG.F			pl010000077	pl0100008	ITR, ECH	Björn
+7	-	-	PUNCT	interp	PunctType=Dash	8	punct	-	-	-			pl010000078	pl0100008	ITR, ECH	Björn
+8	rzekł	rzec	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	say	PFV.IND.PST.SG.M			pl010000079	pl0100008	ITR, ECH	Björn
+9	pogardliwie	pogardliwie	ADV	adv:pos	Degree=Pos	8	advmod	-	contemptuously	-			pl010000080	pl0100008	ITR, ECH	Björn
+10	Polek	Polek	PROPN	subst:sg:nom:m1	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	-	Polish women	-			pl010000081	pl0100008	ITR, ECH	Björn
+11	.	.	PUNCT	interp	PunctType=Peri	8	punct	-	.	-			pl010000082	pl0100008	ITR, ECH	Björn
+1	-	-	PUNCT	interp	PunctType=Dash	4	punct	-	-	-			pl010000083	pl0100008	ITR, ECH	Björn
+2	Ja	ja	PRON	ppron12:sg:nom:m1:pri	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	-	i	-			pl010000084	pl0100008	ITR, ECH	Björn
+3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	-	myself	-			pl010000085	pl0100008	ITR, ECH	Björn
+4	czepiam	czepiać	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	pick on	IND.PRS.1.SG			pl010000086	pl0100008	ITR, ECH	Björn
+5	?	?	PUNCT	interp	PunctType=Qest	4	punct	-	?	-			pl010000087	pl0100008	ITR, ECH	Björn
+1	To	to	PART	part	-	2	advmod:emph	-	this	-		_omit_annotations_	pl010000088	pl0100008	ITR, ECH	Björn
+2	ty	ty	PRON	ppron12:sg:nom:m1:sec	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	-	you	-		_omit_annotations_	pl010000089	pl0100008	ITR, ECH	Björn
+3	mnie	ja	PRON	ppron12:sg:acc:m1:pri:akc	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long	4	obj	-	i	-		_omit_annotations_	pl010000090	pl0100008	ITR, ECH	Björn
+4	popchnął	popchnąć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	push	PFV.IND.PST.SG.M			pl010000091	pl0100008	ITR, ECH	Björn
+5	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=2|Variant=Long	4	aux:clitic	-	to be	2.SG			pl010000092	pl0100008	ITR, ECH	Björn
+6	.	.	PUNCT	interp	PunctType=Peri	4	punct	-	.	-			pl010000093	pl0100008	ITR, ECH	Björn
+1	Chciał	chcieć	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to want	IND.PST.SG.M			pl010000094	pl0100009	GIVE, IMPP, ITR	Björn
+2	ją	on	PRON	ppron3:sg:acc:f:ter:akc:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	3	obj	-	he	-			pl010000095	pl0100009	GIVE, IMPP, ITR	Björn
+3	obrazić	obrazić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	-	offend	PFV			pl010000096	pl0100009	GIVE, IMPP, ITR	Björn
+4	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl010000097	pl0100009	GIVE, IMPP, ITR	Björn
+5	ale	ale	CCONJ	conj	-	6	cc	-	but	-			pl010000098	pl0100009	GIVE, IMPP, ITR	Björn
+6	ucieszyła	ucieszyć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	-	please	PFV.IND.PST.SG.F			pl010000099	pl0100009	GIVE, IMPP, ITR	Björn
+7	się	się	PRON	part	PronType=Prs|Reflex=Yes	6	expl:pv	-	myself	-			pl010000100	pl0100009	GIVE, IMPP, ITR	Björn
+8	,	,	PUNCT	interp	PunctType=Comm	9	punct	-	,	-			pl010000101	pl0100009	GIVE, IMPP, ITR	Björn
+9	przestała	przestać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	stop	PFV.IND.PST.SG.F			pl010000102	pl0100009	GIVE, IMPP, ITR	Björn
+10	kopać	kopać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	-	to dig				pl010000103	pl0100009	GIVE, IMPP, ITR	Björn
+11	i	i	CCONJ	conj	-	12	cc	-	and	-			pl010000104	pl0100009	GIVE, IMPP, ITR	Björn
+12	dała	dać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	to give	PFV.IND.PST.SG.F			pl010000105	pl0100009	GIVE, IMPP, ITR	Björn
+13	sobie	siebie	PRON	siebie:dat	Case=Dat|PronType=Prs|Reflex=Yes	14	expl:pv	-	myself	-			pl010000106	pl0100009	GIVE, IMPP, ITR	Björn
+14	zrobić	zrobić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	12	xcomp	-	to do	PFV			pl010000107	pl0100009	GIVE, IMPP, ITR	Björn
+15	zastrzyk	zastrzyk	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	obj	-	shot	ACC.SG.M			pl010000108	pl0100009	GIVE, IMPP, ITR	Björn
+16	uspokajający	uspokajający	ADJ	adj:sg:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	amod	-	soothing	ACC.SG.M			pl010000109	pl0100009	GIVE, IMPP, ITR	Björn
+17	.	.	PUNCT	interp	PunctType=Peri	1	punct	-	.	-			pl010000110	pl0100009	GIVE, IMPP, ITR	Björn
+1	Prace	praca	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	10	nsubj	-	job	NOM.PL.F			pl010000111	pl0100010	DOM	Imke
+2	nadesłane	nadesłać	ADJ	ppas:pl:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	acl	-	submit	NOM.PL.F			pl010000112	pl0100010	DOM	Imke
+3	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	4	case	-	by	-			pl010000113	pl0100010	DOM	Imke
+4	przedszkolaki	przedszkolak	NOUN	subst:pl:acc:n:col	Case=Acc|Gender=Neut|Number=Plur	2	obl:agent	-	preschooler	ACC.PL			pl010000114	pl0100010	DOM	Imke
+5	,	,	PUNCT	interp	PunctType=Comm	6	punct	-	,	-			pl010000115	pl0100010	DOM	Imke
+6	uczniów	uczeń	NOUN	subst:pl:acc:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	4	conj	-	student	GEN.PL.M			pl010000116	pl0100010	DOM	Imke
+7	i	i	CCONJ	conj	-	8	cc	-	and	-			pl010000117	pl0100010	DOM	Imke
+8	mieszkańców	mieszkaniec	NOUN	subst:pl:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur	4	conj	-	inhabitant	ACC.PL.M			pl010000118	pl0100010	DOM	Imke
+9	gminy	gmina	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	nmod	-	community	GEN.SG.F			pl010000119	pl0100010	DOM	Imke
+10	oceniało	oceniać	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to evaluate	IND.PST.SG			pl010000120	pl0100010	DOM	Imke
+11	jury	jury	NOUN	subst:pl:acc:n:ncol	Case=Acc|Gender=Neut|Number=Plur	10	obj	-	jury	ACC.PL			pl010000121	pl0100010	DOM	Imke
+12	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	13	case	-	in	-			pl010000122	pl0100010	DOM	Imke
+13	składzie	skład	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	10	obl	-	composition	LOC.SG.M			pl010000123	pl0100010	DOM	Imke
+14	.	.	PUNCT	interp	PunctType=Peri	10	punct	-	.	-			pl010000124	pl0100010	DOM	Imke
+1	że	że	SCONJ	comp	-	4	mark	-	that	COMP			pl010000125	pl0100011	DSM	Imke
+2	dyżurne	dyżurny	ADJ	adj:pl:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	3	amod	-	on duty	NOM.PL.F			pl010000126	pl0100011	DSM	Imke
+3	eksperty	ekspert	NOUN	subst:pl:nom:f	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	-	expert	NOM.PL.F			pl010000127	pl0100011	DSM	Imke
+4	wprowadziły	wprowadzić	VERB	praet:pl:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to introduce	PFV.IND.PST.PL.F			pl010000128	pl0100011	DSM	Imke
+5	by	by	AUX	part	-	4	aux:cnd	-	by	-			pl010000129	pl0100011	DSM	Imke
+6	strach	strach	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	-	fear	ACC.SG.M			pl010000130	pl0100011	DSM	Imke
+7	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	-	in	-			pl010000131	pl0100011	DSM	Imke
+8	społeczeństwie	społeczeństwo	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	4	obl	-	society	LOC.SG			pl010000132	pl0100011	DSM	Imke
+9	.	.	PUNCT	interp	PunctType=Peri	4	punct	-	.	-			pl010000133	pl0100011	DSM	Imke
+1	зачем	зачем	ADV	-	Degree=Pos	4	advmod	-	why	-			ru010000001	ru0100001	DIRSP, UPER	Barbara
+2	мне	я	PRON	-	Case=Dat|Number=Sing|Person=1	4	iobj	-	i	-			ru010000002	ru0100001	DIRSP, UPER	Barbara
+3	это	это	PRON	-	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obj	-	this is	-			ru010000003	ru0100001	DIRSP, UPER	Barbara
+4	делать	делать	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	-	do				ru010000004	ru0100001	DIRSP, UPER	Barbara
+5	?	?	PUNCT	-	-	4	punct	-	?	-			ru010000005	ru0100001	DIRSP, UPER	Barbara
+1	Специалист	специалист	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	specialist	NOM.SG.M			ru010000006	ru0100002	AGRSEM	Barbara
+2	добавила	добавить	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	add	PFV.IND.PST.SG.F			ru010000007	ru0100002	AGRSEM	Barbara
+3	,	,	PUNCT	-	-	4	punct	-	,	-			ru010000008	ru0100002	AGRSEM	Barbara
+4	что	что	SCONJ	-	-	2	obj	-	what	-			ru010000009	ru0100002	AGRSEM	Barbara
+1	сама	сам	ADJ	-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	obl	-	myself	NOM.SG.F			ru010000010	ru0100003	NOMPRED, AGRSEM	Barbara
+2	бы	бы	AUX	-	-	4	aux	-	would	-			ru010000011	ru0100003	NOMPRED, AGRSEM	Barbara
+3	профессором	профессор	NOUN	-	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	4	obl	-	professor	INS.SG.M			ru010000012	ru0100003	NOMPRED, AGRSEM	Barbara
+4	стала	стать	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	become	PFV.IND.PST.SG.F			ru010000013	ru0100003	NOMPRED, AGRSEM	Barbara
+1	Семен	Семен	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Semyon	-			ru010000014	ru0100004	DOM	Barbara
+2	обзвонил	обзвонить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	call	PFV.IND.PST.SG.M			ru010000015	ru0100004	DOM	Barbara
+3	городские	городской	ADJ	-	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4	amod	-	urban	ACC.PL			ru010000016	ru0100004	DOM	Barbara
+4	гостиницы	гостиница	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	2	obj	-	hotel	ACC.PL.F			ru010000017	ru0100004	DOM	Barbara
+5	,	,	PUNCT	-	-	13	punct	-	,	-			ru010000018	ru0100004	DOM	Barbara
+6	но	но	CCONJ	-	-	13	cc	-	but	-			ru010000019	ru0100004	DOM	Barbara
+7	ни	ни	CCONJ	-	-	8	cc	-	neither	-			ru010000020	ru0100004	DOM	Barbara
+8	Светланы	Светлана	PROPN	-	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	13	nsubj	-	Svetlana	-			ru010000021	ru0100004	DOM	Barbara
+9	,	,	PUNCT	-	-	11	punct	-	,	-			ru010000022	ru0100004	DOM	Barbara
+10	ни	ни	CCONJ	-	-	11	cc	-	neither	-			ru010000023	ru0100004	DOM	Barbara
+11	Влада	Влад	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	conj	-	Vlad	-			ru010000024	ru0100004	DOM	Barbara
+12	не	не	PART	-	-	13	advmod	-	not	-			ru010000025	ru0100004	DOM	Barbara
+13	нашел	найти	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	find	PFV.IND.PST.SG.M			ru010000026	ru0100004	DOM	Barbara
+14	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000027	ru0100004	DOM	Barbara
+1	Я	я	PRON	-	Case=Nom|Number=Sing|Person=1	3	nsubj	-	i	-			ru010000028	ru0100005	DOM	Barbara
+2	не	не	PART	-	-	3	advmod	-	not	-			ru010000029	ru0100005	DOM	Barbara
+3	нашла	найти	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	find	PFV.IND.PST.SG.F			ru010000030	ru0100005	DOM	Barbara
+4	маму	мама	NOUN	-	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	3	obj	-	mother	ACC.SG.F			ru010000031	ru0100005	DOM	Barbara
+5	с	с	ADP	-	-	6	case	-	with	-			ru010000032	ru0100005	DOM	Barbara
+6	сестренкой	сестренка	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	3	obl	-	sister	INS.SG.F			ru010000033	ru0100005	DOM	Barbara
+7	,	,	PUNCT	-	-	8	punct	-	,	-			ru010000034	ru0100005	DOM	Barbara
+8	еду	еда	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	-	food	ACC.SG.F			ru010000035	ru0100005	DOM	Barbara
+9	без	без	ADP	-	-	10	case	-	without	-			ru010000036	ru0100005	DOM	Barbara
+10	них	они	PRON	-	Case=Gen|Number=Plur|Person=3	8	orphan	-	they	-			ru010000037	ru0100005	DOM	Barbara
+11	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000038	ru0100005	DOM	Barbara
+1	Сколько	сколько	NUM	-	-	2	nummod:gov	-	how many	-			ru010000039	ru0100006	UPER, DIRSP, DEO	Barbara
+2	раз	раз	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	4	obl	-	once	GEN.PL.M			ru010000040	ru0100006	UPER, DIRSP, DEO	Barbara
+3	тебе	ты	PRON	-	Case=Dat|Number=Sing|Person=2	4	iobj	-	you	-			ru010000041	ru0100006	UPER, DIRSP, DEO	Barbara
+4	говорить	говорить	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	-	talk				ru010000042	ru0100006	UPER, DIRSP, DEO	Barbara
+5	?	?	PUNCT	-	-	4	punct	-	?	-			ru010000043	ru0100006	UPER, DIRSP, DEO	Barbara
+1	Тарелка	тарелка	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	plate	NOM.SG.F			ru010000044	ru0100007	ITR	Barbara
+2	выскользнула	выскользнуть	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	sneak away	PFV.IND.PST.SG.F			ru010000045	ru0100007	ITR	Barbara
+3	из	из	ADP	-	-	4	case	-	from	-			ru010000046	ru0100007	ITR	Barbara
+4	рук	рука	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	obl	-	hand	GEN.PL.F			ru010000047	ru0100007	ITR	Barbara
+5	,	,	PUNCT	-	-	6	punct	-	,	-			ru010000048	ru0100007	ITR	Barbara
+6	разбилась	разбиться	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	-	crash	PFV.IND.PST.SG.F			ru010000049	ru0100007	ITR	Barbara
+1	Он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	-	he	-			ru010000050	ru0100008	ECH, IMPP, PSEK	Björn
+2	ее	ее	DET	-	-	3	det	-	her	-			ru010000051	ru0100008	ECH, IMPP, PSEK	Björn
+3	руку	рука	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obj	-	hand	ACC.SG.F			ru010000052	ru0100008	ECH, IMPP, PSEK	Björn
+4	не	не	PART	-	-	5	advmod	-	not	-			ru010000053	ru0100008	ECH, IMPP, PSEK	Björn
+5	показывает	показывать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	show	IND.PRS.3.SG			ru010000054	ru0100008	ECH, IMPP, PSEK	Björn
+6	,	,	PUNCT	-	-	9	punct	-	,	-			ru010000055	ru0100008	ECH, IMPP, PSEK	Björn
+7	а	а	CCONJ	-	-	9	cc	-	a	-			ru010000056	ru0100008	ECH, IMPP, PSEK	Björn
+8	ты	ты	PRON	-	Case=Nom|Number=Sing|Person=2	9	nsubj	-	you	-			ru010000057	ru0100008	ECH, IMPP, PSEK	Björn
+9	ухитрись	ухиться	VERB	-	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Mid	5	conj	-	take a piss	IMP.2.SG			ru010000058	ru0100008	ECH, IMPP, PSEK	Björn
+10	и	и	CCONJ	-	-	11	cc	-	and	-			ru010000059	ru0100008	ECH, IMPP, PSEK	Björn
+11	посмотри	смотреть	VERB	-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	5	conj	-	watch	PFV.IMP.2.SG			ru010000060	ru0100008	ECH, IMPP, PSEK	Björn
+12	.	.	PUNCT	-	-	5	punct	-	.	-			ru010000061	ru0100008	ECH, IMPP, PSEK	Björn
+1	Роль	роль	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	-	role	NOM.SG.F		_omit_annotations_	ru010000062	ru0100009	APPR	Björn
+2	дружки	другок	NOUN	-	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	1	nmod	-	another	GEN.SG.F		_omit_annotations_	ru010000063	ru0100009	APPR	Björn
+3	велика	большой	ADJ	-	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	-	big	SG.F		_omit_annotations_	ru010000064	ru0100009	APPR	Björn
+4	:	:	PUNCT	-	-	6	punct	-	:	-			ru010000065	ru0100009	APPR	Björn
+5	он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	-	he	-			ru010000066	ru0100009	APPR	Björn
+6	отвечал	отвечать	VERB	-	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	-	reply	IND.PST.SG.M			ru010000067	ru0100009	APPR	Björn
+7	за	за	ADP	-	-	8	case	-	per	-			ru010000068	ru0100009	APPR	Björn
+8	коней	конь	NOUN	-	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obl	-	horse	ACC.PL.M			ru010000069	ru0100009	APPR	Björn
+9	и	и	CCONJ	-	-	10	cc	-	and	-			ru010000070	ru0100009	APPR	Björn
+10	следил	следить	VERB	-	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	-	track	IND.PST.SG.M			ru010000071	ru0100009	APPR	Björn
+11	,	,	PUNCT	-	-	16	punct	-	,	-			ru010000072	ru0100009	APPR	Björn
+12	как	как	ADV	-	Degree=Pos	16	advmod	-	how	-			ru010000073	ru0100009	APPR	Björn
+13	бы	бы	AUX	-	-	16	aux	-	would	-			ru010000074	ru0100009	APPR	Björn
+14	свадьбе	свадьба	NOUN	-	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	16	iobj	-	wedding	DAT.SG.F			ru010000075	ru0100009	APPR	Björn
+15	не	не	PART	-	-	16	advmod	-	not	-			ru010000076	ru0100009	APPR	Björn
+16	повредили	повредить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	-	to harm	PFV.IND.PST.PL			ru010000077	ru0100009	APPR	Björn
+17	местные	местный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	18	amod	-	local	NOM.PL			ru010000078	ru0100009	APPR	Björn
+18	колдуны	колдуна	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	16	nsubj	-	sorcerer	NOM.PL.M			ru010000079	ru0100009	APPR	Björn
+19	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000080	ru0100009	APPR	Björn
+1	И	и	CCONJ	-	-	4	cc	-	and	-			ru010000081	ru0100010	APPR	Björn
+2	Володя	Володя	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	-	Volodya	-			ru010000082	ru0100010	APPR	Björn
+3	однажды	однажды	ADV	-	Degree=Pos	4	advmod	-	once	-			ru010000083	ru0100010	APPR	Björn
+4	сказал	сказать	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to tell	PFV.IND.PST.SG.M			ru010000084	ru0100010	APPR	Björn
+5	мне	я	PRON	-	Case=Dat|Number=Sing|Person=1	4	iobj	-	i	-			ru010000085	ru0100010	APPR	Björn
+6	,	,	PUNCT	-	-	9	punct	-	,	-			ru010000086	ru0100010	APPR	Björn
+7	что	что	SCONJ	-	-	9	mark	-	what	COMP			ru010000087	ru0100010	APPR	Björn
+8	там	там	ADV	-	Degree=Pos	9	advmod	-	there	-			ru010000088	ru0100010	APPR	Björn
+9	возникли	возникнуть	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	-	arise	PFV.IND.PST.PL			ru010000089	ru0100010	APPR	Björn
+10	проблемы	проблема	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	9	nsubj	-	problem	NOM.PL.F			ru010000090	ru0100010	APPR	Björn
+11	,	,	PUNCT	-	-	13	punct	-	,	-			ru010000091	ru0100010	APPR	Björn
+12	и	и	CCONJ	-	-	13	cc	-	and	-			ru010000092	ru0100010	APPR	Björn
+13	обронил	обронить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	-	drop	PFV.IND.PST.SG.M			ru010000093	ru0100010	APPR	Björn
+14	фразу	фраза	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	13	obj	-	phrase	ACC.SG.F			ru010000094	ru0100010	APPR	Björn
+15	:	:	PUNCT	-	-	21	punct	-	:	-			ru010000095	ru0100010	APPR	Björn
+16	-	-	PUNCT	-	-	21	punct	-	-	-			ru010000096	ru0100010	APPR	Björn
+17	Как	как	ADV	-	Degree=Pos	21	advmod	-	how	-			ru010000097	ru0100010	APPR	Björn
+18	бы	бы	AUX	-	-	21	aux	-	would	-			ru010000098	ru0100010	APPR	Björn
+19	меня	я	PRON	-	Case=Acc|Number=Sing|Person=1	21	obj	-	i	-			ru010000099	ru0100010	APPR	Björn
+20	не	не	PART	-	-	21	advmod	-	not	-			ru010000100	ru0100010	APPR	Björn
+21	убили	убить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	14	parataxis	-	kill	PFV.IND.PST.PL			ru010000101	ru0100010	APPR	Björn
+22	-	-	PUNCT	-	-	21	punct	-	-	-			ru010000102	ru0100010	APPR	Björn
+23	.	.	PUNCT	-	-	4	punct	-	.	-			ru010000103	ru0100010	APPR	Björn
+1	И	и	CCONJ	-	-	3	cc	-	and	-			ru010000104	ru0100011	APPR	Björn
+2	парень	парень	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	-	guy	NOM.SG.M			ru010000105	ru0100011	APPR	Björn
+3	начал	начать	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to begin	PFV.IND.PST.SG.M			ru010000106	ru0100011	APPR	Björn
+4	опасаться	опасаться	VERB	-	Aspect=Imp|VerbForm=Inf|Voice=Mid	3	xcomp	-	fear				ru010000107	ru0100011	APPR	Björn
+5	,	,	PUNCT	-	-	11	punct	-	,	-			ru010000108	ru0100011	APPR	Björn
+6	как	как	ADV	-	Degree=Pos	11	advmod	-	how	-			ru010000109	ru0100011	APPR	Björn
+7	бы	бы	AUX	-	-	11	aux	-	would	-			ru010000110	ru0100011	APPR	Björn
+8	его	его	DET	-	-	9	det	-	his	-			ru010000111	ru0100011	APPR	Björn
+9	неуверенности	неуверенность	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	obl	-	uncertainty	GEN.SG.F			ru010000112	ru0100011	APPR	Björn
+10	не	не	PART	-	-	11	advmod	-	not	-			ru010000113	ru0100011	APPR	Björn
+11	заметили	заметить	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	-	notice	PFV.IND.PST.PL			ru010000114	ru0100011	APPR	Björn
+12	остальные	остальной	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	11	nsubj	-	the rest	NOM.PL			ru010000115	ru0100011	APPR	Björn
+13	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000116	ru0100011	APPR	Björn
+1	Она	она	PRON	-	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	-	she is	-			ru010000117	ru0100012	APPR	Björn
+2	вылезла	вылезть	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	crawl out	PFV.IND.PST.SG.F			ru010000118	ru0100012	APPR	Björn
+3	из	из	ADP	-	-	4	case	-	from	-			ru010000119	ru0100012	APPR	Björn
+4	воды	вода	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	2	obl	-	water	GEN.SG.F			ru010000120	ru0100012	APPR	Björn
+5	и	и	CCONJ	-	-	6	cc	-	and	-			ru010000121	ru0100012	APPR	Björn
+6	сказала	сказать	VERB	-	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	to tell	PFV.IND.PST.SG.F			ru010000122	ru0100012	APPR	Björn
+7	:	:	PUNCT	-	-	12	punct	-	:	-			ru010000123	ru0100012	APPR	Björn
+8	-	-	PUNCT	-	-	12	punct	-	-	-			ru010000124	ru0100012	APPR	Björn
+9	Ах	ах	INTJ	-	-	12	parataxis	-	oh	-			ru010000125	ru0100012	APPR	Björn
+10	,	,	PUNCT	-	-	9	punct	-	,	-			ru010000126	ru0100012	APPR	Björn
+11	как	как	ADV	-	Degree=Pos	12	obl	-	how	-			ru010000127	ru0100012	APPR	Björn
+12	хорошо	хороший	ADJ	-	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	parataxis	-	good	SG			ru010000128	ru0100012	APPR	Björn
+13	!	!	PUNCT	-	-	12	punct	-	!	-			ru010000129	ru0100012	APPR	Björn
+14	-	-	PUNCT	-	-	20	punct	-	-	-			ru010000130	ru0100012	APPR	Björn
+15	-	-	PUNCT	-	-	20	punct	-	-	-			ru010000131	ru0100012	APPR	Björn
+16	лишь	лишь	PART	-	-	20	advmod	-	only	-			ru010000132	ru0100012	APPR	Björn
+17	бы	бы	AUX	-	-	20	aux	-	would	-			ru010000133	ru0100012	APPR	Björn
+18	никто	никто	PRON	-	Case=Nom	20	nsubj	-	nobody	-			ru010000134	ru0100012	APPR	Björn
+19	не	не	PART	-	-	20	advmod	-	not	-			ru010000135	ru0100012	APPR	Björn
+20	увидел	видеть	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	see	PFV.IND.PST.SG.M			ru010000136	ru0100012	APPR	Björn
+21	,	,	PUNCT	-	-	24	punct	-	,	-			ru010000137	ru0100012	APPR	Björn
+22	как	как	SCONJ	-	-	24	mark	-	how	COMP			ru010000138	ru0100012	APPR	Björn
+23	ей	она	PRON	-	Case=Dat|Gender=Fem|Number=Sing|Person=3	24	iobj	-	she is	-			ru010000139	ru0100012	APPR	Björn
+24	больно	больно	ADV	-	Degree=Pos	20	ccomp	-	painfully	-			ru010000140	ru0100012	APPR	Björn
+25	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000141	ru0100012	APPR	Björn
+1	После	после	ADP	-	-	2	case	-	after	-		_omit_annotations_	ru010000142	ru0100013	REZI	Björn
+2	скручивания	скручивание	NOUN	-	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	6	obl	-	twisting	GEN.SG		_omit_annotations_	ru010000143	ru0100013	REZI	Björn
+3	шаль	шаль	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obj	-	shawl	ACC.SG.F		_omit_annotations_	ru010000144	ru0100013	REZI	Björn
+4	и	и	CCONJ	-	-	5	cc	-	and	-		_omit_annotations_	ru010000145	ru0100013	REZI	Björn
+5	скатерть	скатерть	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	3	conj	-	tablecloth	ACC.SG.F		_omit_annotations_	ru010000146	ru0100013	REZI	Björn
+6	убирали	убирать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	remove	IND.PST.PL		_omit_annotations_	ru010000147	ru0100013	REZI	Björn
+7	,	,	PUNCT	-	-	14	punct	-	,	-			ru010000148	ru0100013	REZI	Björn
+8	и	и	CCONJ	-	-	14	cc	-	and	-		_omit_annotations_	ru010000149	ru0100013	REZI	Björn
+9	новобрачные	новобрачный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	14	nsubj	-	newlywed	NOM.PL			ru010000150	ru0100013	REZI	Björn
+10	на	на	ADP	-	-	11	case	-	on the	-			ru010000151	ru0100013	REZI	Björn
+11	глазах	глаз	NOUN	-	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	14	obl	-	eye	LOC.PL.M			ru010000152	ru0100013	REZI	Björn
+12	у	у	ADP	-	-	13	case	-	at	-			ru010000153	ru0100013	REZI	Björn
+13	всех	все	PRON	-	Animacy=Anim|Case=Gen|Number=Plur	14	obl	-	all	-			ru010000154	ru0100013	REZI	Björn
+14	целовались	целоваться	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	-	kiss	IND.PST.PL			ru010000155	ru0100013	REZI	Björn
+15	(	(	PUNCT	-	-	16	punct	-	(	-			ru010000156	ru0100013	REZI	Björn
+16	молодились	молодиться	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	14	parataxis	-	be young	IND.PST.PL			ru010000157	ru0100013	REZI	Björn
+17	)	)	PUNCT	-	-	16	punct	-	)	-			ru010000158	ru0100013	REZI	Björn
+18	.	.	PUNCT	-	-	6	punct	-	.	-			ru010000159	ru0100013	REZI	Björn
+1	Надя	Надя	NOUN	-	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	nadya	NOM.SG.F			ru010000160	ru0100014	REZI	Björn
+2	целовалась	целоваться	VERB	-	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	kiss	IND.PST.SG.F			ru010000161	ru0100014	REZI	Björn
+3	с	с	ADP	-	-	4	case	-	with	-			ru010000162	ru0100014	REZI	Björn
+4	военным	военный	NOUN	-	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	2	obl	-	military	INS.SG.M			ru010000163	ru0100014	REZI	Björn
+5	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000164	ru0100014	REZI	Björn
+1	Андрей	Андрей	PROPN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	-	Andrew	-			ru010000165	ru0100015	PSEK	Imke
+2	изловчился	изловчиться	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	contrive	PFV.IND.PST.SG.M			ru010000166	ru0100015	PSEK	Imke
+3	и	и	CCONJ	-	-	7	cc	-	and	-			ru010000167	ru0100015	PSEK	Imke
+4	с	с	ADP	-	-	6	case	-	with	-			ru010000168	ru0100015	PSEK	Imke
+5	третьей	третий	ADJ	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	-	third	GEN.SG.F			ru010000169	ru0100015	PSEK	Imke
+6	попытки	попытка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	7	obl	-	attempt	GEN.SG.F			ru010000170	ru0100015	PSEK	Imke
+7	разбил	разбить	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	-	smash	PFV.IND.PST.SG.M			ru010000171	ru0100015	PSEK	Imke
+8	камнем	камень	NOUN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	obl	-	stone	INS.SG.M			ru010000172	ru0100015	PSEK	Imke
+9	лампу	лампа	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	obj	-	lamp	ACC.SG.F			ru010000173	ru0100015	PSEK	Imke
+10	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000174	ru0100015	PSEK	Imke
+1	Как-то	как-то	ADV	-	Degree=Pos	3	advmod	-	somehow	-			ru010000175	ru0100016	PSEK	Imke
+2	я	я	PRON	-	Case=Nom|Number=Sing|Person=1	3	nsubj	-	i	-			ru010000176	ru0100016	PSEK	Imke
+3	сумел	уметь	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	be able to	PFV.IND.PST.SG.M			ru010000177	ru0100016	PSEK	Imke
+4	изловчиться	изловчиться	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Mid	3	xcomp	-	contrive	PFV			ru010000178	ru0100016	PSEK	Imke
+5	и	и	CCONJ	-	-	6	cc	-	and	-			ru010000179	ru0100016	PSEK	Imke
+6	ударить	ударить	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	4	conj	-	hit	PFV			ru010000180	ru0100016	PSEK	Imke
+7	её	ее	DET	-	-	8	det	-	her	-			ru010000181	ru0100016	PSEK	Imke
+8	головой	голова	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	6	obl	-	head	INS.SG.F			ru010000182	ru0100016	PSEK	Imke
+9	в	в	ADP	-	-	11	case	-	in	-			ru010000183	ru0100016	PSEK	Imke
+10	нижнюю	нижний	ADJ	-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	-	lower	ACC.SG.F			ru010000184	ru0100016	PSEK	Imke
+11	челюсть	челюсть	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	-	jaw	ACC.SG.F			ru010000185	ru0100016	PSEK	Imke
+12	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000186	ru0100016	PSEK	Imke
+1	Якобы	якобы	ADV	-	Degree=Pos	2	obl	-	supposedly	-			ru010000187	ru0100017	SPEC, INDEFIN	Imke
+2	трейлеры	трейлер	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	-	trailer	NOM.PL.M			ru010000188	ru0100017	SPEC, INDEFIN	Imke
+3	с	с	ADP	-	-	4	case	-	with	-			ru010000189	ru0100017	SPEC, INDEFIN	Imke
+4	аппаратурой	аппаратура	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	nmod	-	equipment	INS.SG.F			ru010000190	ru0100017	SPEC, INDEFIN	Imke
+5	застряли	застрять	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	get stuck	PFV.IND.PST.PL			ru010000191	ru0100017	SPEC, INDEFIN	Imke
+6	где-то	где-то	ADV	-	Degree=Pos	5	advmod	-	somewhere	-			ru010000192	ru0100017	SPEC, INDEFIN	Imke
+7	под	под	ADP	-	-	9	case	-	under	-			ru010000193	ru0100017	SPEC, INDEFIN	Imke
+8	Нижним	нижний	ADJ	-	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	9	amod	-	lower	INS.SG.M			ru010000194	ru0100017	SPEC, INDEFIN	Imke
+9	Новгородом	Новгород	PROPN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	5	obl	-	Novgorod	-			ru010000195	ru0100017	SPEC, INDEFIN	Imke
+10	.	.	PUNCT	-	-	5	punct	-	.	-			ru010000196	ru0100017	SPEC, INDEFIN	Imke
+1	Похоже	похоже	ADV	-	Degree=Pos	7	parataxis	-	it seems	-			ru010000197	ru0100018	SPEC, INDEFIN	Imke
+2	,	,	PUNCT	-	-	1	punct	-	,	-			ru010000198	ru0100018	SPEC, INDEFIN	Imke
+3	у	у	ADP	-	-	4	case	-	at	-			ru010000199	ru0100018	SPEC, INDEFIN	Imke
+4	организаторов	организатор	NOUN	-	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	-	organizer	GEN.PL.M			ru010000200	ru0100018	SPEC, INDEFIN	Imke
+5	что-то	что-то	PRON	-	Case=Nom	7	nsubj	-	something	-			ru010000201	ru0100018	SPEC, INDEFIN	Imke
+6	не	не	PART	-	-	7	advmod	-	not	-			ru010000202	ru0100018	SPEC, INDEFIN	Imke
+7	заладилось	заладиться	VERB	-	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	get on well	PFV.IND.PST.SG			ru010000203	ru0100018	SPEC, INDEFIN	Imke
+8	с	с	ADP	-	-	9	case	-	with	-			ru010000204	ru0100018	SPEC, INDEFIN	Imke
+9	рекламой	реклама	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	obl	-	advertising	INS.SG.F			ru010000205	ru0100018	SPEC, INDEFIN	Imke
+10	форума	форум	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod	-	forum	GEN.SG.M			ru010000206	ru0100018	SPEC, INDEFIN	Imke
+11	.	.	PUNCT	-	-	7	punct	-	.	-			ru010000207	ru0100018	SPEC, INDEFIN	Imke
+1	Но	но	CCONJ	-	-	10	cc	-	but	-			ru010000208	ru0100019	SPEC, INDEFIN	Imke
+2	с	с	ADP	-	-	3	case	-	with	-			ru010000209	ru0100019	SPEC, INDEFIN	Imke
+3	приходом	приход	NOUN	-	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	10	obl	-	coming	INS.SG.M			ru010000210	ru0100019	SPEC, INDEFIN	Imke
+4	зимы	зима	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	nmod	-	winter	GEN.SG.F			ru010000211	ru0100019	SPEC, INDEFIN	Imke
+5	как	как	ADV	-	Degree=Pos	10	advmod	-	how	-			ru010000212	ru0100019	SPEC, INDEFIN	Imke
+6	будто	будто	PART	-	-	5	fixed	-	as if	-			ru010000213	ru0100019	SPEC, INDEFIN	Imke
+7	что-то	что-то	PRON	-	Case=Nom	10	nsubj	-	something	-			ru010000214	ru0100019	SPEC, INDEFIN	Imke
+8	с	с	ADP	-	-	9	case	-	with	-			ru010000215	ru0100019	SPEC, INDEFIN	Imke
+9	ними	они	PRON	-	Case=Ins|Number=Plur|Person=3	7	nmod	-	they	-			ru010000216	ru0100019	SPEC, INDEFIN	Imke
+10	происходит	происходить	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	take place	IND.PRS.3.SG			ru010000217	ru0100019	SPEC, INDEFIN	Imke
+11	.	.	PUNCT	-	-	10	punct	-	.	-			ru010000218	ru0100019	SPEC, INDEFIN	Imke
+1	Здоровались	здороваться	VERB	-	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	-	greet	PFV.IND.PST.PL		_omit_annotations_	ru010000219	ru0100020	NSPEC, INDEFIN	Imke
+2	.	.	PUNCT	-	-	1	punct	-	.	-			ru010000220	ru0100020	NSPEC, INDEFIN	Imke
+1	Наверное	наверное	ADV	-	Degree=Pos	3	parataxis	-	maybe	-			ru010000221	ru0100020	NSPEC, INDEFIN	Imke
+2	,	,	PUNCT	-	-	1	punct	-	,	-			ru010000222	ru0100020	NSPEC, INDEFIN	Imke
+3	считали	считать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	count	IND.PST.PL			ru010000223	ru0100020	NSPEC, INDEFIN	Imke
+4	меня	я	PRON	-	Case=Acc|Number=Sing|Person=1	3	obj	-	i	-			ru010000224	ru0100020	NSPEC, INDEFIN	Imke
+5	своей	свой	DET	-	Case=Ins|Gender=Fem|Number=Sing	3	det	-	mine	-			ru010000225	ru0100020	NSPEC, INDEFIN	Imke
+6	,	,	PUNCT	-	-	9	punct	-	,	-			ru010000226	ru0100020	NSPEC, INDEFIN	Imke
+7	особо	особо	ADV	-	Degree=Pos	8	advmod	-	especially	-			ru010000227	ru0100020	NSPEC, INDEFIN	Imke
+8	не	не	PART	-	-	9	advmod	-	not	-			ru010000228	ru0100020	NSPEC, INDEFIN	Imke
+9	задумываясь	задумываться	VERB	-	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	3	advcl	-	ponder	PRS			ru010000229	ru0100020	NSPEC, INDEFIN	Imke
+10	,	,	PUNCT	-	-	11	punct	-	,	-			ru010000230	ru0100020	NSPEC, INDEFIN	Imke
+11	мол	мол	ADV	-	Degree=Pos	9	parataxis	-	they say	-			ru010000231	ru0100020	NSPEC, INDEFIN	Imke
+12	,	,	PUNCT	-	-	11	punct	-	,	-			ru010000232	ru0100020	NSPEC, INDEFIN	Imke
+13	я	я	PRON	-	Case=Nom|Number=Sing|Person=1	14	nsubj	-	i	-			ru010000233	ru0100020	NSPEC, INDEFIN	Imke
+14	здесь	здесь	ADV	-	Degree=Pos	16	advmod	-	here	-			ru010000234	ru0100020	NSPEC, INDEFIN	Imke
+15	с	с	ADP	-	-	16	case	-	with	-			ru010000235	ru0100020	NSPEC, INDEFIN	Imke
+16	кем-нибудь	кто-нибудь	PRON	-	Case=Ins	9	obl	-	anyone	-			ru010000236	ru0100020	NSPEC, INDEFIN	Imke
+17	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000237	ru0100020	NSPEC, INDEFIN	Imke
+1	Наверно	наверно	ADV	-	Degree=Pos	6	parataxis	-	maybe	-			ru010000238	ru0100021	EPIST, INDEFIN	Imke
+2	,	,	PUNCT	-	-	1	punct	-	,	-			ru010000239	ru0100021	EPIST, INDEFIN	Imke
+3	и	и	PART	-	-	5	advmod	-	and	-			ru010000240	ru0100021	EPIST, INDEFIN	Imke
+4	у	у	ADP	-	-	5	case	-	at	-			ru010000241	ru0100021	EPIST, INDEFIN	Imke
+5	него	он	PRON	-	Case=Gen|Gender=Masc|Number=Sing|Person=3	6	obl	-	he	-			ru010000242	ru0100021	EPIST, INDEFIN	Imke
+6	была	быть	AUX	-	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	to be	IND.PST.SG.F			ru010000243	ru0100021	EPIST, INDEFIN	Imke
+7	какая-то	какой-то	DET	-	Case=Nom|Gender=Fem|Number=Sing	8	det	-	some	-			ru010000244	ru0100021	EPIST, INDEFIN	Imke
+8	неудача	неудача	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	-	failure	NOM.SG.F			ru010000245	ru0100021	EPIST, INDEFIN	Imke
+9	в	в	ADP	-	-	11	case	-	in	-			ru010000246	ru0100021	EPIST, INDEFIN	Imke
+10	личной	личный	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	-	private	LOC.SG.F			ru010000247	ru0100021	EPIST, INDEFIN	Imke
+11	жизни	жизнь	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	8	nmod	-	life	LOC.SG.F			ru010000248	ru0100021	EPIST, INDEFIN	Imke
+12	.	.	PUNCT	-	-	6	punct	-	.	-			ru010000249	ru0100021	EPIST, INDEFIN	Imke
+1	—	—	PUNCT	-	-	0	root	-	—	-			ru010000250	ru0100022	EPIST, INDEFIN	Imke
+1	Знаешь	знать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	-	know	IND.PRS.2.SG			ru010000251	ru0100022	EPIST, INDEFIN	Imke
+2	,	,	PUNCT	-	-	1	punct	-	,	-			ru010000252	ru0100022	EPIST, INDEFIN	Imke
+3	наверно	наверно	ADV	-	Degree=Pos	9	parataxis	-	maybe	-			ru010000253	ru0100022	EPIST, INDEFIN	Imke
+4	,	,	PUNCT	-	-	3	punct	-	,	-			ru010000254	ru0100022	EPIST, INDEFIN	Imke
+5	кто-нибудь	кто-нибудь	PRON	-	Case=Nom	9	nsubj	-	anyone	-			ru010000255	ru0100022	EPIST, INDEFIN	Imke
+6	из	из	ADP	-	-	8	case	-	from	-			ru010000256	ru0100022	EPIST, INDEFIN	Imke
+7	наших	наш	DET	-	Case=Gen|Number=Plur	8	det	-	our	-			ru010000257	ru0100022	EPIST, INDEFIN	Imke
+8	приятелей	приятель	NOUN	-	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	5	nmod	-	buddy	GEN.PL.M			ru010000258	ru0100022	EPIST, INDEFIN	Imke
+9	зашел	зайти	VERB	-	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	come in	PFV.IND.PST.SG.M			ru010000259	ru0100022	EPIST, INDEFIN	Imke
+10	,	,	PUNCT	-	-	14	punct	-	,	-			ru010000260	ru0100022	EPIST, INDEFIN	Imke
+11	когда	когда	SCONJ	-	-	14	mark	-	when	COMP			ru010000261	ru0100022	EPIST, INDEFIN	Imke
+12	нас	мы	PRON	-	Case=Acc|Number=Plur|Person=1	14	nsubj	-	we	-			ru010000262	ru0100022	EPIST, INDEFIN	Imke
+13	не	не	PART	-	-	14	advmod	-	not	-			ru010000263	ru0100022	EPIST, INDEFIN	Imke
+14	было	быть	VERB	-	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	-	to be	IND.PST.SG			ru010000264	ru0100022	EPIST, INDEFIN	Imke
+15	.	.	PUNCT	-	-	9	punct	-	.	-			ru010000265	ru0100022	EPIST, INDEFIN	Imke
+1	давати	давать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	give	IND.PRS.2.SG			ru010000266	ru0100023	DOM	Imke
+2	ми	ми	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	obj	-	mi	NOM.SG.M			ru010000267	ru0100023	DOM	Imke
+3	доци	доца	NOUN	-	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	appos	-	dotsa	NOM.SG.M			ru010000268	ru0100023	DOM	Imke
+4	.	.	PUNCT	-	-	1	punct	-	.	-			ru010000269	ru0100023	DOM	Imke
+1	ино	ино	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	-	ino	ACC.SG.M			ru010000270	ru0100024	DOM	Imke
+2	достоит	достоять	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	reach	IND.PRS.3.SG			ru010000271	ru0100024	DOM	Imke
+3	мужу	муж	NOUN	-	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	2	iobj	-	husband	DAT.SG.M			ru010000272	ru0100024	DOM	Imke
+4	жена	жена	NOUN	-	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	-	wife	NOM.SG.F			ru010000273	ru0100024	DOM	Imke
+5	своя	свой	DET	-	Case=Nom|Gender=Fem|Number=Sing	4	det	-	mine	-			ru010000274	ru0100024	DOM	Imke
+6	наказывати	наказывать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	-	punish	IND.PRS.3.SG			ru010000275	ru0100024	DOM	Imke
+7	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000276	ru0100024	DOM	Imke
+1	и	и	CCONJ	-	-	2	cc	-	and	-			ru010000277	ru0100025	DOM	Imke
+2	онъ	онить	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	-	onit	IND.2.SG			ru010000278	ru0100025	DOM	Imke
+3	гдѣ	гдѣ	PUNCT	-	-	4	punct	-	where	-			ru010000279	ru0100025	DOM	Imke
+4	слышавъ	слышать	VERB	-	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	2	advcl	-	hear	PFV.PST			ru010000280	ru0100025	DOM	Imke
+5	вражду	вражда	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obj	-	enmity	ACC.SG.F			ru010000281	ru0100025	DOM	Imke
+6	-	-	PUNCT	-	-	9	punct	-	-	-			ru010000282	ru0100025	DOM	Imke
+7	-	-	PUNCT	-	-	9	punct	-	-	-			ru010000283	ru0100025	DOM	Imke
+8	любовь	любовь	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	obj	-	love	ACC.SG.F			ru010000284	ru0100025	DOM	Imke
+9	скажеть	скажеть	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	2	xcomp	-	say	PFV			ru010000285	ru0100025	DOM	Imke
+10	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000286	ru0100025	DOM	Imke
+1	не	не	PART	-	-	2	advmod	-	not	-			ru010000287	ru0100026	RS	Imke
+2	жаль	жаль	ADV	-	Degree=Pos	0	root	-	it's a pity	-			ru010000288	ru0100026	RS	Imke
+3	таких	такой	DET	-	Case=Gen|Number=Plur	2	nsubj	-	such	-			ru010000289	ru0100026	RS	Imke
+4	вот	вот	PART	-	-	3	advmod	-	here	-			ru010000290	ru0100026	RS	Imke
+5	или	или	CCONJ	-	-	6	cc	-	or	-			ru010000291	ru0100026	RS	Imke
+6	немного	немного	ADV	-	Degree=Pos	7	obl	-	a little	-			ru010000292	ru0100026	RS	Imke
+7	постарше	старший	ADJ	-	Degree=Cmp	2	obl	-	older				ru010000293	ru0100026	RS	Imke
+8	парнишек	парнишка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	7	obl	-	boy	GEN.PL.M			ru010000294	ru0100026	RS	Imke
+9	,	,	PUNCT	-	-	12	punct	-	,	-			ru010000295	ru0100026	RS	Imke
+10	что	что	SCONJ	-	-	12	mark	-	what	COMP			ru010000296	ru0100026	RS	Imke
+11	тысячами	тысяча	NOUN	-	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	12	obl	-	one thousand	INS.PL.F			ru010000297	ru0100026	RS	Imke
+12	бросают	бросать	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	-	throw	IND.PRS.3.PL			ru010000298	ru0100026	RS	Imke
+13	в	в	ADP	-	-	14	case	-	in	-			ru010000299	ru0100026	RS	Imke
+14	бой	бой	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	12	obl	-	the battle	ACC.SG.M			ru010000300	ru0100026	RS	Imke
+15	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000301	ru0100026	RS	Imke
+1	Занятия	занятие	NOUN	-	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	-	occupation	NOM.PL			ru010000302	ru0100027	XYZ	Sandra
+2	в	в	ADP	-	-	4	case	-	in	-			ru010000303	ru0100027	XYZ	Sandra
+3	летней	летний	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	-	summer	LOC.SG.F			ru010000304	ru0100027	XYZ	Sandra
+4	школе	школа	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	1	nmod	-	school	LOC.SG.F			ru010000305	ru0100027	XYZ	Sandra
+5	проходят	проходить	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	pass	IND.PRS.3.PL			ru010000306	ru0100027	XYZ	Sandra
+6	в	в	ADP	-	-	8	case	-	in	-			ru010000307	ru0100027	XYZ	Sandra
+7	первой	первый	ADJ	-	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	-	the first	LOC.SG.F			ru010000308	ru0100027	XYZ	Sandra
+8	половине	половина	NOUN	-	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	5	obl	-	half	LOC.SG.F			ru010000309	ru0100027	XYZ	Sandra
+9	дня	день	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	-	day	GEN.SG.M			ru010000310	ru0100027	XYZ	Sandra
+10	,	,	PUNCT	-	-	12	punct	-	,	-			ru010000311	ru0100027	XYZ	Sandra
+11	с	с	ADP	-	-	12	case	-	with	-			ru010000312	ru0100027	XYZ	Sandra
+12	9	9	NUM	-	-	8	conj	-	i	-			ru010000313	ru0100027	XYZ	Sandra
+13	утра	утро	NOUN	-	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	flat	-	morning	GEN.SG			ru010000314	ru0100027	XYZ	Sandra
+14	до	до	ADP	-	-	15	case	-	before	-			ru010000315	ru0100027	XYZ	Sandra
+15	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	12	nmod	-	hour	GEN.SG.M			ru010000316	ru0100027	XYZ	Sandra
+16	дня	день	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	15	nmod	-	day	GEN.SG.M			ru010000317	ru0100027	XYZ	Sandra
+17	.	.	PUNCT	-	-	5	punct	-	.	-			ru010000318	ru0100027	XYZ	Sandra
+1	Прошло	пройти	VERB	-	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	-	pass the	PFV.IND.PST.SG			ru010000319	ru0100028	XYZ	Sandra
+2	около	около	ADP	-	-	3	case	-	near	-			ru010000320	ru0100028	XYZ	Sandra
+3	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nsubj	-	hour	GEN.SG.M			ru010000321	ru0100028	XYZ	Sandra
+4	,	,	PUNCT	-	-	7	punct	-	,	-			ru010000322	ru0100028	XYZ	Sandra
+5	если	если	SCONJ	-	-	7	mark	-	if	COMP			ru010000323	ru0100028	XYZ	Sandra
+6	не	не	PART	-	-	7	advmod	-	not	-			ru010000324	ru0100028	XYZ	Sandra
+7	больше	больше	ADV	-	Degree=Cmp	1	advcl	-	more	-			ru010000325	ru0100028	XYZ	Sandra
+8	.	.	PUNCT	-	-	1	punct	-	.	-			ru010000326	ru0100028	XYZ	Sandra
+1	Он	он	PRON	-	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	-	he	-			ru010000327	ru0100029	XYZ	Sandra
+2	по	по	ADP	-	-	3	case	-	on	-			ru010000328	ru0100029	XYZ	Sandra
+3	опыту	опыт	NOUN	-	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	4	obl	-	an experience	DAT.SG.M			ru010000329	ru0100029	XYZ	Sandra
+4	знает	знать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	know	IND.PRS.3.SG			ru010000330	ru0100029	XYZ	Sandra
+5	,	,	PUNCT	-	-	7	punct	-	,	-			ru010000331	ru0100029	XYZ	Sandra
+6	как	как	ADV	-	Degree=Pos	7	advmod	-	how	-			ru010000332	ru0100029	XYZ	Sandra
+7	болят	болеть	VERB	-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	-	get sick	IND.PRS.3.PL			ru010000333	ru0100029	XYZ	Sandra
+8	нетренированные	нетренированный	ADJ	-	Case=Nom|Degree=Pos|Number=Plur	9	amod	-	untrained	NOM.PL			ru010000334	ru0100029	XYZ	Sandra
+9	мышцы	мышца	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	7	nsubj	-	muscle	NOM.PL.F			ru010000335	ru0100029	XYZ	Sandra
+10	даже	даже	PART	-	-	12	advmod	-	even	-			ru010000336	ru0100029	XYZ	Sandra
+11	после	после	ADP	-	-	12	case	-	after	-			ru010000337	ru0100029	XYZ	Sandra
+12	часа	час	NOUN	-	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	-	hour	GEN.SG.M			ru010000338	ru0100029	XYZ	Sandra
+13	лыжной	лыжный	ADJ	-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	-	ski	GEN.SG.F			ru010000339	ru0100029	XYZ	Sandra
+14	прогулки	прогулка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	-	stroll	GEN.SG.F			ru010000340	ru0100029	XYZ	Sandra
+15	.	.	PUNCT	-	-	4	punct	-	.	-			ru010000341	ru0100029	XYZ	Sandra
+1	Не	не	PART	-	-	2	advmod	-	not	-			ru010000342	ru0100030	PREPOST	Sandra
+2	думаю	думать	VERB	-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	-	think	IND.PRS.1.SG			ru010000343	ru0100030	PREPOST	Sandra
+3	,	,	PUNCT	-	-	6	punct	-	,	-			ru010000344	ru0100030	PREPOST	Sandra
+4	что	что	SCONJ	-	-	6	mark	-	what	COMP			ru010000345	ru0100030	PREPOST	Sandra
+5	фанаты	фанат	NOUN	-	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	6	nsubj	-	fan	NOM.PL.M			ru010000346	ru0100030	PREPOST	Sandra
+6	способны	способный	ADJ	-	Degree=Pos|Number=Plur|Variant=Short	2	ccomp	-	capable	PL			ru010000347	ru0100030	PREPOST	Sandra
+7	ради	ради	ADP	-	-	8	case	-	for the sake of	-			ru010000348	ru0100030	PREPOST	Sandra
+8	поездки	поездка	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	-	the trip	GEN.SG.F			ru010000349	ru0100030	PREPOST	Sandra
+9	на	на	ADP	-	-	10	case	-	on the	-			ru010000350	ru0100030	PREPOST	Sandra
+10	чемпионат	чемпионат	NOUN	-	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	-	championship	ACC.SG.M			ru010000351	ru0100030	PREPOST	Sandra
+11	совершить	совершить	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	-	commit	PFV			ru010000352	ru0100030	PREPOST	Sandra
+12	какое-нибудь	какой-нибудь	DET	-	Case=Acc|Gender=Neut|Number=Sing	13	det	-	some	-			ru010000353	ru0100030	PREPOST	Sandra
+13	безумство	безумство	NOUN	-	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obj	-	madness	ACC.SG			ru010000354	ru0100030	PREPOST	Sandra
+14	,	,	PUNCT	-	-	16	punct	-	,	-			ru010000355	ru0100030	PREPOST	Sandra
+15	например	например	ADV	-	Degree=Pos	16	advmod	-	for example	-			ru010000356	ru0100030	PREPOST	Sandra
+16	продать	продать	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	11	parataxis	-	sell	PFV			ru010000357	ru0100030	PREPOST	Sandra
+17	машину	машина	NOUN	-	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	16	obj	-	car	ACC.SG.F			ru010000358	ru0100030	PREPOST	Sandra
+18	.	.	PUNCT	-	-	2	punct	-	.	-			ru010000359	ru0100030	PREPOST	Sandra
+1	Справедливости	справедливость	NOUN	-	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	obl	-	justice	GEN.SG.F			ru010000360	ru0100031	PREPOST	Sandra
+2	ради	ради	ADP	-	-	1	case	-	for the sake of	-			ru010000361	ru0100031	PREPOST	Sandra
+3	надо	надо	ADV	-	Degree=Pos	0	root	-	necessary	-			ru010000362	ru0100031	PREPOST	Sandra
+4	сказать	сказать	VERB	-	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	-	to tell	PFV			ru010000363	ru0100031	PREPOST	Sandra
+5	,	,	PUNCT	-	-	10	punct	-	,	-			ru010000364	ru0100031	PREPOST	Sandra
+6	что	что	SCONJ	-	-	10	mark	-	what	COMP			ru010000365	ru0100031	PREPOST	Sandra
+7	многие	много	NUM	-	-	8	amod	-	a lot of	-			ru010000366	ru0100031	PREPOST	Sandra
+8	проблемы	проблема	NOUN	-	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	10	nsubj:pass	-	problem	NOM.PL.F			ru010000367	ru0100031	PREPOST	Sandra
+9	уже	уже	ADV	-	Degree=Pos	10	advmod	-	already	-			ru010000368	ru0100031	PREPOST	Sandra
+10	решены	решить	VERB	-	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	ccomp	-	decide	PFV.PST.PL			ru010000369	ru0100031	PREPOST	Sandra
+11	.	.	PUNCT	-	-	3	punct	-	.	-			ru010000370	ru0100031	PREPOST	Sandra

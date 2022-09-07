@@ -7,8 +7,8 @@ from googletrans import Translator
 translator = Translator()
 import string
 import re
-#stanza.download('hr')
-#stanza.download('sr')
+##stanza.download('hr')
+##stanza.download('sr')
 #stanza.download('cs')
 #stanza.download('pl')
 #stanza.download('ru')
@@ -26,17 +26,21 @@ class Input2Conllu():
             return "-"
         return str(s)
 
-    def textid(self, mylang, counter):
+    #def textid(self, mylang, counter, version):
+    def textid(self, mylang, myversion, counter):
         if mylang in langs:
-            id = mylang+str(counter).zfill(5)
+            id = mylang+str(myversion).zfill(2)+str(counter).zfill(5)
+            #id = mylang+str(counter).zfill(5)
             return id
         else:
             print("the language should be one of the following:" + " ".join(langs))
             exit()
 
-    def tokenid(self, mylang, counter):
+    #def tokenid(self, mylang, counter, version):
+    def tokenid(self, mylang, myversion, counter):
         if mylang in langs:
-            id = mylang+str(counter).zfill(7)
+            id = mylang+str(myversion).zfill(2)+str(counter).zfill(7)
+           # id = mylang+str(counter).zfill(7)
             return id
         else:
             print("the language should be one of the following:" + " ".join(langs))
@@ -47,12 +51,17 @@ class Input2Conllu():
         for line in open(self.inputfile).readlines()[1:]:
             line = line.rstrip("\n")
             linesp = line.split("\t")
+            #version = linesp[8]
             d[linesp[0]] += [linesp[1:]]
         for key in d:
             c = 0
+            #version="test"
             for v in d[key]:
+                version = v[8]
+
+                #print(v)
                 c+=1
-                id = self.textid(key, c)
+                id = self.textid(key, version, c)
                 v.append(id)
         return d
 
@@ -227,7 +236,8 @@ class Input2Conllu():
             # sort dict according to alignment id (k[5])
             # TODO: check this sorting again
             for example in sorted(self.inputdict[key],key=lambda k: (k[5])):
-                print (example)
+                #print (example)
+                version = example[8]
                 # LANGCODE	EXAMPLE	SOURCE	REFERENCE	REFERENCE_PAGE	CAT	GROUPID	EDITOR	COMMENT	VERSION	COMMENT_INTERN
                 example_text = self.replace_sonderzeichen(example[0])
                 category = example[4]
@@ -252,7 +262,7 @@ class Input2Conllu():
                     for word in sentence.words:
                         sec_t_counter +=1
                         c_token+=1
-                        tokenid = self.tokenid(key, c_token)
+                        tokenid = self.tokenid(key, version, c_token)
                         omit_annotations = ""
                         if sec_t_counter in dict_underlined_ids[example_id]:
                         #if int(word.id) in dict_underlined_ids[example_id]:
