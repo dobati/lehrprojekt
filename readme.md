@@ -45,7 +45,7 @@ The first 9 columns match the standard CoNNL-U format:
 7. HEAD: Head of the current word, which is either a value of ID or zero (0).
 8. DEPREL: Universal dependency relation to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one.
 9. MISC: Any other annotation.
-10. ENGLISH: English translation of the lemma (created with GoogleTrans Python-Library: https://pypi.org/project/googletrans/)
+10. ENGLISH: English translation of the lemma (created with GoogleTrans Python-Library for Serbian and DeepL API for other languages)
 11. GLOSS: Leipzig Glossing Rules (https://www.eva.mpg.de/lingua/pdf/Glossing-Rules.pdf)
 12. GLOSSKORR: Corrected annotations from the column GLOSS
 13. OMIT_ANNOTATIONS: The value "_omit_annotations_" in this column stands for those tokens for which the annotations must not be shown on the Web-Interface
@@ -96,41 +96,4 @@ The columns 16. and 17. are only there for our information and should be removed
 
 Python 3.10
 
-Libraries
-
-certifi==2022.6.15\
-chardet==3.0.4\
-charset-normalizer==2.0.12\
-classla==1.2.0\
-emoji==2.0.0\
-filelock==3.8.0\
-googletrans==3.1.0a0\
-h11==0.9.0\
-h2==3.2.0\
-hpack==3.0.0\
-hstspreload==2022.9.1\
-httpcore==0.9.1\
-httpx==0.13.3\
-huggingface-hub==0.9.1\
-hyperframe==5.2.0\
-idna==2.10\
-lxml==4.9.1\
-numpy==1.23.0\
-obeliks==1.1.6\
-packaging==21.3\
-protobuf==4.21.2\
-pyparsing==3.0.9\
-PyYAML==6.0\
-regex==2022.8.17\
-reldi-tokeniser==1.0.2\
-requests==2.28.0\
-rfc3986==1.5.0\
-six==1.16.0\
-sniffio==1.3.0\
-stanza==1.4.0\
-tokenizers==0.12.1\
-torch==1.12.0\
-tqdm==4.62.3\
-transformers==4.21.3\
-typing_extensions==4.3.0\
-urllib3==1.26.12\
+Libraries (see requirements.txt)

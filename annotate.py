@@ -3,10 +3,19 @@
 import stanza
 import classla
 from collections import defaultdict
-from googletrans import Translator
-translator = Translator()
 import string
 import re
+
+from googletrans import Translator
+translatorgoo = Translator()
+
+
+import deepl
+with open("../deepl_auth_key.txt") as file:
+    auth_key = file.read().replace('\n', '')
+translatordl = deepl.Translator(auth_key)
+
+
 ##stanza.download('hr')
 ##stanza.download('sr')
 #stanza.download('cs')
@@ -19,7 +28,7 @@ class Input2Conllu():
         self.inputfile = inputfile
         self.annotated_output = annotated_output
         self.inputdict = self.input2dict()
-        self.trlangs = ["pl", "ru", "cs", "sr"]
+        self.trlangs = ["pl", "ru", "cs"]
 
     def xstr(self, s):
         if s is None:
@@ -72,12 +81,19 @@ class Input2Conllu():
             return mylemma
         else:
             if mykey in self.trlangs:
-                translation = translator.translate(mylemma, src=mykey)
-                #print(mykey, translation.origin, ' -> ', translation.text)
+
+                translation = translatordl.translate_text(mylemma, source_lang=mykey.upper(), target_lang="EN-GB")
                 if upos == "PROPN":
                     return translation.text
                 else:
                     return translation.text.lower()
+            elif mykey == "sr":
+                translation = translatorgoo.translate(mylemma, src=mykey)
+                if upos == "PROPN":
+                    return translation.text
+                else:
+                    return translation.text.lower()
+
             else:
                 return "-"
 
@@ -200,6 +216,7 @@ class Input2Conllu():
             .replace("«", "-")\
             .replace("„", "-")\
             .replace("“", "-")\
+            .replace("”", "-")
 
     def underline_content_in_eckigen_klammern(self, sentence):
         ## this is not always accurate
@@ -280,6 +297,7 @@ class Input2Conllu():
                                                     self.xstr(word.misc),
                                                     ## add translation
                                                     self.translate(self.xstr(word.lemma), lang, self.xstr(word.upos)),
+                                                   # self.xstr(word.lemma),
                                                     ## add Leipzig Glosses
                                                     self.xstr(self.addGloss(word.feats, word.upos, word.xpos, word.deprel)),
                                                     ## add empty column for corrections

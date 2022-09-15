@@ -2,6 +2,7 @@ certifi==2022.6.15
 chardet==3.0.4
 charset-normalizer==2.0.12
 classla==1.2.0
+deepl==1.10.0
 emoji==2.0.0
 filelock==3.8.0
 googletrans==3.1.0a0

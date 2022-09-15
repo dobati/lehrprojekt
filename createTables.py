@@ -45,4 +45,6 @@ for key in sorted(tokens_table.inputdict):
             createCategoryTable(example, category)
             createSlavExampleTable(example, slavexample)
         else:
-            print("there have to be 9 columns in the data list:\nexample, source, ref, cat, alignment, editor, comment, version, example_id")
+            print(example)
+            print(len(example))
+            print("there have to be 11 columns in the data list:\nexample, source, ref, cat, alignment, editor, comment, version, example_id")

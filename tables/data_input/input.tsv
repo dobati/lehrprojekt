@@ -1,61 +1,717 @@
 LANGCODE	EXAMPLE	SOURCE	REFERENCE	REFERENCE_PAGE	CAT	GROUPID	EDITOR	COMMENT	VERSION	COMMENT_INTERN
-pl	Jacek rozbil samochód Roberta.		Šarić (2002)	12	POSS	BS0001	Barbara	test comment	1	
-pl	Jacek rozbil Robertowi samochód.		Šarić (2002)	12	POSS	BS0001	Barbara		1	test comment intern
-cs	Opravdu, jsou knihy pro den a knihy, které můžete číst jen v noci. 	PS-KL			EXIST, REL	BS0002	Barbara		1	
-cs	Jsou to otázky, na které není odpověď.	PS-KL			NOMPRED, REL	BS0003	Barbara		1	
-ru	зачем мне это делать?	PS-OS			DIRSP, UPER	BS0004	Barbara		1	
-cs	I tak se dá ovlivnit představení. 	CNC			GIVE	BS0005	Barbara		1	
-ru	Специалист добавила, что 	AiF			AGRSEM	BS0006	Barbara		1	
-ru	сама бы профессором стала	NKRJa			NOMPRED, AGRSEM	BS0007	Barbara		1	
-ru	Семен обзвонил городские гостиницы, но ни Светланы, ни Влада не нашел.	NKRJa			DOM	BS0008	Barbara		1	
-ru	Я не нашла маму с сестренкой, еду без них.	NKRJa			DOM	BS0008	Barbara		1	
-bcms	Taj savetnik je malopre kod Patrijaršijskih ribnjaka ubio Mišu Berlioza.	PS-BK			DOM	BS0009	Barbara		1	
-ru	Сколько раз тебе говорить?	NKRJa			UPER, DIRSP, DEO	BS0010	Barbara		1	
-ru	Тарелка выскользнула из рук, разбилась	NKRJa			ITR	BS0011	Barbara		1	
-pl	Więc co mam robić? 	PS-BK			DIRSP, DEO	BS0012	Barbara		1	
-bcms	Kod nas u stanu ničeg takvog nema 	PS-BK			EXIST, DOM	BS0013	Barbara		1	
-pl	Krwi tyle, że niech Bóg uchowa!	NKJP			OPTSP	BW0001	Björn		1	
-ru	Он ее руку не показывает, а ты ухитрись и посмотри.	NKRJa			ECH, IMPP, PSEK	BW0002	Björn		1	
-ru	[Роль дружки велика:] он отвечал за коней и следил, как бы свадьбе не повредили местные колдуны.	NKRJa			APPR	BW0003	Björn		1	
-ru	И Володя однажды сказал мне, что там возникли проблемы, и обронил фразу: "Как бы меня не убили".	NKRJa			APPR	BW0003	Björn		1	
-ru	И парень начал опасаться, как бы его неуверенности не заметили остальные.	NKRJa			APPR	BW0003	Björn		1	
-ru	Она вылезла из воды и сказала: "Ах, как хорошо!" - лишь бы никто не увидел, как ей больно.	NKRJa			APPR	BW0003	Björn		1	
-ru	[После скручивания шаль и скатерть убирали, и] новобрачные на глазах у всех целовались (молодились).	NKRJa			REZI	BW0004	Björn		1	
-ru	Надя целовалась с военным.	NKRJa			REZI	BW0004	Björn		1	
-pl	[Więźniowie doprowadzani na msze przebywali w takich boksach, właściwie klatkach.] Nie widzieli siebie nawzajem.	NKJP			REZI	BW0005	Björn		1	
-pl	Stoją obok siebie, nie widząc się prawie [, i upływa bardzo długa chwila, zanim pada pierwsze słowo].	NKJP			REZI	BW0005	Björn		1	
-pl	Przez te wszystkie lata widzieliśmy się zaledwie pięć razy!	NKJP			REZI	BW0005	Björn		1	
-pl	- Co się czepiasz, kopana - rzekł pogardliwie Polek. - Ja się czepiam? [To ty mnie popchnąłeś.]	NKJP			ITR, ECH	BW0006	Björn		1	
-pl	Chciał ją obrazić, ale ucieszyła się, przestała kopać i dała sobie zrobić zastrzyk uspokajający.	NKJP			GIVE, IMPP, ITR	BW0007	Björn		1	
-cs	Mamince se točila hlava.		Fried (1999)	483	POSS, ITR	BW0008	Björn		1	
-bcms	Ivan je poljubio dami ruku.		Nomachi (2016)	454	POSS	BW0008	Björn		1	
-ru	Андрей изловчился и с третьей попытки разбил камнем лампу.	NKRJa			PSEK	IM0001	Imke		1	
-ru	Как-то я сумел изловчиться и ударить её головой в нижнюю челюсть.	NKRJa			PSEK	IM0001	Imke		1	
-ru	Якобы трейлеры с аппаратурой застряли где-то под Нижним Новгородом.	NKRJa			SPEC, INDEFIN	IM0002	Imke		1	
-ru	Похоже, у организаторов что-то не заладилось с рекламой форума.	NKRJa			SPEC, INDEFIN	IM0003	Imke		1	
-ru	Но с приходом зимы как будто что-то с ними происходит.	NKRJa			SPEC, INDEFIN	IM0004	Imke		1	
-ru	[Здоровались.] Наверное, считали меня своей, особо не задумываясь, мол, я здесь с кем-нибудь.	NKRJa			NSPEC, INDEFIN	IM0005	Imke		1	
-ru	Наверно, и у него была какая-то неудача в личной жизни.	NKRJa			EPIST, INDEFIN	IM0005	Imke		1	
-ru	— Знаешь, наверно, кто-нибудь из наших приятелей зашел, когда нас не было.	NKRJa			EPIST, INDEFIN	IM0005	Imke		1	
-ru	давати ми доци.	BR, St. R. 40	Zaliznjak, Toporova, Janin (2005)	9	DOM	IM0006	Imke		1	
-ru	ино достоит мужу жена своя наказывати.	Domostroj			DOM	IM0007	Imke		1	
-ru	и онъ гдѣ слышавъ вражду - - любовь скажеть.	Domostroj	Timberlake (1974)	15	DOM	IM0007	Imke		1	
-pl	Prace nadesłane przez przedszkolaki, uczniów i mieszkańców gminy oceniało jury w składzie.	NKJP			DOM	IM0008	Imke		1	
-pl	że dyżurne eksperty wprowadziłyby strach w społeczeństwie.	NKJP			DSM	IM0009	Imke		1	
-ru	не жаль таких вот или немного постарше парнишек, что тысячами бросают в бой.	NKRJa			RS	IM0010	Imke		1	
-cs	Asi jste špatně rozuměl dopisu, co Vám poslali.		Fried (2010)	21	RS	IM0011	Imke		1	
-ru	Занятия в летней школе проходят в первой половине дня, с 9 утра до часа дня.	NKRJa			XYZ	SB0001	Sandra		1	
-ru	Прошло около часа, если не больше.	NKRJa			XYZ	SB0001	Sandra		1	
-ru	Он по опыту знает, как болят нетренированные мышцы даже после часа лыжной прогулки.	NKRJa			XYZ	SB0001	Sandra		1	
-ru	Не думаю, что фанаты способны ради поездки на чемпионат совершить какое-нибудь безумство, например продать машину.	NKRJa			PREPOST	SB0002	Sandra		1	
-ru	Справедливости ради надо сказать, что многие проблемы уже решены.	NKRJa			PREPOST	SB0002	Sandra		1	
-cu	Обрѣтохъ недостоинъ сꙑ такъ даръ. ѥже ми сѧ поѹчѧти словесьмъ твоимъ дьнь и ношть.	NKRJa			XYZ	SB0003	Sandra		1	
-cu	А король бѧшеть тогда впалъ в болесть великѹ. в неиже и сконча животъ свои. и положиша во цр҃кви ст҃ѣ Бц҃и. в Холмѣ юже бѣ самъ создалъ.	NKRJa			XYZ	SB0004	Sandra		1	
-cu	Зимноє бо` времѧ бранѧ´ше мѹ ити къ римꙋ:	NKRJa			XYZ	SB0005	Sandra		1	
-cu	Ходи Ꙗрославъ сн҃ъ Ст҃ополчь на Ꙗтьвѧгꙑ второє. и побѣди ꙗ.	NKRJa			XYZ	SB0006	Sandra		1	
-cu	Въ лѣ(т̑) ·҂ꙅ҃·ф҃·л͠ꙅ· знамениѥ змиѥво на нб҃си ꙗви сѧ.	NKRJa			XYZ	SB0007	Sandra		1	
-cu	И на западѣ ꙗви сѧ звѣзда велика.	NKRJa			XYZ	SB0008	Sandra		1	
-cu	Томь (ж̑) · лѣ(т̑) · прѣстави сѧ ·ӏѡ҃а· сн҃ъ всѣволожь вънѹкъ мьстиславль.	NKRJa			XYZ	SB0009	Sandra		1	
-cu	Въ то (ж̑) лѣ(т̑) · заложиша цр҃квь камѧну.	NKRJa			XYZ	SB0010	Sandra		1	
-cu	И томь <ве>чере перевози сѧ ꙗрославъ · съ вои на дрѹгꙑи полъ дънѣпр<а>.	NKRJa			XYZ	SB0011	Sandra		1	
-cu	Въ лѣ(т̑) ·҂ꙅ҃·ф҃·о͠ꙅ· гнѣвъ бж҃ии бꙑ(с̑) · придоша половци · и побѣдиша рꙋсьскѹю землю.	NKRJa			XYZ	SB0012	Sandra		1	
+ru	Вероятно, различий гораздо больше.	PS			EXIST, EPIST	BS0001	Barbara		1	
+ru	Господа молча обнялись.	PS			RECI	BS0002	Barbara		1	
+ru	Я немного испугался.	PS			ITR	BS0003	Barbara		1	
+cs	Je možné, že rozdílů je víc.	PS			EXIST, EPIST	BS0004	Barbara		1	
+bcms	Možda ima više razlika.	PS			EXIST, EPIST	BS0004	Barbara		1	
+bcms	Gospoda nemo su se zagrlili.	PS			RECI	BS0005	Barbara		1	
+bcms	Malo se uplaših.	PS			ITR, DROP	BS0006	Barbara		1	
+pl	Jacek rozbil samochód Roberta.		Šarić (2002)		POSS	BS0007	Barbara		1	
+pl	Jacek rozbil Robertowi samochód.		Šarić (2002)		POSS	BS0007	Barbara		1	
+cs	Je možné, že rozdílů je víc.	PS			EXIST, EPIST	BS0004	Barbara		1	
+ru	Я найму тебе отдельную комнату.	NKRJa			PFUT, DOM	BS0009	Barbara		1	
+ru	Я найму тебе адвоката.	NKRJa			PFUT, DOM-ANIM	BS0009	Barbara		1	zu diskutieren: sollen Sätze wie diese beiden verknüpft werden? In der Gegenüberstellung zeigen sich die Bedingungen an DOM. und: soll hier auch der erste Satz mit 'DOM' annotiert werden?
+bcms	Tamo bismo bili sami.	PS			HYP	BS0010	Barbara		1	
+cs	Tam bychom byli sami.	PS			HYP	BS0010	Barbara		1	diese Sätze sollten als Parallebeispiele miteinander verknüpft werden (hier trotz Übersetzung unproblematisch)
+pl	Tam byli by śmy sami.	PS			HYP	BS0010	Barbara		1	
+ru	Там мы были бы одни.	PS			HYP	BS0010	Barbara		1	
+ru	Злых людей нет на свете.	PS			DSM, EXIST-NEG	BS0011	Barbara		1	
+bcms	Zlih ljudi nema na svijetu.	PS			DOM, EXIST-NEG	BS0011	Barbara		1	
+ru	Ты мне палец сломала.	OPUS			POSS	BS0012	Barbara		1	
+ru	Когда-то она была учительницей начальной школы, и неплохой -- дети её любили.	NKRJa			NOMPRED	BS0013	Barbara		1	zweimal Prädikatsnomen, mit Ins bzw. Nom
+ru	Она была учительница  и постеснялась идти по деревне в неприличном виде	NKRJa			NOMPRED	BS0013	Barbara		1	
+ru	Она стала серьезной	NKRJa			NOMPRED	BS0014	Barbara		1	zweimal Prädikatsnomen, mit Ins bzw. Nom
+ru	Какая она стала большая!	NKRJa			NOMPRED	BS0014	Barbara		1	
+ru	Семен обзвонил городские гостиницы, но ни Светланы, ни Влада не нашел.	NKRJa			DOM-NEG	BS0015	Barbara		1	negiertes Objekt, mit Gen bzw Akk (bei jeweils hochindividualisierten Referenten)
+ru	Я не нашла маму с сестренкой, еду без них.	NKRJa			DOM-NEG	BS0015	Barbara		1	
+ru	Она видела папу римского.	NKRJa			DOM-ANIM, AGRSEM	BS0016	Barbara		1	interessant wg. interaktion von formaler & semantischer Kongruenz & DOM-ANIM innerhalb der Objekt-NP
+ru	Сама бы профессором стала.	NKRJa			NOMPRED, AGRSEM	BS0017	Barbara		1	
+bcms	To neću raditi ja, to ćete uraditi vi sami.	PS			FUTUR	BS0018	Barbara		1	Unterschiedliche Kohäsion beim Futur in beiden Sätzen; passt/reicht hier FUTUR?
+bcms	Naučićeš vrlo brzo.	PS			FUTUR	BS0018	Barbara		1	
+ru	У меня голова заболела.	PS			POSS	BS0019	Barbara		1	
+bcms	Boli me glava.	PS			POSS	BS0019	Barbara		1	mit dem ru Bsp verbinden, um die Unterschiede in der Konstruktion zu zeigen? Oder völlig unabhängig erfassen?
+ru	У меня тут подарочек.	PS			POSS	BS0020	Barbara		1	
+bcms	Šta, imaš samo tu haljinu?	PS			POSS	BS0021	Barbara		1	
+bcms	Imaš li neki plan?	PS			POSS, IDEFIN, NSPEC	BS0022	Barbara		1	
+bcms	Gde ti je revolver?	PS			POSS	BS0023	Barbara		1	
+bcms	To si sigurno pročitao u nekoj grčkoj knjizi?	PS			IDEFIN, SPEC	BS0024	Barbara		1	
+cs	Co si tedy máme zvolit?	PS			SA-DIR	BS0025	Barbara		1	
+ru	Мне ждать тебя?	PS			SA-DIR, IPER	BS0026	Barbara		1	
+cs	Opravdu, jsou knihy pro den a knihy, které můžete číst jen v noci.	PS			EXIST, RC	BS0027	Barbara		1	
+cs	Jsou to otázky, na které není odpověď.	PS			NOMPRED, RC	BS0028	Barbara		1	
+ru	Зачем мне это делать?	PS			SA-DIR, IPER	BS0029	Barbara		1	
+ru	Пусть сам принесет в сад вечером.	PS			SA-DIR, DROP	BS0030	Barbara		1	
+ru	Что говорить, о чем?	PS			SA-DIR, IPER	BS0031	Barbara		1	
+bcms	Ali pustite me da objasnim što se dogodilo jutros.	PS			SA-DIR	BS0032	Barbara		1	
+cs	Ale nechte mě napřed objasnit, co se stalo dnes ráno.	PS			SA-DIR	BS0033	Barbara		1	
+bcms	Odakle znaš da sam ja onaj dobri stari Štakor koji je doletio ovamo prije dvije godine	PS			DEFIN	BS0034	Barbara		1	
+bcms	Dobar znamen za susret	PS			IDEFIN	BS0034	Barbara		1	
+bcms	Kažu da je jako skup i krhak.	PS			EVID, DROP	BS0035	Barbara		1	
+cs	Prý je velice drahý a taky křehký.	PS			EVID, DROP	BS0036	Barbara		1	
+ru	Все переглянулись	PS			RECI	BS0037	Barbara		1	
+bcms	Svi stadoše gledati jedni u druge	PS			RECI	BS0037	Barbara		1	
+pl	Wszyscy spojrzeli jedni po drugich	PS			RECI	BS0037	Barbara		1	
+ru	Только после этого он дал себя убедить	PS			GIVE	BS0038	Barbara		1	
+ru	А Малахия дал нам понять, что кто-то ему что-то похожее предсказал	PS			GIVE, IDEFIN, SPEC	BS0039	Barbara		1	
+cs	Však uvidíš sám, jaký palác si dal vystavět	PS			GIVE, DROP	BS0040	Barbara		1	
+cs	Stejně jako její dcera i Terezina matka se ráda dívala do zrcadla.	PS			REFL	BS0041	Barbara		1	
+ru	Она так же, как и ее дочь, любила смотреться в зеркало.	PS			REFL	BS0041	Barbara		1	
+pl	Podobnie jak jej córka, matka Teresy lubiła patrzeć w lustro.	PS			REFL	BS0041	Barbara		1	
+bcms	Isto kao njena kći, i Terezina majka je voljela da se posmatra u ogledalu.	PS			REFL	BS0041	Barbara		1	
+cs	I tak se dá ovlivnit představení.	CNC			GIVE	BS0042	Barbara		1	
+cs	Před fotografiemi se nedá utéct.	CNC			GIVE	BS0043	Barbara		1	
+cs	Děda se dal do řeči a vyprávěl, že ...	CNC			GIVE	BS0044	Barbara		1	
+cs	Dalo by se předpokládat, že	CNC			GIVE	BS0045	Barbara		1	
+ru	Специалист добавила, что	AiF			AGRSEM	BS0046	Barbara		1	
+ru	Это было одной из причин, почему она стала моей подругой.	NKRJa			NOMPRED	BS0047	Barbara		1	
+ru	Она стала серьезной	NKRJa			NOMPRED	BS0048	Barbara		1	
+ru	Сама бы профессором стала.	NKRJa			NOMPRED, AGRSEM	BS0049	Barbara		1	
+ru	Было темно и прохладно.	PS			IPER	BS0050	Barbara		1	
+ru	Новым командиром МКС стал космонавт Шкаплеров	AiF			NOMPRED	BS0051	Barbara		1	
+ru	Настя вышла в магазин, купила молока и хлеба и сразу вернулась.	NKRJa			DOM	BS0052	Barbara		1	
+ru	Девушка побежала в магазин и купила молоко и сыр.	NKRJa			DOM	BS0052	Barbara		1	
+ru	Семен обзвонил городские гостиницы, но ни Светланы, ни Влада не нашел.	NKRJa			DOM	BS0053	Barbara		1	Eigennamen, aber hier als Art Kategorie gemeint
+ru	Я не нашла маму с сестренкой, еду без них.	NKRJa			DOM	BS0053	Barbara		1	Eigenname/Anrede
+pl	Ola pochlapała Kasi kurtkę.		Šarić (2002)		POSS	BS0054	Barbara		1	
+bcms	Taj savetnik je malopre kod Patrijaršijskih ribnjaka ubio Mišu Berlioza.	PS			DOM	BS0055	Barbara		1	formales Agreement auch anzeigen?
+ru	Сколько раз тебе говорить?	NKRJa			IPER, SA-DIR	BS0056	Barbara		1	
+ru	Мы поцеловались, обнялись, распрощались, и Слава побежал домой.	NKRJa			RECI	BS0057	Barbara		1	
+ru	Тарелка выскользнула из рук, разбилась.	NKRJa			ITR	BS0058	Barbara		1	
+pl	Więc co mam robić?	PS			SA-DIR, DEO	BS0059	Barbara		1	
+pl	Cóż więc zrobimy teraz?	PS			SA-DIR, DEO	BS0059	Barbara		1	
+cs	Co tedy máme dělat?	PS			SA-DIR, DEO	BS0060	Barbara		1	
+bcms	Kod nas u stanu ničeg takvog nema	PS			EXIST, DOM	BS0061	Barbara		1	
+cs	Prý je velice drahý a taky křehký.	PS			EVID	BS0062	Barbara		1	
+bcms	Priča se da je veoma skupa, i krhka.	PS			EVID	BS0062	Barbara		1	
+pl	Mówi się, że jest bardzo drogi i kruchy.	PS			EVID	BS0062	Barbara		1	
+ru	Говорят, он дорог и недолговечен.	PS			EVID	BS0062	Barbara		1	
+bcms	I šta sad da ti radim zbog toga?	PS			SA-DIR, DEO	BS0063	Barbara		1	
+ru	Те, кто еще не снял шляпу, поспешил хотя бы теперь обнажить голову.	PS			RC	BS0064	Barbara		1	nicht in allen Sprachen eine Rel-Konstr, aber deshalb interessant; Problem: können wir bcsm als REL annotieren?
+cs	Kdo měl ještě pokrytou hlavu, smekl teď čepici.	PS			RC	BS0064	Barbara		1	
+pl	Kto dotąd nie zdjął jeszcze czapki, ściągał ją teraz.	PS			RC	BS0064	Barbara		1	
+bcms	Ako je neko imao nešto na glavi sad je bio poslednji trenutak da to skine.	PS			RC	BS0064	Barbara		1	
+ru	Он всегда боялся, как бы его не обворовали.	NKRJa			APPR	BW0001	Björn		1	
+pl	Krwi tyle, że niech Bóg uchowa!	NKJP			SA-OPT	BW0002	Björn		1	
+ru	Он ее руку не показывает, а ты ухитрись и посмотри.	NKRJa			ECH, IMPP, PCOORD	BW0003	Björn		1	
+ru	Галкин, в свою очередь, взял и заговорил на кабардинском языке!	(“Komsomol’skaja pravda”, 06/08/2008)			TAKE, PCOORD	BW0004	Björn		1	
+pl	Lubię psy, ale nie lubię kotów.				DOM-NEG	BW0005	Björn		1	
+pl	Nalała sobie herbaty.				DOM-IND	BW0005	Björn		1	
+pl	Na przyjęciu spotkał kolegów i koleżanki.				DOM-ANIM	BW0006	Björn		1	
+pl	Inwencja wiernych nie zna granic. Tym, czego nie znajdziemy, w innych wspólnotach parafialnych, jest... kościelna kawiarnia.	NKJP			CIRC	BW0007	Björn		1	
+pl	Zaraz zacznie padać.				EPIST, FUTUR	BW0008	Björn		1	
+ru	Роль дружки велика: он отвечал за коней и следил, как бы свадьбе не повредили местные колдуны.	NKRJa			APPR	BW0009	Björn		1	
+ru	И Володя однажды сказал мне, что там возникли проблемы, и обронил фразу: "Как бы меня не убили".	NKRJa			APPR	BW0009	Björn		1	
+ru	И парень начал опасаться, как бы его неуверенности не заметили остальные.	NKRJa			APPR	BW0009	Björn		1	
+ru	Она вылезла из воды и сказала: "Ах, как хорошо!" ― лишь бы никто не увидел, как ей больно.	NKRJa			APPR	BW0009	Björn		1	
+ru	В то же время союзники весьма боялись, что Россия заключит сепаратный мир с Германией.	NKRJa			APPR	BW0010	Björn		1	
+ru	Если позволите, молодые люди, на этот раз, очевидно, потребуется ваш непосредственный начальник, ― скороговоркой, холодновато объяснялся Институтов, волнуясь, как бы служка совсем не уронил его авторитет.	NKRJa			APPR	BW0011	Björn		1	
+ru	Она задумчиво гладила Баха по волосам, а в её хитрой головке поднялось опасение, как бы эта неясная сила не захватила её, не завертела, не погубила…	NKRJa			APPR	BW0012	Björn		1	
+ru	Я помню, как мы с тогдашним министром иностранных дел ФРГ Гансом-Дитрихом Геншером пытались сделать хоть что-то, лишь бы контакты не прекратились.	NKRJa			APPR	BW0013	Björn		1	
+ru	Всё равно уже гонорары за декабрь будут символические. Рублей шестнадцать. Тут не до костюма. Лишь бы не уволили…	NKRJa			APPR	BW0013	Björn		1	
+ru	Он всем доволен, лишь бы его не беспокоили, он величайший эпикуреец.	NKRJa			APPR	BW0013	Björn		1	
+pl	Dla Uli przejście przez kładkę stanowiło za każdym razem przykrą próbę, bała się, żeby żerdzie się nie rozbujały, toteż stąpała bardzo ostrożnie.	NKJP			APPR	BW0014	Björn		1	
+pl	Boję się, żeby ich nie skrzywdzono...	NKJP			APPR	BW0015	Björn		1	
+pl	Bała się tylko, aby Andrzej na nią nie krzyczał.	NKJP			APPR	BW0016	Björn		1	
+pl	Obawiam się, że przez takie małżeństwo moja rodzina się rozpadnie...	NKJP			APPR	BW0017	Björn		1	
+cs	Aby  nám  nepršelo  na  cestu.		Lichtenberk (1995)	310	APPR	BW0018	Björn		1	
+cs	Neztrať  ten klíč!		Kučera (1984)		APPR, PRV	BW0019	Björn		1	
+pl	Nie posól (przez pomyłkę) kompotu!		Laskowski (1998)	19	APPR, PRV	BW0020	Björn		1	
+pl	Nie sprzedaj samochodu za tanio!		Laskowski (1998)	19	APPR, PRV	BW0021	Björn		1	
+ru	Не сломай стул!			38	APPR, PRV	BW0022	Björn		1	
+bcms	Немој да се разболиш!		Birjulin/Xrakovskij (2001)		APPR, PRV	BW0023	Björn		1	
+bcms	Немој сада отворити / отварати прозор!		Wiemer (forthcoming)		SA-DIR, DEO	BW0024	Björn		1	
+bcms	Немој сада да отвориш / отвараш прозор!		Wiemer (forthcoming)		SA-DIR, DEO	BW0024	Björn		1	
+ru	Знаешь, что… давай рок-группу создадим!	NKRJa			SA-DIR	BW0025	Björn		1	
+ru	Давай в выходные встретимся.	NKRJa			SA-DIR	BW0026	Björn		1	
+ru	«Давайте восстановим последнюю деревянную водяную мельницу в области» ― просила она чиновников.	NKRJa			SA-DIR	BW0027	Björn		1	
+ru	― Вовочка, давай погуляем вдвоём, смотри ― на улицах огни, тепло.	NKRJa			SA-DIR	BW0028	Björn		1	
+ru	Ладно, ― наконец сказал Алёшка. ― Давай, сделаем так…	NKRJa			SA-DIR	BW0029	Björn		1	
+pl	Skoro ma czyste intencje, niech odpowie.	NKJP			SA-DIR, SA-OPT	BW0030	Björn		1	
+pl	Niech pan mi uwierzy: z nią będzie panu lepiej.	NKJP			SA-DIR, SA-OPT	BW0031	Björn		1	
+pl	Będą chcieli prać się po pysku z miejscową kawalerką - niech piorą się do pierwszej krwi i ostatniej sztachety w płocie.	NKJP			SA-DIR	BW0032	Björn		1	
+pl	Poza tym te pana ważne sprawy nic jej już nie obchodzą. Niech pan to wreszcie zrozumie i da jej spokój.	NKJP			SA-DIR	BW0033	Björn		1	
+pl	Chcę z nią porozmawiać. Niech ona powie mi to sama. Prosto w oczy. Wtedy dam jej spokój.	NKJP			SA-DIR, SA-OPT	BW0034	Björn		1	
+pl	Pieprzę to wszystko! Niech nic z tego nie zostanie! Żaden ślad! Niech to zniknie z powierzchni ziemi! Razem ze mną.	NKJP			SA-OPT	BW0035	Björn		1	
+pl	Cześć, Agniecha. Przyjdę się pożegnać.	NKJP			RECI	BW0036	Björn		1	
+pl	Ostrzegam cię, pierdolony wywrotowcu, jeden fałszywy ruch i jak każdy wróg ojczyzny pożegnasz się z życiem.	NKJP			RECI, SA-DIR	BW0036	Björn		1	
+pl	Zaufałem ci. Teraz ty mi zaufaj i powiedz, z kim była Ania. A potem pożegnamy się i wszystko będzie cacy.	NKJP			RECI	BW0036	Björn		1	
+pl	Pożegnałam się z Elą przez telefon.	NKJP			RECI	BW0036	Björn		1	
+pl	Kinga całuje Agnieszkę w policzek.	NKJP			POSS	BW0037	Björn		1	
+pl	Przestań tak gadać.	NKJP			SA-DIR	BW0038	Björn		1	
+pl	Wiem, że jeszcze wszystko się ułoży. Jestem tego pewna.	NKJP			EPIST	BW0038	Björn		1	
+ru	Чтобы не было излишнего пиетета, чтобы не бояться, что я сейчас вот возьму и всё испорчу.	NKRJa			TAKE, PCOORD, IMPP	BW0039	Björn		1	
+ru	А автор этой книги ― его друг и соратник ― красивую идею взял и спёр.	NKRJa			TAKE, PCOORD, IMPP	BW0040	Björn		1	
+ru	Я решил так: если он сочтёт, что я недоработал, то мы просто возьмём и придём к ней вместе.	NKRJa			TAKE, PCOORD, IMPP	BW0041	Björn		1	
+pl	Bo pies sobie nie pójdzie, nie weźmie i nie kupi jedzenia.		Nau et al. (2019)	283	TAKE, PCOORD, IMPP	BW0042	Björn		1	
+pl	Wczoraj wziął mnie zdradził.		Andrason (2018)	586	TAKE, IMPP	BW0043	Björn		1	
+ru	Все отидыхают, а я работай.		Fortuin (2000)	114-134	ECH	BW0044	Björn		1	
+ru	Сяду-ка я, поработаю.	NKRJa			ECH	BW0045	Björn		1	
+pl	Poczekaj, niech usiądę.		Holvoet (2021)		ECH	BW0046	Björn		1	
+pl	I to ma być dzieło sztuki?                       		Holvoet (2021)		ECH	BW0047	Björn		1	
+ru	Отойдя с полста метров, братик еще раз исхитрился и вдарил кнутом погромче.	NKRJa			IMPP, PCOORD	BW0048	Björn		1	
+ru	Но Нюра давно уже знала, что никто за неё не исхитрится и не вырвет нужное ей для жизни.	NKRJa			IMPP, PCOORD	BW0049	Björn		1	
+ru	Надо же было ухитриться купить мороженое, соединяющее в себе два этих ингредиента.	NKRJa			IMPP	BW0050	Björn		1	
+ru	Удивительно, как я умудрялась и умудряюсь до сих пор обводить всех вокруг пальца.	NKRJa			IMPP	BW0050	Björn		1	
+ru	Но ведь самое сложное ― не просто взять ребенка, а суметь его воспитать.	NKRJa			IMPP	BW0051	Björn		1	
+ru	Вот Китай сумел привлечь почти всех ведущих автопроизводителей.	NKRJa			IMPP	BW0052	Björn		1	
+ru	Таня услышала, но не сразу смогла подойти к окну.	NKRJa			IMPP	BW0053	Björn		1	
+pl	Przed nim stał Pater i trzymał coś w wyciągniętej ręce. Muflon nie zdołał jednak dostrzec tego przedmiotu.	NKJP			IMPP	BW0054	Björn		1	
+pl	Znowu opadły go wątpliwości, czy zdoła wykonać plan, mimo że jest to plan zaiste genialny w swojej prostocie.	NKJP			IMPP	BW0055	Björn		1	
+ru	Остальное решите между собой сами.	NKRJa			RECI	BW0056	Björn		1	
+ru	― Что, вы совсем не говорите между собой по-французски?	NKRJa			RECI	BW0056	Björn		1	
+ru	Из пяти лучших теннисисток планеты только Дженнифер Каприати не подтвердила своё высокое положение в рейтинге, а четыре оставшиеся (…) наверняка и поделят между собой призовые деньги.	NKRJa			RECI	BW0056	Björn		1	
+ru	После скручивания шаль и скатерть убирали, и новобрачные на глазах у всех целовались (молодились).	NKRJa			RECI	BW0057	Björn		1	
+ru	Надя целовалась с военным.	NKRJa			RECI	BW0057	Björn		1	
+ru	Представь себе, что я познакомилась с ним на автобусной остановке, мы разговорились, поняли, что интересны друг другу, и начали встречаться.	NKRJa			RECI	BW0058	Björn		1	
+ru	В общежитии делились c соседями абсолютно всем, помогали, заботились друг о друге.	NKRJa			RECI	BW0059	Björn		1	
+ru	Он прошёл: из комнаты встречи доносился громкий смех, президенты шутили, козыряя знанием деталей друг о друге, собранными спецслужбами и помощниками.	NKRJa			RECI	BW0060	Björn		1	
+ru	Никогда до того не виделись, наслышаны были друг о друге.	NKRJa			RECI	BW0061	Björn		1	
+ru	После поездки спутники обязательно оставляют друг о друге отзывы.	NKRJa			RECI	BW0062	Björn		1	
+pl	Patrzyliśmy ze spokojem na tłum zdenerwowanych odpoczynkiem turystów; pędzili od jednego zabytku do drugiego.	NKJP			RECI	BW0063	Björn		1	
+pl	Po chwili znalazł się w labiryncie małych uliczek (...). Zapełniał je drepczący tłum. Jeden człowiek popychał drugiego i następował mu na pięty.	NKJP			RECI	BW0064	Björn		1	
+pl	Bracia. Pomagają sobie. Każdy z nich bez wzbudzania podejrzeń mógł dostarczyć wózkiem dostawczym ciało Anny Seredy na plażę. Jeden kryje drugiego. To normalne - jak u braci.	NKJP			RECI	BW0065	Björn		1	
+pl	Rozważali przez chwilę niezwykłe zdarzenie, patrząc jedni na drugich.	NKJP			RECI	BW0066	Björn		1	
+pl	W seminariach każdy obserwuje każdego. Szpiegują się nawzajem i donoszą na siebie.	NKJP			RECI	BW0067	Björn		1	
+pl	Próbowaliśmy przytulić nawzajem nasze śliskie ciała.	NKJP			RECI	BW0068	Björn		1	
+pl	Więźniowie doprowadzani na msze przebywali w takich boksach, właściwie klatkach. Nie widzieli siebie nawzajem.	NKJP			RECI	BW0069	Björn		1	
+pl	Stoją obok siebie, nie widząc się prawie, i upływa bardzo długa chwila, zanim pada pierwsze słowo.	NKJP			RECI	BW0069	Björn		1	
+pl	Przez te wszystkie lata widzieliśmy się zaledwie pięć razy!	NKJP			RECI	BW0069	Björn		1	
+pl	Bardzo tęsknię za bliską obecnością mężczyzny. (...) Za wspieraniem się nawzajem.	NKJP			RECI	BW0070	Björn		1	
+pl	Flamenco jest wtedy, kiedy patrzymy na siebie nawzajem najgłębszym spojrzeniem, w którym widać duszę.	NKJP			RECI	BW0071	Björn		1	
+pl	Tusze nie powinny stykać się ze sobą, a zawieszać je należy tak, aby nie dotykały się wzajemnie i nie wlokły po ziemi.	NKJP			RECI	BW0072	Björn		1	
+pl	Zgadali się prędko, jak to ludzie jednego fachu. Spodobali się sobie wzajemnie.	NKJP			RECI	BW0073	Björn		1	
+pl	Adamus ów gorliwy fornal stali naprzeciw siebie, na dnie gliniastej jamy, nieruchomi i bladzi. Juści, widoczne było: bali się obaj wzajemnie jeden drugiego!... Przepatrywali się na wskroś, do kości.	NKJP			RECI	BW0074	Björn		1	
+pl	Nakazaliśmy więc sobie spokój, dopóki nie wrócą. Jedni drugich wzajemnie uspokajaliśmy. Jedni drugich karciliśmy.	NKJP			RECI	BW0075	Björn		1	
+pl	A zupa przeważnie wodnista. To nieraz ze złości niektórzy aby zanurzali łyżki i tą zupą się wzajemnie oblewali. Zaczęli oblewać się przy jednym stole, a rozkręciło się, to cała stołówka się oblewała.	NKJP			RECI	BW0076	Björn		1	
+pl	Co ci szkodzi powiedzieć, z kim gadała, czy też, z kim się całowała.	NKJP			RECI	BW0077	Björn		1	
+pl	Ludzie siedzieli przy stolikach, stali, obejmując się, i rozmawiali podniesionymi głosami.	NKJP			RECI	BW0078	Björn		1	
+pl	Pozostali pędzili bimber, handlowali, dostarczali słoninę do Radomia i kłócili się między sobą.	NKJP			RECI	BW0079	Björn		1	
+pl	Julek kłócił się z Ulą, że źle pakuje.	NKJP			RECI	BW0080	Björn		1	
+pl	Będą chcieli prać się po pysku z miejscową kawalerką - niech piorą się do pierwszej krwi i ostatniej sztachety w płocie.	NKJP			RECI	BW0081	Björn		1	
+pl	Przywitaliśmy się z panią Lachowiczową.	NKJP			RECI	BW0082	Björn		1	
+pl	AGNIESZKA Może powinnaś z nim pogadać? KINGA O czym? AGNIESZKA Wyjaśnicie sobie wszystko.	NKJP			RECI	BW0083	Björn		1	
+ru	Хозяйка испугалась подъехавшей машины и спряталась в чулан.	NKRJa			ITR	BW0084	Björn		1	
+ru	Вдруг в промежутке между выступлениями со своего места поднялся какой-то человек и объявил, что он тоже хочет выступить.	NKRJa			ITR	BW0085	Björn		1	
+ru	Он бросился на выручку незадачливому Голынке.	NKRJa			ITR	BW0086	Björn		1	
+ru	Морской конёк не бросается за добычей, а ждёт, пока она сама не подплывёт к нему.	NKRJa			ITR	BW0087	Björn		1	
+ru	Как потом оказалось, первыми закрылись военные заводы.	NKRJa			ITR	BW0088	Björn		1	
+ru	Особенно обидно, что после поражения многие двери для него закрылись, многие телефоны перестали отвечать.	NKRJa			ITR	BW0089	Björn		1	
+ru	― Обратно застегнись, это уже ни в какие ворота.	NKRJa			ITR	BW0090	Björn		1	
+ru	Зажмурился, посидел немного с закрытыми глазами, снова глянул в воду и отстриг кусочек правого.	NKRJa			ITR	BW0091	Björn		1	
+ru	― Помолчи, а? ― просил Ферапонт и мучительно морщился.	NKRJa			ITR	BW0092	Björn		1	
+ru	Из самой середины уха бил фонтан седых волос, а большие удлинённые мочки морщились продольными складками.	NKRJa			ITR	BW0093	Björn		1	
+ru	Георгий, не кидайтесь пустыми фразами.	NKRJa			ITR	BW0094	Björn		1	
+ru	Я хваталась за карандаш, чтобы выплеснуть всё, что душило, не давало покоя.	NKRJa			ITR	BW0095	Björn		1	
+ru	― Сейчас, ― бормотал он, продолжая рыться в портфеле.	NKRJa			ITR	BW0096	Björn		1	
+ru	Она получала двойки по математике, дралась и иногда даже вместе с мальчишками била девчонок.	NKRJa			ITR	BW0097	Björn		1	
+ru	Ирина любила постоянно орущую мать, постоянно дерущегося брата.	NKRJa			ITR	BW0098	Björn		1	
+ru	Всегда будет до идеала чего-то недоставать. То есть вот получили люди огонь ― а от него не только польза. Он еще жжется, и от него пожары.	NKRJa			ITR	BW0099	Björn		1	
+ru	Слюна во рту оппортунистически жжется.	NKRJa			ITR	BW0100	Björn		1	
+ru	Крапивой все поросло, и как жжется ― никогда раньше так не жглась.	NKRJa			ITR	BW0101	Björn		1	
+ru	Почувствовали, что портфеля в руке нет, и сразу испугались, вспомнили, где портфель, обрадовались и успокоились.	NKRJa			ITR	BW0102	Björn		1	
+ru	По словам Романа Цыганова, за доступные и пользующиеся хорошим спросом модели оплата взимается на момент их отгрузки с центрального склада, так как у дилеров такие машины не задерживаются и часто за ними даже выстраиваются очереди.	NKRJa			ITR	BW0103	Björn		1	
+ru	В 2001 году он освободился из тюрьмы и приехал попытать счастья в Москву.	NKRJa			ITR	BW0104	Björn		1	
+ru	Люди в последние десять лет погрузились в более реальную жизнь.	NKRJa			ITR	BW0105	Björn		1	
+ru	Билеты продавались за три месяца, конная милиция выстраивалась в несколько рядов, закрывались все чёрные входы и выходы.	NKRJa			ITR	BW0106	Björn		1	
+ru	Гулкое эхо разнеслось по болотным окрестностям.	NKRJa			ITR	BW0107	Björn		1	
+ru	Среди служащих Варьете тотчас разнеслось шушуканье о том, что пёс ― не кто другой, как знаменитый Тузбубен.	NKRJa			ITR	BW0108	Björn		1	
+ru	Новые туфли жмут, но они разносятся (мама сказала).	NKRJa			ITR	BW0109	Björn		1	
+ru	Было так весело, драйвово, успевали и учиться, и гулять до упаду.	NKRJa			ITR	BW0110	Björn		1	
+ru	Язык учится быстро и легко ― именно методом погружения!	NKRJa			ITR	BW0111	Björn		1	
+ru	Олигархи сбегут из опостылевшей России, страна погрузится в экономический хаос, люди потеряют работу и наступит социализм.	NKRJa			ITR	BW0112	Björn		1	
+ru	Хотя между предпринимателями существует жёсткая конкуренция за освободившиеся места.	NKRJa			ITR	BW0113	Björn		1	
+ru	Илья, у меня складываются ощущение, что Вы оправдываете свою немощность.	NKRJa			ITR	BW0114	Björn		1	
+ru	Наконец обветшало, стёрлось, продырявилось и наконец исчезло, как стираются и исчезают воспоминания.	NKRJa			ITR	BW0115	Björn		1	
+ru	Autostop nie funkcjonuje i prędzej uschniesz na wiór na poboczu, niż otworzą się przed tobą cudze drzwi.	NKRJa			ITR	BW0116	Björn		1	
+ru	Стирать ткань?… как часто стираются диваны-стационары в квартирах?…	NKRJa			ITR	BW0117	Björn		1	
+pl	Jedyne, co przyszło mu do głowy, to schować się teraz pod kołdrę i nie widzieć zagrożenia. Tak też zrobił.	NKJP			ITR	BW0118	Björn		1	
+pl	Wytnę sobie tylko jakiś kij. Wycięcia kija podjął się natychmiast Julek znał się na tym, obiecywał wynaleźć coś wspaniałego.	NKJP			ITR	BW0119	Björn		1	
+pl	Karol rzuca się w kierunku Kingi.	NKJP			ITR	BW0120	Björn		1	
+pl	- Uwielbiacie rządzić, wtrącać się do polityki, wścibiać wszędy nosy i wtykać paluchy.	NKJP			ITR	BW0121	Björn		1	
+pl	Autostop nie funkcjonuje i prędzej uschniesz na wiór na poboczu, niż otworzą się przed tobą cudze drzwi.	NKJP			ITR	BW0122	Björn		1	
+pl	Po obiedzie zamknął się w swoim pokoju.	NKJP			ITR	BW0123	Björn		1	
+pl	Podciągnij spodnie, bo się przewrócisz - podtrzymałem ją i pomogłem się zapiąć.	NKJP			ITR	BW0124	Björn		1	
+pl	Dag zaklął, wycofał się i po krótkiej chwili wrócił w towarzystwie najmłodszego Sundanina.	NKJP			ITR	BW0125	Björn		1	
+pl	Dla ciebie ja tutaj rządzę – nachylił się nad nim John.	NKJP			ITR	BW0126	Björn		1	
+pl	A ty mi się tu nie rządź, braciszku!	NKJP			ITR	BW0127	Björn		1	
+pl	No proszę, a przecież sama mi opowiadałaś jak ona się tam rządzi...	NKJP			ITR	BW0128	Björn		1	
+pl	Upuściłem ze strachu aparat, sądząc, że chce mnie zaatakować. On jednak błyskawicznie zwinął się, odwrócił i podreptał w głąb lasu.	NKJP			ITR	BW0129	Björn		1	
+pl	Milva zatrzymała się i odwróciła, ostrym ruchem złamała zawadzającą gałązkę wiciokrzewu.	NKJP			ITR	BW0130	Björn		1	
+pl	Geralt zerwał się pierwszy.	NKJP			ITR	BW0131	Björn		1	
+pl	Romanow wstał z klęczek, zapalił kolejnego papierosa, zaciągnął się mocno, zaklął cicho.	NKJP			ITR	BW0132	Björn		1	
+pl	Powiedziałem mu, że nie bardzo rozumiem, o co mu chodzi. Po prostu tak jest wszystko urządzone, sam się w to wpakował.	NKJP			ITR	BW0133	Björn		1	
+pl	Ja pracowałam na kolei, przy rozładunku wagonów, potem zostałam kucharką w stołówce pracowniczej. Najmowałam się też do prania.	NKJP			ITR	BW0134	Björn		1	
+pl	Nie będę się zatem kopał z koniem, ani walczył z orangutanem.	NKJP			ITR	BW0135	Björn		1	
+pl	Chodzi o wolność co do informacji, wolność otrzymywania, rozprzestrzeniania, dzielenia się informacją.	NKJP			ITR	BW0136	Björn		1	
+pl	- Co się czepiasz, kopana - rzekł pogardliwie Polek. - Ja się czepiam? To ty mnie popchnąłeś.	NKJP			ITR, ECH	BW0137	Björn		1	
+pl	Ale z tą wodą to już kitowałeś, że się można dokopać?	NKJP			ITR	BW0138	Björn		1	
+pl	Chciał ją obrazić, ale ucieszyła się, przestała kopać i dała sobie zrobić zastrzyk uspokajający.	NKJP			ITR	BW0139	Björn		1	
+pl	- Na pewno wszystko w porządku? - upewniła się Mechowska.	NKJP			ITR	BW0140	Björn		1	
+pl	- Ale się pan nie wpakował - powiedział powoli Jemiołczak. - Tylko zadzwonił.	NKJP			ITR	BW0141	Björn		1	
+pl	Nie widząc, o co chodzi w ogóle, zakląłem się na pamięć, że przyszedłem i sam, i z własnej nieprzymuszonej woli.	NKJP			ITR	BW0142	Björn		1	
+pl	Wpadamy na siebie, przewracamy się, kopiemy się.	NKJP			ITR, RECI	BW0143	Björn		1	
+pl	Jeździł na obozy ZMP-owskie, pasjonował się szachami, kopał z nami piłkę.	NKJP			ITR	BW0144	Björn		1	
+pl	Wiecie, koń, nim zdąży się przestraszyć, już się płoszy albo kopie.	NKJP			ITR	BW0145	Björn		1	
+pl	Coś mi się po łbie kołatało.	NKJP			ITR	BW0146	Björn		1	
+pl	Dwakroć dziennie zalew wychodzi z upustów swych i nosi wody spienione tłukąc się i kołacąc po brzegach ziemi suchej.	NKJP			ITR	BW0147	Björn		1	
+pl	Główka szarpnęła się do tyłu na łodyżce i ta się prawie złamała, zatoczył się cały, ale utrzymał równowagę.	NKJP			ITR	BW0148	Björn		1	
+pl	Robak próbuje się rozprzestrzeniać, podszywając się pod oprogramowanie znanych firm komputerowych, materiały pornograficzne itp.	NKJP			ITR	BW0149	Björn		1	
+pl	To są tak zwae minerały i wapno, które sprawiają, że ma się mocne kości. Jak bomba walnie, to odbijesz się od ściany i nic ci się nie złamie.	NKJP			ITR	BW0150	Björn		1	
+pl	W tamtych czasach nadawanie anglosaskich imion i nazwisk tubylcom bardzo się już rozpowszechniło.	NKJP			ITR	BW0151	Björn		1	
+pl	Zatkałem mu gębę poduszką, pierze się rozsypało i przykleiło do krwi.	NKJP			ITR	BW0152	Björn		1	
+pl	Cieszę się, że nauczyłeś się rozpoznawać nasz dom.	NKJP			ITR	BW0153	Björn		1	
+pl	Pan ma psa? To powinien pan mieć. Od psa można się dużo nauczyć.	NKJP			ITR	BW0154	Björn		1	
+pl	I nie gnieć zasłonki! Ciężko się ją prasuje. Jak się pogniecie, nie będzie efektu.	NKJP			ITR	BW0155	Björn		1	
+pl	Napisałam karteczkę i położyłam przy stercie jego lumpów: "Rzeczy Darka - nie dotykać, piorą się same".	NKJP			ITR	BW0156	Björn		1	
+pl	Młode umysły dawały się łatwiej rządzić wrażeniem niż refleksją.	NKJP			DISP, GIVE	BW0157	Björn		1	
+pl	Chciał ją obrazić, ale ucieszyła się, przestała kopać i dała sobie zrobić zastrzyk uspokajający.	NKJP			GIVE, IMPP, ITR	BW0158	Björn		1	
+ru	Согласен с автором полностью, а ряду комментаторам маленько не хватает элементарной экономической грамотности.	NKRJa			IPER	BW0159	Björn		1	
+ru	Проблем хватает, но пока соберусь с мыслями уже что-нибудь новое случится.	NKRJa			IPER	BW0160	Björn		1	
+ru	Таким образом, вся ватага торт попробовала, а его как бы и не убыло.	NKRJa			IPER	BW0161	Björn		1	
+ru	В полку льгот и убыло, и прибыло.	NKRJa			IPER	BW0162	Björn		1	
+ru	Пошевелилась. Встала на колени. Её сильно вырвало.	NKRJa			IPER	BW0163	Björn		1	
+ru	У тебя капустой воняет. Меня тошнит. Её действительно тошнило, от всего.	NKRJa			IPER	BW0164	Björn		1	
+ru	От этих людей пахло потом и нестиранными носками.	NKRJa			IPER	BW0164	Björn		1	
+ru	В конце дня жара спала, начало вечереть, в лесу стало прохладнее.	NKRJa			IPER	BW0165	Björn		1	
+ru	Уже вечерело, но со временем была непонятица ― слишком уж длинный день выдался.	NKRJa			IPER	BW0166	Björn		1	
+pl	Świtało, gdy zasypiali.	NKJP			IPER	BW0167	Björn		1	
+pl	Świtać wkrótce będzie - powiedziała Milva.	NKJP			IPER	BW0168	Björn		1	
+pl	Od wczoraj nie miałem nic w ustach i aż mnie mdliło z głodu.	NKJP			IPER	BW0169	Björn		1	
+pl	Dzień w dzień włócząc się po ulicach bez celu, bo odechciało mi się również chodzić do szkoły.	NKJP			IPER	BW0170	Björn		1	
+pl	Do domu nie miałem po co wracać; bo i tak nie było w nim już nic do sprzedania, pozostawało mi więc tylko cierpliwie czekać na szczęśliwy przypadek.	NKJP			IPER	BW0171	Björn		1	
+pl	Najchętniej poszukałby innego motelu, lecz w ich sytuacji pozostawało tylko zacisnąć zęby i brać co dają.	NKJP			IPER	BW0172	Björn		1	
+pl	Wolałby mieć już za sobą kłopotliwą wizytę, a z drugiej strony pozostawało jeszcze trochę czasu na przygotowania i załatwienie paru interesów na boku.	NKJP			IPER	BW0172	Björn		1	
+pl	Worki wschodniego przedpiersia albo rozpadły się, albo przeleciały na drugą stronę wykopu. Potrafiłem zrozumieć, że nie oderwało mi głowy.	NKJP			IPER	BW0173	Björn		1	
+pl	Cisza. Chyba je zatkało. Poszły sobie. Widzę je teraz przez okno.	NKJP			IPER	BW0174	Björn		1	
+pl	Wciąż brakowało mu głównego elementu w całej konstrukcji.	NKJP			IPER	BW0175	Björn		1	
+pl	Dachówki starczy, choćby sporo natłukli przy przekładce.	NKJP			IPER	BW0176	Björn		1	
+pl	Zeszli do opustoszałej o tej porze kawiarenki, w której bardziej niż kawą pachniało bigosem.	NKJP			IPER	BW0177	Björn		1	
+pl	Jesień zmienia chemię powietrza na tyle, że czuć ją wyraźnie.	NKJP			IPER	BW0178	Björn		1	
+pl	Alojz odpowiadał niechętnie, na księdza spoglądał podejrzliwie i widać było, że nie na rękę mu to spotkanie.	NKJP			IPER	BW0179	Björn		1	
+pl	Przez kilkucentymetrową szparę widać było wbitą małą, czerwoną chorągiewkę.	NKJP			IPER	BW0179	Björn		1	
+pl	Z pokoju obok słychać płacz Kasi.	NKJP			IPER	BW0180	Björn		1	
+pl	W pełnej napięcia ciszy słychać było, jak osa tłucze się wściekle o szybę.	NKJP			IPER	BW0180	Björn		1	
+pl	Lubił zapach drukarskiej farby. Najintensywniej czuć było książki rumuńskie.	NKJP			IPER	BW0181	Björn		1	
+pl	Mężczyzna podniósł kołnierz płaszcza i rozłożył parasol. Dopiero wtedy poczuliśmy, że pada.	NKJP			IPER	BW0182	Björn		1	
+pl	Jak się studnię kopie, to wiesz, ile jest kopania?	NKJP			IPER	BW0183	Björn		1	
+pl	Wszystkie ubrania pierze się w tym samym rodzaju mydła.	NKJP			IPER	BW0183	Björn		1	
+pl	SEBASTIAN: (...) Uprasować ci? MAGDA: Tej się nie prasuje, głuptasie.	NKJP			IPER	BW0183	Björn		1	
+pl	I nie gnieć zasłonki! Ciężko się ją prasuje. Jak się pogniecie, nie będzie efektu.	NKJP			IPER, SA-DIR	BW0183	Björn		1	
+pl	Stryj powiedział, że obiecano mu wolność oraz dobrą pracę w Wilnie.	NKJP			IPER	BW0184	Björn		1	
+pl	Zareagowała bez złości, ze smutnym zdziwieniem dziecka, któremu na gwiazdkę kupiono banana, tabliczkę czekolady, w każdym razie coś, co śmiesznie nie dorasta do okazji.	NKJP			IPER, DOM-IND	BW0184	Björn		1	
+pl	I rzeczywiście, w końcu wzięto się za robotę, wydając na świat… klasyczny film animowany.	NKJP			IPER	BW0184	Björn		1	
+pl	Cisza trwała; czekano, co powie.	NKJP			IPER	BW0184	Björn		1	
+pl	W domu o dziadku Ferdynandzie milczano.	NKJP			IPER	BW0184	Björn		1	
+pl	Mijali ogniska, grupy stojących wokół czarownic i innych uczestników sabatu. Dyskutowano tam, witano się, weselono, kłócono.	NKJP			IPER	BW0184	Björn		1	
+pl	Asnyk nie był świnią i za niecałe tysiąc trzysta złotych dostaliśmy siedem centów.	NKJP			AGRSEM	BW0185	Björn		1	
+pl	Wyrwali z mojego portfela ostatnie tysiąc koron czeskich i puścili.	NKJP			AGRSEM	BW0186	Björn		1	
+pl	Tam także setki, tysiące ludzi ciągnęło za sobą byle jak opatrzone kikuty.	NKJP			AGRSEM	BW0187	Björn		1	
+pl	Wciąż nie traciła nadziei, że znajdzie nową, możliwą posadę, na której szukanie pozostawało jej bądź co bądź trzy miesiące czasu.	NKJP			AGRSEM	BW0188	Björn		1	
+pl	W dniu 26 czerwca 1964 roku odbyło się posiedzenie dyrekcji (...), na którym została przeanalizowana praca Klubo-Kawiarni przy POM Zawojów, ponieważ na pracę tę było szereg skarg i narzekań członków załogi.	NKJP			AGRSEM	BW0189	Björn		1	
+pl	Potem następowało szereg pytań i odpowiedzi.	NKJP			AGRSEM	BW0190	Björn		1	
+pl	Były delegacje z Rosji, Japonii, Chin, Korei i wielu innych państw. Było szereg znaczących biznesmenów i Wszystkich Innych Bardzo Ważnych i Jeszcze Ważniejszych Osób...	NKJP			AGRSEM	BW0191	Björn		1	
+ru	Кадры вызывают всеобщую панику. Выстраивается подсознательный ассоциативный ряд: низвергли статую, низвергнут и режим.	NKRJa			RESULT	BW0192	Björn		1	
+pl	Dopiero o północy stanęliśmy ponownie przed zamkniętą na kłódkę bramą sistiemy.	NKJP			RESULT	BW0193	Björn		1	
+pl	Wszystkie ubrania pierze się w tym samym rodzaju mydła. Każdy mieszkaniec jest nim przesiąknięty.	NKJP			RESULT, IPER	BW0194	Björn		1	
+pl	Źli, nie myci, nie wyspani, tłukli się pięć dni i pięć nocy.	NKJP			RESULT, RECI	BW0195	Björn		1	
+pl	Sprzyjałem mu niezmiennie, choć zamknięty w sobie, mało kontaktowy był z niego gość, płoszył się na widok innego człowieka instynktownie.	NKJP			RESULT	BW0196	Björn		1	
+pl	Do domu nie miałem po co wracać.	NKJP			RC, POSS	BW0197	Björn		1	
+pl	Pocałowałem jej drobną rękę pachnącą rybami.	NKJP			POSS	BW0198	Björn		1	
+pl	Zabrałem mu łódkę.	NKJP			POSS	BW0198	Björn		1	
+cs	Mamince se točila hlava.		Fried (1999)	483	POSS, ITR	BW0198	Björn		1	
+bcms	Ivan je poljubio dami ruku.		Nomachi (2016)	454	POSS	BW0198	Björn		1	
+ru	Он наклонился и поцеловал у нее руку.	NKRJa			POSS	BW0198	Björn		1	
+ru	Он поцеловал ее в губы.		Činčlej (1990)	136	POSS	BW0198	Björn		1	
+pl	- Jak długo tu jestem? - Od wczoraj. Przywieźli pana rano. W szoku podobno powtarzał pan tylko "tam powinno być do trzeciej, a nie do kwadratu".	NKJP			EVID	BW0198	Björn		1	
+pl	Niedługo później zadzwonił syn. Matura z polskiego była ponoć banalnie łatwa.	NKJP			EVID	BW0198	Björn		1	
+pl	Zawsze wolałem maliny. Jeżyny były cierpkie, ale ponoć po wielokroć zdrowsze.	NKJP			EVID	BW0198	Björn		1	
+pl	Była zdziwiona, powiedziałem, że to nie dla mnie, że to prezent, tym bardziej nie mogła pojąć, ponoć instrumenty kupuje się osobiście.	NKJP			EVID	BW0198	Björn		1	
+pl	Zadzwonili do mnie i prosili o spotkanie. Mieli podobno jakąś ważną sprawę.	NKJP			EVID	BW0198	Björn		1	
+pl	Mój domek jest obecnie jedynym zabudowaniem w Witalniku. Do lat pięćdziesiątych stały tu podobno jeszcze dwie chaty poniemieckie, ale zostały rozebrane.	NKJP			EVID	BW0198	Björn		1	
+pl	Ale przez kratkę nie widział jego twarzy ani oczu, tonęły one w cieniu. Widział tylko jego wątłe, jasne włosy. Ryś pochylił się widać cały.	NKJP			EVID	BW0199	Björn		1	
+pl	Rysio wszedł i widać go nie spostrzegł stojącego pod ścianą, bo przeszedł szybko i zatrzymał się pośrodku nawy.	NKJP			EVID	BW0200	Björn		1	
+pl	Urodził się nie tak daleko stąd, gdzieś pod Sandomierzem. Ojciec nie był pewien jego pochodzenia, nie był widocznie pewien i ksiądz proboszcz, skoro nadał mu takie dziwaczne imię.	NKJP			EVID	BW0201	Björn		1	
+pl	Zenek mówi teraz szorstko, chce widocznie wyrazić coś, co sprawia mu trudność, ale ma dla niego wielkie znaczenie.	NKJP			EVID	BW0202	Björn		1	
+pl	Rana musiała go mniej boleć, pogodził się też widocznie z koniecznością przerwy w wędrówce, bo twarz miał spokojniejszą.	NKJP			EVID	BW0203	Björn		1	
+pl	Nie wiem, skąd się brała ta moja zawziętość. Nie będę twierdził, jakobym przeczuwał, że on niedługo umrze.	NKJP			EVID	BW0204	Björn		1	
+pl	Recenzent swoją subiektywność stłamsić usiłuje, ona ukazuje się i tak, tyle że przytłamszona. Zdaję sobie z tego sprawę, a jednak i jednocześnie, kiedy czytam recenzję, ulegam owej zdumiewającej fikcji, jakoby to nie człowiek mnie sądził, ale zaświatowa "obiektywność'.	NKJP			EVID	BW0204	Björn		1	
+pl	Wiem tylko, że panuje pomysł, żądanie, dogmat, jakoby człowiek powinien być nieustannie szczęśliwy.	NKJP			EVID	BW0204	Björn		1	
+pl	Według Jahiela drzewo zostało użyte na pal wbity w jamie wykopanej na przechodzie szkodnych dzików. Aser wziął je jakoby do podparcia namiotu.	NKJP			EVID	BW0204	Björn		1	
+pl	Falka - podjęła po chwili Enid an Gleanna - przypomniała o sobie po dwudziestu pięciu latach, wzniecając powstanie i własną jakoby ręką mordując ojca, Cerro i dwóch braci przyrodnich.	NKJP			EVID	BW0204	Björn		1	
+pl	Tu retoryczną błysnąć przerwą zamierzał Fuks, by potem z werwą zacząć rozwodzić się, jakoby nie chce wysuwać swej osoby.	NKJP			EVID	BW0204	Björn		1	
+pl	Gdyby nie wstydziła się, zapewniłaby, że w ogóle Freud ją znudził i że nigdy nie myślała, jakoby Mucjusz Scevola był masochistą.	NKJP			EVID	BW0204	Björn		1	
+pl	Ci dwaj zdolni młodzieńcy siedzą jakoby do tej pory, a jeśli wyszli, to bardzo niedawno (tak przynajmniej twierdzi większość ćpunów).	NKJP			EVID	BW0204	Björn		1	
+pl	Naczelna spiorunowała mnie wzrokiem. Za karę kazała napisać kilkanaście listów nadesłanych rzekomo od mieszkańców Dolnego Śląska, a także kilka z innych regionów.	NKJP			EVID	BW0205	Björn		1	
+pl	Miał urazę do arcykapłana o zabranie mu ulubieńca, pięknego młodzieniaszka. Porwali go rzekomo bogowie, król jednak wiedział, że jego pożądany ślicznotek znajduje się w mieszkaniu arcykapłana.	NKJP			EVID	BW0205	Björn		1	
+pl	Słyszałaś o tej dziewczynce rzekomo porwanej w Czechach?	NKJP			EVID	BW0205	Björn		1	
+pl	Nie widziałem tego pana ani żadnej kobiety, którą rzekomo miał tu przywieźć.	NKJP			EVID	BW0205	Björn		1	
+pl	Wczoraj, w niedzielę, tacy ludzie jak on wywołali zadymę w Wilnie, zrywając mecz pucharowy drużyny, której rzekomo kibicowali.	NKJP			EVID	BW0205	Björn		1	
+ru	Пусть действительные полководцы не обижаются и не выражают недовольствие тем, что, оказывается, якобы разведчики выиграли эту войну.	NKRJa			EVID, SA-OPT	BW0206	Björn		1	
+ru	Правда, в статье не были упомянуты имена создателей программы, после чего, якобы обидевшись, они уехали из Иллинойса в Кремниевую Долину.	NKRJa			EVID	BW0206	Björn		1	
+ru	Кстати дочка якобы красавица и на неё даже похожа.	NKRJa			EVID	BW0206	Björn		1	
+ru	При подписании договоров силовикам якобы пообещали так называемые комиссионные в размере $ 6 млн.	NKRJa			EVID	BW0206	Björn		1	
+ru	То есть в интерпретации Райкова глава МВД Борис Грызлов будто бы занимается предвыборным пиаром "Единой России", а они "народники", скромно трудятся над такими полезными.	NKRJa			EVID	BW0207	Björn		1	
+ru	По воспоминанию современника торжественное оправдание Веры Засулич происходило как будто в каком-то ужасном, кошмарическом сне…	NKRJa			EVID	BW0208	Björn		1	
+ru	Не исключено, что Путин решил, будто ФСБ сдаст этот экзамен на "отлично", только получив в своё распоряжение спецов из ФАПСИ.	NKRJa			EVID	BW0208	Björn		1	
+ru	Стоит свести их вместе ― и сразу ясна фальшивая подкладка всего этого противостояния "общественных кругов" и властей. При полной как будто противоположности позиций в них много общего.	NKRJa			EVID	BW0208	Björn		1	
+ru	СМИ хотят вдолбить в мозг людей, будто народ боится прихода коммунистов к власти.	NKRJa			EVID	BW0208	Björn		1	
+ru	Мне с ними по жизни не везет (карма, видимо, у меня такая) в прошлой жизни, наверно, поиздевалась над ними.	NKRJa			EVID	BW0209	Björn		1	
+ru	Так женись на мне! ― чуть не закричала я.  Видимо, эта мысль ему в голову не приходила, потому что, когда я, вся в слезах, начала говорить о том, что я тоже хочу "нормальную обычную семью", он страшно удивился.	NKRJa			EVID	BW0210	Björn		1	
+ru	― Карточки? ― удивился Трубинский.  ― Зачем это?  Неужели у нас в кабинете нет других дел?  ― Видимо нет, ― вздохнул Двинятин. ― по крайней мере, для нас с Аствацатуровым.	NKRJa			EVID	BW0211	Björn		1	
+ru	На экране ― пусто.  Зрители в оцепенении.  Сейчас… сейчас!..  И тут в наш зал впархивает зритель, отходивший, видно, по какой-то неотложной нужде.	NKRJa			EVID	BW0212	Björn		1	
+ru	Я как-то смотрела подобную книгу, но там такая ерунда написана была.  Типа как правильно умываться и почему надо хорошо учиться.  Видно я смотрела не для того возраста.	NKRJa			EVID	BW0213	Björn		1	
+ru	Мама навешала ему подзатыльников свежей метёлкой, и ураган Бык так надорвался и унизился, что надолго куда-то запропастился.  Видно, отлёживался и копил силы в потаённых тупичках нашего мира.	NKRJa			EVID	BW0214	Björn		1	
+ru	Прочтите ещё раз Вашу фразу.  Напоминает «12-ть стульев», Ильф, Петров.  Поищите реплики м-м Грицацуевой, кажется, это оттуда.	NKRJa			EVID	BW0215	Björn		1	
+ru	Вторая часть понравилась в меньшей степени.  А третью я, вроде, когда-то пыталась посмотреть, но осилила минут 10-15, кажется.	NKRJa			EVID	BW0216	Björn		1	
+ru	Он вручает гардеробщику плащ, размахивается и даёт ему кулаком в морду.  Философ.  Эге, да он ему, кажется, глаз выбил.	NKRJa			EVID	BW0217	Björn		1	
+ru	[agd-ardin, nick]  Вот - вот.  так что лекциями тоже неплохо бы запастись [Колючий друг, nick]  Лекциями - то запасусь…  мне вроде завтра принесут.	NKRJa			EVID	BW0218	Björn		1	
+ru	Моему мальчику только 10 лет осенью, а им уже девочки интересуются!  Но он пока вроде не интересуется ими…	NKRJa			EVID	BW0219	Björn		1	
+ru	Да и сейчас в Москве летом достаточно сходить на Чистые пруды, чтобы воочию увидеть характерную зелень, ― хотя там вроде принимаются какие-то меры, да и живности почти нет.	NKRJa			EVID	BW0220	Björn		1	
+ru	[agd-ardin, nick]  когда он проснулся ― спал уже я.  теперь проснулся я ― его нет) [Колючий друг, nick] D Cупер) [agd-ardin, nick]  Я похоже пойду против своего обычного пофигизма и уже сегодня начну готовиться	NKRJa			EVID	BW0221	Björn		1	
+ru	Что касается "Возвращения", фаворита нынешнего сезона, то "открытием года" академики "Ники" его почему-то не сочли ― выбрали Последний поезд" Алексея Германа (о нём отдельно в одном из ближайших номеров "ЭС").  А вот сам Андрей Звягинцев, похоже, уже подустал от пролившегося на него наградного ливня.	NKRJa			EVID	BW0222	Björn		1	
+ru	Меня зовут Марина и у меня две девочки 15 и 18.  Но мы, похоже, потихоньку выходим из подростков, самое сложное точно позади.	NKRJa			EVID	BW0223	Björn		1	
+ru	Теперь, когда культ развлечений ― едва ли не определяющая черта времени, а торжество идеалов среднестатистического потребителя, похоже, не за горами, его картина может служить ориентиром, подобно сохранившемуся архитектурному стандарту времён ампира в эпоху "коммуналок".	NKRJa			EVID	BW0224	Björn		1	
+ru	Бывали моменты, когда она позвонит в звонок, я приду, и она мне скажет: "Мне тоскливо без тебя, побудем вместе".	NKRJa			ITER	BW0225	Björn		1	
+ru	Если вам надо установить телефон, устроить родственника в больницу, записаться в гаражный кооператив, получить место на кладбище, идите к  нему. Он куда надо позвонит, напишет толковое письмо (он в этих делах понимает).	NKRJa			ITER	BW0225	Björn		1	
+ru	Забавно было, что таким же недоверием ко всем и каждому (...) была заражена и Вера Лазаревна. Иногда позвонит откуда-нибудь по телефону, спросит Лену. Дмитриев ответит, что Лены нет.	NKRJa			ITER	BW0225	Björn		1	
+ru	Как проиграет, Кумилкин быстро это замнет, сдает по новой.	NKRJa			ITER	BW0225	Björn		1	
+ru	Уверен, что кто-то попросит рассказать обо всем поподробнее.	NKRJa			EPIST	BW0226	Björn		1	
+ru	Женщины не каждому смогут доверить свои самые сокровенные мысли, не для каждого попробуют измениться, не каждый увидит их слезы.  И если один мужчина сможет отгадать эту загадку, то это и есть настоящая любовь.	NKRJa			DISP	BW0227	Björn		1	
+ru	Да хорошо все будет.  Все ты сдашь.	NKRJa			EPIST	BW0228	Björn		1	
+ru	Помню, кто-то говорил (когда я был еще в школе и ненавидел ее всеми фибрами своей души), что это вы сейчас так говорите, а вот закончите школу, поступите в институт и будете вашу школьную пору вспоминать с бывшими одноклассниками очень часто и очень тепло.	NKRJa			EPIST	BW0229	Björn		1	
+ru	Эта компания была одной из наиболее активных западных фирм на зарождавшемся российском рынке, а сейчас, спустя 10 - 12 лет от неё не найдёшь и следов.	NKRJa			CIRC, EPIST	BW0230	Björn		1	
+ru	Мы её положим на стол, и она придёт в себя.	NKRJa			EPIST	BW0231	Björn		1	
+ru	Рок-певица Шерил Кроу проведёт в мае уникальный концерт: она будет выступать на борту самолёта авиакомпании United Airlines (...). Она исполнит 40-минутную музыкальную программу в сопровождении акустической гитары во время перелёта из Лос-Анджелеса в Чикаго.	NKRJa			EPIST	BW0232	Björn		1	
+ru	Здесь же главный корпус пансионата "Кавказ".  На его территории всегда много детей: здравница принимает на отдых родителей с детьми.  К радости детворы хороший пляж, спортивно-игровой комплекс, а взрослых заинтересуют теннисный корт и лодочно-глиссерная станция.	NKRJa			EPIST	BW0233	Björn		1	
+ru	У вас всё же эшелон есть, и он поздно или рано всё равно куда-то пойдёт.	NKRJa			EPIST	BW0234	Björn		1	
+ru	Вообще-то рассуждать на эту тему совершенно бессмысленно, тут есть что-то, чего словами не опишешь.	NKRJa			CIRC, EPIST	BW0235	Björn		1	
+ru	Не следует расслабляться из-за отсутствия полицейских на автобанах.  Используются радары и компьютерное наблюдение. Но самым придирчивым контролёром может стать любой финский водитель, который с честью исполнит свой гражданский долг, сообщив о нарушителе куда надо по мобильному телефону.	NKRJa			DISP	BW0236	Björn		1	
+ru	Поэтому лучше не мудрить, выбрать "законопослушный вариант", и тогда путешествие в эту замечательную страну превзойдёт все ваши ожидания.	NKRJa			EPIST	BW0236	Björn		1	
+ru	Собор ― самый большой в мире из настоящих, средневековых, готических. Амьенские жители с гордостью повторяют, что в его объем поместятся два собора Парижской Богоматери. Пока ходишь и рассматриваешь четырехлистники, проголодаешься.	NKRJa			DISP, CIRC	BW0237	Björn		1	
+ru	Интересное начинание, но вряд ли производители на такое пойдут.	NKRJa			EPIST	BW0238	Björn		1	
+ru	Действительно, глаза.  Сами они, взгляд их.  А зачем нужны глаза без взгляда?  Без взгляда собеседника ты сам окажешься для него невидимым.	NKRJa			EPIST	BW0239	Björn		1	
+ru	Как бы сильно автор не рисковал, найдётся некто ленивый, кто непременно скажет: «Было!»  И скорее всего, окажется прав.	NKRJa			EPIST, ITER	BW0240	Björn		1	
+pl	Posłuchaj, pan Leszek na pewno to zrozumie, że... trzeba odłożyć na bok różne sprawy...	NKJP			EPIST	BW0241	Björn		1	
+pl	Na pewno będzie fajnie - zobaczysz....	NKJP			EPIST	BW0242	Björn		1	
+pl	Oni do siebie pasują. Kinga nigdy nie znajdzie lepszego faceta.	NKJP			EPIST, RECI	BW0243	Björn		1	
+pl	Ma pan na pewno różne swoje przyzwyczajenia, ja nie chcę mówić "wady", przyzwyczajenia. To wszystko wyjdzie dopiero w takim normalnym codziennym życiu.	NKJP			EPIST	BW0244	Björn		1	
+pl	Prałem, sprzątałem... I myślę, że to się nie zmieni.	NKJP			EPIST	BW0245	Björn		1	
+pl	No i co, młody, tak się nakręciłeś, że może mnie jeszcze uderzysz?!	NKJP			EPIST	BW0246	Björn		1	
+pl	- A co mi tam - odpowiedział - tam miałem ciasno. Tu wygodniej. - Jeszcze cię kiedy stąd wypędzą. - A kto mnie wypędzi? - Wiesz, jacy tu u nas ludzie są.	NKJP			EPIST	BW0247	Björn		1	
+pl	Na partyzantkę to się ksiądz nie nada.	NKJP			DISP	BW0248	Björn		1	
+pl	Nawet pewnie ksiądz strzelać nie umie.	NKJP			DISP, EPIST	BW0248	Björn		1	
+pl	Ilekroć przyjdą robić mi remanent, zawsze mnie ten czy ów nie omieszka zapytać, czy nie mam brązowego, pilśniowego kapelusza.	NKJP			ITER	BW0249	Björn		1	
+pl	Niezależnie od tego, jak daleko się wybierzesz, zawsze znajdziesz coś dla siebie.	NKJP			ITER	BW0250	Björn		1	
+pl	Płakać mi się chciało. Żeby przed oczami zrobiło mi się ciemno, nie trzeba mi nigdy dużo. Jedna kropla wystarczy mi zawsze.	NKJP			ITER	BW0251	Björn		1	
+pl	Wszechświat jest takim światem, więc poczuj go, zaprzyjaźnij się z nim i kiedy masz wątpliwości, poproś o pomoc. Poproś szczerze, a on ci pomoże, bo pomaga zawsze.	NKJP			ITER, EPIST	BW0252	Björn		1	
+pl	Piję, no, lubię sobie golnąć... Czasem wezmę niuch kokainki albo sięgnę po pejotl, zawsze świadomie.	NKJP			ITER	BW0253	Björn		1	
+pl	Wygram z tobą zawsze i wszędzie - krzyczał już Woźniak - na hulajnodze, trójkołowym rowerku i kucyku.	NKJP			ITER	BW0254	Björn		1	
+pl	Życie na bruku warszawskim nie poskąpiło mu trudów. Zobowiązany przez subiektów do wykonywania posług domowych, zrywał się o świcie, zimą w głębokich jeszcze ciemnościach.	NKJP			DOM-ANIM	BW0255	Björn		1	
+pl	Po dokonaniu zakupów towar był wysyłany przez subiektów do domu klienta.	NKJP			DOM-ANIM	BW0256	Björn		1	
+pl	Kłaki i pakuły sterczące w nieodpowiednich miejscach z kormoranów, czapli, ibisów - żeby wymienić choćby najbardziej typowych przedstawicieli ptactwa wodnego..."	NKJP			DOM-ANIM	BW0257	Björn		1	
+pl	Kiedy tytułowy badacz spotyka przedstawiciela jakiegoś gatunku owadów, Majewski podaje rzetelną charakterystykę stwora umiejętnie wplecioną w fabułę.	NKJP			DOM-ANIM	BW0258	Björn		1	
+pl	Archaniz spojrzała z gniewem na nowego przedstawiciela kociego rodu.	NKJP			DOM-ANIM	BW0259	Björn		1	
+pl	Pies, a ściślej - suka. Zaiste, nic nie mogło podważyć jej prawa pieczętowania się psim herbem, choć na oko można ją było uznać za członka szczurzej rodziny, a to z racji szczurzego koloru sierści, długiego ogona, miejscami dość wyliniałego, i zamiłowania do śmietników.	NKJP			DOM-ANIM	BW0260	Björn		1	
+pl	W domu pełno było psów i kotów, które uważano przecież za członków rodziny.	NKJP			DOM-ANIM	BW0261	Björn		1	
+pl	Jury (...) po przeczytaniu i dogłębnym przeanalizowaniu maszynopisów 33 tomików poetyckich postanowiło wziąć pod uwagę jako kandydatów do nagrody następujące z nich: godło "Usz", godło regipel, godło "Dróżnik", godło DNA, godło "Romuald Okist", godło "wszyscy jesteśmy ce ha i inne cytaty", godło YNNITKIN.	NKJP			DOM-ANIM	BW0262	Björn		1	
+pl	W Halloween zasłona oddzielająca świat widzialny od niewidzialnego rozchyla się odrobinę, na manhattańskiej paradzie odprawiane są tańce seksu i śmierci, a w Park Slope odbywa się podobna parada, tyle że przebrane za demony i czarownice maszerują w niej dzieci.	NKJP			DOM-ANIM	BW0263	Björn		1	
+pl	Jednocześnie wierzyli w czyhające w jarach olbrzymy o kamiennych skórach, baldwiny wabiące nieostrożnych wędrowców ku przepaściom i skrzaty.	NKJP			DOM-ANIM	BW0264	Björn		1	
+pl	Zresztą dotąd nikogo z państwa nie spotkałem osobiście, znałem skrzaty tylko ze słyszenia, z opowieści.	NKJP			DOM-ANIM	BW0264	Björn		1	
+pl	Włodek (...) wspomagał kontrolę prowadzoną przez skrzatów z grupy Wasyl BD nad domem między lipą a bilbordem.	NKJP			DOM-ANIM	BW0264	Björn		1	
+pl	Tu widywał karły i dziewczęta przeraźliwie tłuste.	NKJP			DOM-ANIM	BW0265	Björn		1	
+pl	Oto jeszcze jeden zakręt, a za nim będzie obszerna grota, w której ocknąwszy się z zamroczenia ujrzałem potworkowate karły. Były wówczas dla mnie dobre, pewnie nie odmówią mi pomocy i teraz.	NKJP			DOM-ANIM, DSM-ANIM	BW0266	Björn		1	
+pl	Gollum (...) teraz nadal tropi hobbitów, na koniec obgryza Frodowi rękę i wpada do lawy.	NKJP			DOM-ANIM, POSS	BW0267	Björn		1	
+pl	Stwór, spaczony przez pierścień, obiecuje poprowadzić hobbitów do Czarnych Wrót Mordoru.	NKJP			DOM-ANIM	BW0268	Björn		1	
+pl	Gry RPG zwykle toczą się w świecie fantasy zaludnionym przez elfy, krasnoludy, hobbitów, czarnoksiężników i smoki.	NKJP			DOM-ANIM	BW0269	Björn		1	
+ru	В красном фраке и белоснежных панталонах ездит этот изнеженный Чичиков по российским просторам и встречает не людей… а кукол фарфоровых.	NKRJa			DOM-ANIM	BW0270	Björn		1	
+ru	На выставке дивногорцы помимо костюмов, сшитых и вышитых своими руками, представляли кукол-катанок в одеждах, повторявших костюмы участников "Тропины".	NKRJa			DOM-ANIM	BW0271	Björn		1	
+ru	Как некоторые любят и собирают кукол, так Маруся собирала диваны.	NKRJa			DOM-ANIM	BW0272	Björn		1	
+ru	Гэмбл виртуозно водит марионеток.	NKRJa			DOM-ANIM	BW0273	Björn		1	
+ru	Это один из способов ― подчинять людей своей воле, видеть в них пешки или, если угодно, марионеток, которых можно заставить двигаться по своему усмотрению.	NKRJa			DOM-ANIM	BW0274	Björn		1	
+ru	Склеить нас, двух (трех, четырех и т. д. ) кукол-марионеток ― нутро-к-нутру?	NKRJa			DOM-ANIM	BW0275	Björn		1	
+ru	На уборном столе перед зеркалом Алёша увидел две фарфоровые китайские куклы, которых вчера он не заметил.	NKRJa			DOM-ANIM	BW0276	Björn		1	
+ru	Она говорит: "Куклы покупал? " Я говорю: "Много чего покупал.  Иногда покупал куклы".	NKRJa			DOM-ANIM	BW0277	Björn		1	
+ru	После этого оставшийся прах собирали в мешочки и помещали в ритуальные куклы-манекены размерами в натуральную величину человека.	NKRJa			DOM-ANIM	BW0278	Björn		1	
+pl	Mówił mi wasz kierownik, że macie tam prysznic. Nie mówię do ciebie, ale wiem, jak się chłopy myją.	NKJP			DSM-ANIM	BW0279	Björn		1	
+pl	Jak chcą chłopy, niechby się i bili, ale żeby kobiety z dziećmi za ich wojny nie płaciły.	NKJP			DSM-ANIM	BW0280	Björn		1	
+pl	I między meldunki dzwonkowe a winne się wtrącając, pytałem: "Tata, a która już gaździna?", nawet przejęzyczenia nie zauważając z podniecenia, a chłopy się śmiały i meldowały: "Styrdzieści!".	NKJP			DSM-ANIM	BW0281	Björn		1	
+pl	Trudno było, zaiste, przypuścić, że to on właśnie jest oskarżonym, że to o nim właśnie zeznają zalęknione jąkające się chłopy.	NKJP			DSM-ANIM, MFOC	BW0282	Björn		1	
+pl	Dziadek mówił, że chłopi nie chcieli iść z panami, ale dziadek poszedł. W lesie palili ognie i ustawiali w kozły prymitywne dwururki.	NKJP			DSM-ANIM	BW0283	Björn		1	
+pl	Tylko w głębi pod oknem dwaj chłopi o twarzach sinoczerwonych kiwali się nad szklanicami piwa.	NKJP			DSM-ANIM	BW0284	Björn		1	
+pl	W drugiej sali chłopaki w napięciu obserwowali rozgrywkę bilardową pod wąskim snopem lampy.	NKJP			DSM-ANIM	BW0285	Björn		1	
+pl	W ogóle w załodze powinny być same chłopaki, i koniec!	NKJP			DSM-ANIM	BW0286	Björn		1	
+pl	Znalazłby się z Julkiem w jego własnym domu i chociaż jest o tyle starszy, zawsze przyjaźniłby się tylko z nim, czego oczywiście wszystkie chłopaki strasznie by zazdrościli, a Helcia także.	NKJP			DSM-ANIM	BW0287	Björn		1	
+pl	Chłopi mało mnie nie zatłukli, na szczęście nie wiedzieli, jak się do tego zabrać... Podziurawili mnie kołkami.	NKJP			DSM-ANIM	BW0288	Björn		1	
+pl	Zacząłem, jak te chłopaki, jeździć po pociągach.	NKJP			DSM-ANIM	BW0289	Björn		1	
+pl	Moje okrucieństwo było żadne w porównaniu z tym, co wyrabiali chłopacy z osiedla. Łapali bezdomne koty, lakowali im oczy, a potem zrzucali z najwyższego piętra bloku na babcie idące do kościoła.	NKJP			DSM-ANIM	BW0289	Björn		1	
+pl	Anzelm i Janusz, obaj kończący już gimnazjum chłopacy, pokazywali się tylko przy stole	NKJP			DSM-ANIM	BW0289	Björn		1	
+pl	Spojrzałem w dół, gdzie guzdrali się chłopacy. Dostrzegłem ich na zboczu góry, powoli wchodzących.	NKJP			DSM-ANIM	BW0289	Björn		1	
+pl	Zoltan żartował, że upiory i wszelkie inne demony musiały dowiedzieć się o nadciągających wojskach.	NKJP			DSM-ANIM	BW0290	Björn		1	
+pl	Jej mieszkańcy natomiast tkwią jeszcze obiema nogami w ciemnych wiekach, gdy wierzyło się w elfy i błotne demony, czyhające na bagnach.	NKJP			DSM-ANIM	BW0291	Björn		1	
+pl	Nie są to wasze niezdarne leśne bożęta, na które, jak tuszę, dźwięk dzwonu wystarczy, ale potężne bogi pychy i korupcji, ze wszystkich demonów najzłośliwsze i do zwalczania najtrudniejsze.	NKJP			DSM-ANIM	BW0292	Björn		1	
+pl	Ale pomylili się w rachubach, mimo iż gazety redagowały w tych dniach diabły. A tron okupowały bałwany.	NKJP			DSM-ANIM	BW0293	Björn		1	
+pl	Gdy człek z wysiłku jest osłabły, wnet zeń uchodzą wszystkie diabły i nim go twardy sen nie zmoże, wzdycha pobożnie: Boże!	NKJP			DSM-ANIM	BW0294	Björn		1	
+pl	O północy przy zielonych stolikach modliły się diabły do cyfr. (...) Diabły w sercu swoim głupim, bo niedobrym rozwiązywały biało-czerwony problem.	NKJP			DSM-ANIM	BW0294	Björn		1	
+pl	Cieszył się, że Pan Bóg mu mnie zesłał, a nie wściekał się, że diabli wzięli jego samochód.	NKJP			DSM-ANIM	BW0294	Björn		1	
+pl	Powiada się: złego diabli nie biorą. Jak jednak pokazuje nasz przykład, złemu też diabli nie zabierają...	NKJP			DSM-ANIM	BW0294	Björn		1	
+pl	Król ogłosił, że jakby taki się znalazł, co by tych diabłów wypędził, toby mu dał swoją córkę za żonę.	NKJP			DSM-ANIM, RC	BW0295	Björn		1	
+pl	Ón gada: "Nie mam ta ochoty, hale jeśli chceta koniecznie, to pójdę, ale mi, psiekrwie, musicie pierwej przynieść wór pieniędzy". Lucyper wyprawił kilku diabłów - i przynieśli wór.	NKJP			DSM-ANIM, ANAPH	BW0296	Björn		1	
+pl	Na czwartej [skrzyni] siedział poszukiwany byczek, umieszczony tu przez diabłów, pilnujących tego zbójeckiego skarbu	NKJP			DSM-ANIM	BW0297	Björn		1	
+pl	W mrocznych głębinach kniei czaiło się coś groźnego i niebezpiecznego, a nie były to bynajmniej złośliwe skrzaty z bajki.	NKJP			DSM-ANIM	BW0298	Björn		1	
+pl	Gobliny czy też hobbity (nie umiałem nigdy tego spamiętać) umiały wyczyniać takie sztuki.	NKJP			DSM-ANIM	BW0299	Björn		1	
+pl	W ten sposób nierzadko reflektują się, gdy te hobbity - pół biedy jeśli one, a nie komandosi, którzy chcą sobie dodatkowo postrzelać - zapanują już w jakimś  miejscu.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Brytyjczycy, mam wrażenie, specjalizują się raczej w zwierzęcych parabolach mieszczańskiej szczęśliwości (...) – z tego się wziął także „Kubuś Puchatek” i poniekąd hobbici.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Wśród kultur Śródziemia Tolkienowski świat, jego niezwykłe Śródziemie, to mieszanina kultur - odmiennych sposobów życia, ubierania się, metod walki. Są tam hobbici, krasnoludy, ludzie, elfowie, czarodzieje, trolle, orki, Upiory Pierścienia, uruk-hai HOBBICI - żyją około 100 lat.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Ponadto brak wykształconej brody w zachowanych żuchwach dowodzi, iż hobbici byli anatomicznie bliżsi naszym dalszym przodkom - gatunkowi Homo erectus (zwanemu również pitekantropem) i australopitekom - niż Homo sapiens.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Ekran zapełniają na równych prawach ludzie, hobbici, elfy, krasnoludy, orki i inne mniej lub bardziej niesympatyczne stwory,	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Nie mamy tu przecież do czynienia z Tolkienowską arkadią, w której hobbity uprawiają rolę i wesoło tańczą przy dźwiękach dzwoneczków.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Rohańscy i gondorscy wojownicy, elfy, hobbity a nawet Nazgule pojawili się w piątek w Krakowie.	NKJP			DSM-ANIM	BW0300	Björn		1	
+pl	Zaraz, zaraz, o czym to ja marzyłem, że było mi z tym tak dobrze?... Aha, już wiem.	NKJP			MFOC	BW0301	Björn		1	
+pl	Doprawdy trudno pojąć, jakim cudem wraca do domu o własnych siłach. Ale o czym to ja chciałam opowiedzieć.	NKJP			MFOC	BW0302	Björn		1	
+pl	Zresztą, poniekąd to pan jest za to odpowiedzialny...	NKJP			MFOC	BW0303	Björn		1	
+pl	No, może rzeczywiście ciut przesadziłem, wybacz. Bądź mi za to łaskaw zdradzić, dokąd to miałby się udać nasz - szukał odpowiedniego słowa - banita i na jaką obczyznę?	NKJP			MFOC	BW0304	Björn		1	
+pl	Wreszcie stało się jasne, dlaczego ktoś chciał, by to on zajął się tą sprawą.	NKJP			MFOC	BW0305	Björn		1	
+pl	Wciąż błądzę po omacku. Odruchowo skupiłem się na Rakowieckim. Bo przy nim znaleziono numer telefonu tego profesora. I to on nie poddawał się do końca. Ale jest przecież ten drugi chłopak.	NKJP			MFOC	BW0306	Björn		1	
+pl	Dwaj, których znał z widzenia, obrzucili go spojrzeniem pełnym urazy i zaczęli coś szeptać do siebie. Zupełnie jakby to on był wszystkiemu winien.	NKJP			MFOC	BW0307	Björn		1	
+pl	Beck robi co chce, zachodni dyplomaci udają albo naprawdę nie rozumieją naszej sytuacji i naszego zagrożenia, rozmawiać z nimi to tyle, co rozmawiać z	NKJP			MFOC	BW0308	Björn		1	
+pl	Lelewel! - szepnął Mochnacki i jak urzeczony wpatrywał się w to światło jak w czujne, bezsenne czyjeś oko. - Cóż, może to on właśnie?	NKJP			MFOC	BW0309	Björn		1	
+pl	Przypominam, że od września to on będzie decydował o twojej pensji.	NKJP			MFOC	BW0310	Björn		1	
+pl	Ojciec go bił, matka chroniła, a dziadek opowiadał historie o lasach. To dziadek go wykształcił za swoje i dał go uczyć na księdza.	NKJP			MFOC	BW0311	Björn		1	
+ru	Учёные сделали вывод, что дельфины, глядя на своё отражение, узнают его.  Они понимают, что это они собственной персоной маячат в зеркале.	NKRJa			MFOC	BW0312	Björn		1	
+ru	Как будто собирают трофеи своей победы.  Можно подумать, что это они, американцы, разбили немцев.	NKRJa			MFOC	BW0313	Björn		1	
+ru	А как новогодняя ёлка появилась в России? Часто встречается утверждение, что это она пришла к нам после указа Петра I от 15 декабря 1699 г. Однако это не совсем так.	NKRJa			MFOC	BW0314	Björn		1	
+ru	Сидевшие рядом с ним удивлялись ― откуда это он знает, что будет петь Архипова.	NKRJa			MFOC	BW0315	Björn		1	
+ru	Это откуда же такая хорошая квартирка взялась? ― плаксиво вопросила Алла Владимировна.	NKRJa			MFOC	BW0316	Björn		1	
+ru	― Да я не о носе, дуралей!  ― А о чём? ― всё ещё не понимал Костя.  ― А о том, что, если по-настоящему захотеть, значит, можно из человека превратиться, к примеру, в воробья…  ― Это зачем же нам превращаться, к примеру, в воробьёв? ― спросил Костя Малинин,	NKRJa			MFOC	BW0317	Björn		1	
+ru	Ты здесь просто встал неправильно.  Я сначала тебя проскочил, вот тут вот развернулся уже.  Быстро это очень всё рассказал.	NKRJa			MFOC	BW0318	Björn		1	
+ru	«О, Вань, это с кем это ты тут любезничаешь?»	NKRJa			MFOC	BW0319	Björn		1	
+ru	Анна явно не поняла вторую половину фразы, и он продолжил: там бабка каких-то пожарников требовала, ― это о чем она?	NKRJa			MFOC	BW0320	Björn		1	
+ru	На последнем вздохе он произнёс отчётливо: "Dort oben, auf dem Berge… " ― "Там наверху, на горе… " О чём это он, какая гора, где?	NKRJa			MFOC	BW0321	Björn		1	
+pl	Dolewają wody do paliwa i różnych świństw, jak ci, co to u nich pan Jezus na weselu był, żenili wino wodą, czy jakoś tak.	NKJP			MFOC, RC	BW0322	Björn		1	
+pl	Postępuje pan nietypowo, radco – powiedział Langer – oferuje pan zapłatę, zanim nam pan powiedział, o czym to mamy mianowicie milczeć...	NKJP			MFOC, RC	BW0323	Björn		1	
+pl	I łazić to on nie potrzebuje, ma motor.	NKJP			MTOP	BW0324	Björn		1	
+pl	O młodych mówiło się, że przed nimi przyszłość, że to oni zbudują ten nowy, lepszy świat, że wszystko w ich rękach.	NKJP			MTOP	BW0325	Björn		1	
+pl	- Dobierać sobie wrogów to trzeba umieć. A ty masz z tym problemy. - A może to oni mają?...	NKJP			MTOP	BW0326	Björn		1	
+pl	Podniosła ku niemu twarz i obrzuciła go chłodnym, taksującym spojrzeniem. – Co to za kobieta? Czy to z nią byłeś za granicą?	NKJP			MTOP	BW0327	Björn		1	
+pl	A co się tyczy tych siedmiu kawalerów, to z nimi ja będę miał jeszcze oddzielną rozprawę!	NKJP			MTOP	BW0328	Björn		1	
+pl	Poza tym Chadaj, a szczególnie Baranowski, to z nimi by ci tak łatwo nie poszło, prędzej niż ciebie oszwabili niż ty ich.	NKJP			MTOP	BW0329	Björn		1	
+pl	Kosztownym hobby było posiadanie małp w większej liczbie. Były one np. ozdobą pałacu Kazanowskich przy Krakowskim Przedmieściu; z nimi to, według  Sienkiewicza, walczył Zagłoba podczas "potopu".	NKJP			MTOP	BW0330	Björn		1	
+pl	Ujejski mówił mu o swoich dzieciach: "Wysportowane to one są; zdrowe to one są; wesołe to one są; ale pogadać z nimi to nie ma o czym".	NKJP			MTOP	BW0331	Björn		1	
+pl	Zobaczymy, czy będzie taki szczęśliwy. U Starego Sępa ciemno, ale z nim to nigdy nic nie wiadomo.	NKJP			MTOP	BW0332	Björn		1	
+ru	Стальной корпус женских часов украшен бриллиантами, они же использованы вместо цифр.	NKRJa			MTOP	BW0333	Björn		1	
+ru	Теперь представьте себе людей, после работы забежавших купить билет на электричку.  Естественно, без очереди (они же спешат!), естественно, с решительным и уверенным видом (они же местные!), и естественно, эта электричка отправляется в 18 часов…	NKRJa			MTOP	BW0334	Björn		1	
+ru	Конечно, творчество было приоритетным, но зарплата хотя и вторична ― о ней же забывать нельзя!	NKRJa			MTOP	BW0335	Björn		1	
+pl	Dwa kubły wypełnione po brzegi tą aromatyczną mazią stały na samym czubku mola, który to czubek świecił dziurami niczym sito.	NKJP			MTOP, RC	BW0336	Björn		1	
+pl	Nie można, mówię, na przykład całe życie patrzeć na życie tylko od jego śmiesznej strony, którą to stronę życie ma, i jeszcze jak, ale nie tylko.	NKJP			MTOP, RC	BW0337	Björn		1	
+pl	Przede mną na wschodzie, w którą to stronę stałem zwrócony twarzą, niebo nad horyzontem było delikatnie pomarszczone chmurami jak podniebienie psa.	NKJP			MTOP, RC	BW0338	Björn		1	
+pl	Wiesz... ten chłopak z moich marzeń wyglądał zawsze jak Brad Pitt. Taki fajny blondasek, co to byś go chciała od razu schrupać.	NKJP			MTOP, RC	BW0339	Björn		1	
+pl	Naświetlił sylwetkę partyzanta Bajorkina, co to w koszuli zaszył legitymację.	NKJP			MTOP, RC	BW0340	Björn		1	
+pl	Otóż nieznajomy ów szukał pewnej kobiety z dwojgiem dzieci, którzy - według jego wiadomości - mieli mieszkać razem z panną Ziutą.	NKJP			ANAPH, RC, DSM	BW0341	Björn		1	
+ru	Все отдыхают, а я работай.	Holvoet (ESLL)			ECH	BW0342	Björn		1	
+pl	Poczekaj, niech usiądę.	Holvoet (ESLL)			ECH	BW0343	Björn		1	
+ru	Сяду-ка я, поработаю.	Holvoet (ESLL)			ECH	BW0344	Björn		1	
+pl	I to ma być dzieło sztuki?	Holvoet (ESLL)			ECH	BW0345	Björn		1	
+pl	Masz się zaraz stawić u dyrektora.	Holvoet (ESLL)			ECH, EVID	BW0346	Björn		1	
+ru	Знаешь какой-либо язык, кроме арамейского?	PS			NSPEC	IM0001	Imke		1	
+ru	Денег в кармане ― рублей десять всего.	NKRJa			APPROX	IM0002	Imke		1	
+ru	Долгое время американцы без всяких оснований утверждали, что в Москве по улицам бродят медведи.	Og98			EXIST	IM0003	Imke		1	
+pl	Mam przeczytane 20 stron, jeszcze 5 i skończę ten rozdział.	Lab88			RESULT	IM0004	Imke		1	
+cs	Jak víte o těch dopisech? Jak víte o tom testamentu?	ČapVěc	Adamec (1983)		DEFIN	IM0005	Imke		1	
+pl	Schyliwszy się nad nim stoi nieznajomy.	NKJP			RESULT	IM0006	Imke		1	
+ru	Он взволнован.		Wiemer/Giger (2005)		RESULT	IM0007	Imke		1	ID23-25 sollten eine Gruppe bilden, die jedoch nicht aligniert ist
+ru	Eго взволновали.		Wiemer/Giger (2005)		RESULT	IM0007	Imke		1	
+ru	Он взволновался.		Wiemer/Giger (2005)		RESULT	IM0007	Imke		1	
+pl	Adam był polskiego pochodzenia.	NKJP			NOMPRED	IM0008	Imke		1	
+bcms	Bili smo dobre volje.	SP2005			NOMPRED	IM0009	Imke		1	
+ru	Первый сигнал был от Анны Егоровны.	NKRJa			NOMPRED	IM0010	Imke		1	
+pl	Skrzypce były bez strun.	NKJP			NOMPRED	IM0011	Imke		1	
+bcms	Jedan je bio bez košulje.	SP2005			NOMPRED	IM0012	Imke		1	
+pl	Ci, którzy go znali, nie mieli wątpliwości, że umrze starym kawalerem.	NKJP			NOMPRED	IM0013	Imke		1	
+ru	А познакомились мы как врач и пациентка.	NKRJa			NOMPRED	IM0014	Imke		1	
+pl	Przyznam się panu, że jako dziecko nienawidziłem łuskania fasoli.	NKJP			NOMPRED	IM0015	Imke		1	
+bcms	Pogledajte svoju djevojčicu kao malu osobu za sebe, koja ima puno vrlina i koja se samo trenutno teško snalazi u školi.	hrWaC			NOMPRED	IM0016	Imke		1	ID34+35 bilden ein Paar, das zwei unterschiedliche Arten von Kongruenz in derselben Konstruktion zeigt
+bcms	Ja evo danas nastupam kao mažoretkinja i sa jednom djevojčicom kao voditeljica programa.	hrWaC			NOMPRED	IM0016	Imke		1	
+ru	Кирпич ни с того ни с сего, – внушительно перебил неизвестный, – никому и никогда на голову не свалится.	BM			PCOORD	IM0017	Imke		1	
+ru	Андрей изловчился и с третьей попытки разбил камнем лампу	NKRJa			PCOORD	IM0018	Imke		1	
+ru	Как-то я сумел изловчиться и ударить её головой в нижнюю челюсть.	NKRJa			PCOORD	IM0018	Imke		1	
+ru	Не жаль таких вот или немного постарше парнишек, что тысячами бросают в бой	NKRJa			RC	IM0019	Imke		1	
+cs	Asi jste špatně rozuměl dopisu, co Vám poslali.		Fried (2010)		RC	IM0020	Imke		1	
+pl	A to nie jest ten co my widziałyśmy?	SPOKES	Guz (2017)		RC	IM0021	Imke		1	
+pl	Мoże rozbrajaj najpierw te, co nie widać.	SPOKES	Guz (2017)		RC	IM0022	Imke		1	
+ru	Якобы трейлеры с аппаратурой застряли где-то под Нижним Новгородом	NKRJa			SPEC, IDEFIN	IM0023	Imke		1	
+ru	Похоже, у организаторов что-то не заладилось с рекламой форума.	NKRJa			SPEC, IDEFIN	IM0024	Imke		1	
+ru	Но с приходом зимы как будто что-то с ними происходит	NKRJa			SPEC, IDEFIN	IM0025	Imke		1	
+ru	Здоровались. Наверное, считали меня своей, особо не задумываясь, мол, я здесь с кем-нибудь	NKRJa			NSPEC, IDEFIN	IM0026	Imke		1	
+ru	Наверно, и у него была какая-то неудача в личной жизни.	NKRJa			EPIST, IDEFIN	IM0027	Imke		1	
+ru	— Знаешь, наверно, кто-нибудь из наших приятелей зашел, когда нас не было.	NKRJa			EPIST, IDEFIN	IM0028	Imke		1	
+ru	Они вернулись, безусловно, успев за это время охватить еще какую-нибудь церковь.	NKRJa			EPIST, IDEFIN	IM0029	Imke		1	
+ru	Эти следы, несомненно, принадлежали какой-то нырковой особи.	NKRJa			EPIST, IDEFIN	IM0030	Imke		1	
+ru	Видимо, просто у него что-то не ладится, какие-нибудь сложности в группе, где он работает.	NKRJa			EPIST, IDEFIN	IM0031	Imke		1	
+ru	Давати ми доци.	BB-StR40	Zalinznjak, Toporova, Janin (2005)		DOM	IM0032	Imke		1	
+ru	Ино достоит мужу жена своя наказывати.	Domostroj			DOM	IM0033	Imke		1	
+ru	И онъ гдѣ слышавъ вражду - - любовь скажеть.	Domostroj	Timberlake (1974)		DOM	IM0033	Imke		1	
+ru	А велено имъ служить городовая осaдная служба.	Sobornoe	Černyx (1952)		DOM	IM0034	Imke		1	
+ru	И xто вотчичь учнетъ ту вотчину выкупати, и тому та вотчина выкупити.	Sudebnik 1550	Zakony (1878)		DOM	IM0035	Imke		1	
+ru	Такоу правдоу възѧти роусиноу оу ризѣ и на гочкъмь березѣ.	Handelsvertrag 1229	Smolenskie gramoty		DOM	IM0036	Imke		1	
+ru	Такова правда оузѧти роусиноу оу ризѣ и на гочкомъ березѣ.	Handelsvertrag 1229	Smolenskie gramoty		DOM	IM0036	Imke		1	
+ru	Цо прилбица у тебе ондрѣева прилбица даі ондрѣю.	BB-N383			DOM, RC	IM0037	Imke		1	
+ru	А хто изымает осетръ, ино судиямъ половина. А осетре имъ имати по старинѣ.	GVNP			DOM	IM0038	Imke		1	
+ru	A Орды ми не знати, а Орда знати тобѣ Великому князю.	AAĖ			DOM	IM0039	Imke		1	
+pl	Widzewskie VIP-y odstraszyła cena – za sezon musieliby zapłacić 700 zł.	NKJP			DOM	IM0040	Imke		1	
+pl	Między robotniki się wkręcił, którzy pracowali w obozie	NKJP			DOM	IM0041	Imke		1	
+pl	A doktory zamiast leczyć	NKJP			DSM	IM0042	Imke		1	
+pl	Może lepiej byłoby pójść na egzamin w marynarce. Stare profesory to czasem lubią, przekonasz się.	NKJP			DSM	IM0043	Imke		1	
+pl	Że dyżurne eksperty wprowadziłyby strach w społeczeństwie.	NKJP			DSM	IM0044	Imke		1	
+pl	Krytycznie też trzeba spojrzeć na autorytety i bohatery.	NKJP			DOM	IM0045	Imke		1	
+pl	Może także potrzebujecie odświeżyć wasze doktory z psychiatrii	NKJP			DOM	IM0046	Imke		1	
+pl	Syn uratował wnuki,	NKJP			DOM	IM0047	Imke		1	
+pl	Ostatnio w Sandomierzu koło cmentarza, na którym w średniowieczu chowano wampiry, znaleziono porzuconą trumnę pochowanej sześć lat temu kobiety.	NKJP			DOM	IM0048	Imke		1	
+ru	Меня с моим поврежденным позвоночником почему-то положили на верхнюю полку.	ДЕТИ БЛОКАДЫ, https://berkovich-zametki.com/2010/Starina/Nomer2/Ochina1.php?fbclid=IwAR1KNMun1O8tRhFmMaENGKctfCHHlKzmuzwILuKn1s97kmaR2YW0QWdMuio			REFL	SB0001	Sandra		1	
+ru	Были и такие женщины, что бросали работу и уезжали на поиски.	ДЕТИ БЛОКАДЫ, https://berkovich-zametki.com/2010/Starina/Nomer2/Ochina1.php?fbclid=IwAR1KNMun1O8tRhFmMaENGKctfCHHlKzmuzwILuKn1s97kmaR2YW0QWdMuio			RC, EXIST	SB0002	Sandra		1	
+ru	На носу сидели круглые очки.	NKRJa			LOC	SB0003	Sandra		1	
+ru	Свет падает Шулейкину на лицо, и шрам на носу словно налился кровью.	NKRJa			LOC	SB0003	Sandra		1	
+ru	Думаете, мужчинам приятно, когда вы шутите про носки под диваном, волосы в носу и тому подобное?	NKRJa			LOC	SB0003	Sandra		1	
+ru	Эта влага не покидает организм, а фильтруется и остаётся в носу.	NKRJa			LOC	SB0003	Sandra		1	
+ru	Знакомая фамилия,― сказал Федор Иванович, задержав взгляд на тонком носе спортсмена.	NKRJa			LOC	SB0003	Sandra		1	Wie soll mehrfache Alignierung eines Beispiels markiert werden?
+ru	Носария, или Правила пользования выражениями о носе.	NKRJa			PREP	SB0004	Sandra		1	
+ru	Наверное, всё-таки не только в носе дело.	NKRJa			PREP	SB0005	Sandra		1	
+ru	Это был треугольник, вершина которого находилась в носе: лица, которые более всего выражают глупость».	NKRJa			PREP	SB0006	Sandra		1	
+ru	Мария же к тому времени давно забыла о разбитом носе.	NKRJa			PREP	SB0007	Sandra		1	
+ru	Я ушёл из дому, на долгие годы порвал с друзьями, жил бог знает где и бог знает с кем.	NKRJa			GEN	SB0008	Sandra		1	
+ru	Вот, например, вышли вы из дома на работу… с портфелем или не обязательно с портфелем, а с чем-то в руках.	NKRJa			GEN	SB0008	Sandra		1	
+ru	Я налила себе чаю и подняла глаза на мужа: "Леш, тебе чай или кофе?"	NKRJa			GENPART	SB0009	Sandra		1	
+ru	Вечером мы тихо сидели за чашкой чая.	NKRJa			GENPART	SB0009	Sandra		1	
+ru	Он из лесу вышел… и увидел пустыню.	NKRJa			GEN	SB0010	Sandra		1	
+ru	Однажды, Колюня сел на велосипед и поехал мимо леса, мимо поля.	NKRJa			GEN	SB0011	Sandra		1	
+ru	― Стой возле метро "Белорусская". Я буду с часу до двух.	NKRJa			GEN	SB0012	Sandra		1	Wie soll mehrfache Alignierung eines Beispiels markiert werden?
+ru	Занятия в летней школе проходят в первой половине дня, с 9 утра до часа дня.	NKRJa			GEN	SB0012	Sandra		1	
+ru	Прошло около часа, если не больше.	NKRJa			GEN	SB0012	Sandra		1	
+ru	Он по опыту знает, как болят нетренированные мышцы даже после часа лыжной прогулки.	NKRJa			GEN	SB0012	Sandra		1	
+ru	Не думаю, что фанаты способны ради поездки на чемпионат совершить какое-нибудь безумство, например продать машину.	NKRJa			PREPOST	SB0013	Sandra		1	
+ru	Справедливости ради надо сказать, что многие проблемы уже решены.	NKRJa			PREPOST	SB0013	Sandra		1	
+cu	Обрѣтохъ недостоинъ сꙑ такъ даръ. ѥже ми сѧ поѹчѧти словесьмъ твоимъ дьнь и ношть.	NKRJa			RC	SB0014	Sandra		1	
+cu	А король бѧшеть тогда впалъ в болесть великѹ. в неиже и сконча животъ свои. и положиша во цр҃кви ст҃ѣ Бц҃и. в Холмѣ юже бѣ самъ создалъ.	NKRJa			RC	SB0015	Sandra		1	
+cu	Зимноє бо` времѧ бранѧ´ше мѹ ити къ римꙋ:	NKRJa			DAT-CTR	SB0016	Sandra		1	
+cu	Ходи Ꙗрославъ сн҃ъ Ст҃ополчь на Ꙗтьвѧгꙑ второє. и побѣди ꙗ.	NKRJa			POSS-ADJ	SB0017	Sandra		1	
+cu	Томь (ж̑) · лѣ(т̑) · прѣстави сѧ ·ӏѡ҃а· сн҃ъ всѣволожь вънѹкъ мьстиславль.	NKRJa			POSS-ADJ	SB0018	Sandra		1	
+cu	Въ лѣ(т̑) ·҂ꙅ҃·ф҃·о͠ꙅ· гнѣвъ бж҃ии бꙑ(с̑) · придоша половци · и побѣдиша рꙋсьскѹю землю.	NKRJa			POSS-ADJ	SB0019	Sandra		1	
+cu	И минувшу лѣту, в лѣто 6496, иде Володимеръ с вои на Корсунь, град грѣчкый, и затворишася корсуняни въ градѣ.	NKRJa			DAT-ABS	SB0020	Sandra		1	→ ein zusammenhängender Text aus "Повҍсть врҍменьныхъ лҍтъ"
+cu	И изнемогаху людие въ градѣ, и рече Володимеръ к гражаномъ: «Аще ся не вдасте, имамъ стояти за три лѣта».	NKRJa			FUTUR	SB0021	Sandra		1	
+cu	Володимеръ же изряди воя своя и повелѣ приспу сыпати к граду.	NKRJa			OBJ-CTR	SB0022	Sandra		1	
+cu	Володимеръ же, се слыша, възрѣвъ на небо, и рече: «Аще ся сбудеть, се имамъ креститися».	NKRJa			FUTUR	SB0023	Sandra		1	
+cu	И ту абье повелѣ копати прекы трубамъ, и переяша воду.	NKRJa			OBJ-CTR	SB0024	Sandra		1	
+cu	Посла же Володимеръ со свѣтомъ Галичкꙑ(х̑) боѧръ. нарѣчье попомъ. к Володимерцемь. рекꙑ имъ. не имать ѡстатисѧ градъ вашь. аще ми не вꙑдасте Романовичю. аще не приимете брата моего Ст҃ослава. кнѧжити в Володимерѣ.	NKRJa			FUTUR	SB0025	Sandra		1	
+cu	Eгда приведоша моисѣꙗ пр(д)е фараѡн(а). и ркоша старци фараѡни сии хощеть смири(т). ѡбласть егупетьску. ꙗкоже и бы(с).	NKRJa			FUTUR	SB0026	Sandra		1	
+cu	Ѹмершю бо тобѣ, инъ приимεє(т) и начнε(т) вεселитисѧ в семъ, а ты всює трꙋжялъсѧ бꙋдεши.	NKRJa			DAT-ABS	SB0027	Sandra		1	
+ru	Несколько сотрудников пришло на собрание.				AGR-NUM	SB0028	Sandra		1	
+ru	Большинство сотрудников пришло на собрание.				AGR-NUM	SB0028	Sandra		1	
+ru	Несколько сотрудников пришли на собрание.				AGR-NUM	SB0029	Sandra		1	
+ru	Большинство сотрудников пришли на собрание.				AGR-NUM	SB0028	Sandra		1	
+ru	Первые два мальчика пришли вовремя.				AGR-NUM	SB0030	Sandra		1	
+ru	Два умные мальчика пришли вовремя.				AGR-NUM	SB0031	Sandra		1	
+ru	Два умных малчика пришли вовремя.				AGR-NUM	SB0031	Sandra		1	
+ru	Две умные девушки пришли вовремя.				AGR-NUM	SB0032	Sandra		1	
+ru	Две умных девушки пришли вовремя.				AGR-NUM	SB0032	Sandra		1	
+ru	Два года прошло в напряжённой работе.				AGR-NUM	SB0033	Sandra		1	
+ru	Два президента сочинили новый экономический союз.				AGR-NUM	SB0034	Sandra		1	
+bcms	Na crnom su tržištu za audije postizali cijenu do 8000 njemačkih maraka, a volkswagene i mercedese prodavali su za 3000 maraka.				NAME	SB0035	Sandra		1	
+cs	V katalogu byly i škodovky, fabie i octavie, fordy, volkswageny, různě silná volva, nějaké mercedesy a jeden tmavězelený jaguar.				NAME	SB0036	Sandra		1	
+ru	У него несколько мерседесов.				NAME	SB0037	Sandra		1	
+pl	lśniące od chromu amerykańskie limuzyny, eleganckie mercedesy, maleńkie fiaty, poza tym ople, peugeoty, volkswageny.				NAME	SB0038	Sandra		1	
+cs	Podporu přislíbili i manželé Novotní.				NAME	SB0039	Sandra		1	
+ru	Ивановы были в отпуске.				NAME	SB0040	Sandra		1	
+pl	Nowickie bardzo się chwaliły listem od Ciebie...				NAME	SB0041	Sandra		1	
+bcms	Tada je, naime, obitelj Lucić u Samobor doselila iz Posavine.				NAME	SB0042	Sandra		1	
+bcms	Imao bi puno više smisla kad bi gro bazične potrošnje bilo proizvedeno na ovom području i kupljeno npr. na veletržnici u Komolcu (hrana), a piće u obližnjoj tvornici za proizvodnju vode, sokova, piva...				GENPART	SB0043	Sandra		1	
+cs	A pak jsme šli do jedné restaurace a on poručil tři piva a vrchní je donesl.				INCOUNT	SB0044	Sandra		1	
+ru	Oн разбирается в винах.				INCOUNT	SB0045	Sandra		1	
+bcms	Kapacitet mini pivovara prilagođava se potrebama naručitelja, tako da je moguća proizvodnja od 600 do 6000 litara dnevno. Omogućena je proizvodnja različitih vrsta piva - svjetlih i tamnih, s višim ili nižim sadržajem ekstrakta, s manje ili više alkohola.				INCOUNT	SB0046	Sandra		1	
+cs	Bratr je zdráv.				SF-ADJ	SB0047	Sandra		1	
+cs	Bratr je zdrávý.				LF-ADJ	SB0047	Sandra		1	
+bcms	Ovaj se vidi kao novoga gradonačelnika.				LF-ADJ	SB0048	Sandra		1	
+bcms	Zagreb u srijedu dobiva novoga gradonačelnika.				LF-ADJ	SB0048	Sandra		1	
+ru	Брат здоров.				SF-ADJ	SB0049	Sandra		1	
+ru	Брат здоровый.				LF-ADJ	SB0049	Sandra		1	
+cs	On nejhezčí taxikář.				GRAD	SB0050	Sandra		1	
+cs	Bylo opatřeno novou matrací, potaženou černým voskovaným plátnem a dvěma tvrdými polštáři pod hlavu.				PASS, AGR-NUM	SB0051	Sandra		1	
+pl	Jesteś dla mnie najważniejszą osobą na świecie.				GRAD, NOMPRED	SB0052	Sandra		1	
+pl	Dziennikarz przytacza co pikantniejsze czy głupsze notki prasowe.				GRAD	SB0053	Sandra		1	
+bcms	U posljednjih desetak godina otkriveni su arheološki ostaci helenističkoga grada , a u novije vrijeme pronađene su crkve poznate iz kasnoantičkih i srednjovjekovnih spomena.				RESULT	SB0054	Sandra		1	
+ru	В прошлом году много детей занималось настольным теннисом.				AGR-NUM	SB0055	Sandra		1	
+ru	На уроках по лингвистике обсуждают новейшие теории.				GRAD	SB0056	Sandra		1	
+bcms	Jedino što sam htio bilo je da napišem dobru knjigu.				COMP	SB0057	Sandra		1	
+bcms	U takvim trenucima shvatim da nisam Homer, a ni Vergilije, i velikom gestom obećam da neću više ni retka napisati, a to naravno napišem u dnevnik, pa opet - pišem.				COMP	SB0058	Sandra		1	
+cs	Rád bych si s vámi pohovořil.				AGRSEM	SB0059	Sandra		1	
+bcms	Bio byh pristao da sam bio uvjeren.				COMP	SB0060	Sandra		1	
+cs	Dům se staví.				PASS	SB0061	Sandra		1	
+cs	Ale ono se nemusí jezdit někam daleko.				DUMMY	SB0062	Sandra		1	
+cs	Dopis je psán.				PASS, RESULT	SB0063	Sandra		1	
+cs	Dopis byl psán.				PASS	SB0063	Sandra		1	
+cs	Dopis je napsán.				PASS, RESULT	SB0063	Sandra		1	
+cs	Dům je stavěn.				PASS	SB0064	Sandra		1	
+cs	Kniha byla/bude zaplacena.				PASS	SB0065	Sandra		1	
+bcms	Tko ulazi kao kandidat za budućeg papu (tko je "papabile"), taj obično ne biva izabran.				PASS	SB0066	Sandra		1	
+bcms	Ostali koji su iste večeri bili prevezeni u bolnicu, pušteni su kući.				PASS, RESULT	SB0067	Sandra		1	
+bcms	U književnosti je taj problem često obrađivan.				PASS, ITER	SB0068	Sandra		1	
+bcms	Do ljeta situacija mora biti sređena.				PASS	SB0069	Sandra		1	
+ru	Саша моется в ванне.				POSTFIX, REFL	SB0070	Sandra		1	
+ru	Я учусь в университете.				POSTFIX	SB0071	Sandra		1	
+ru	Женя научился правописанию.				POSTFIX	SB0072	Sandra		1	
+bcms	Dr. Goreta je zaključio da Glasnović nije imao kontrolu nad sobom.				COMP	SB0073	Sandra		1	
+pl	Arek się myje w wannie.				REFL, REFCLIT	SB0074	Sandra		1	
+pl	Jak się pisze pana nazwisko?				PASS, REFCLIT	SB0075	Sandra		1	
+pl	Kasia boi sie psów.				REFCLIT	SB0076	Sandra		1	
+pl	Ania nauczyła się ortografii.				REFCLIT	SB0077	Sandra		1	
+pl	Żołnierze przestali odtrzymywać listy z domu.				COMP	SB0078	Sandra		1	
+cs	Hodně se spolu nasmáli.				REFCLIT	SB0079	Sandra		1	
+cs	Objali se a vášnivě políbili.				REFCLIT	SB0080	Sandra		1	
+cs	Toho muže už nebylo vidět, vyšel na ulici.				MOD	SB0081	Sandra		1	
+cs	Přijel jsem blíže a pořádně se rozhlédl. Uviděl jsem jezero.				REFCLIT	SB0082	Sandra		1	
+cs	Seděl na schodech a oddával se pochmurným myšlenkám.				REFCLIT	SB0083	Sandra		1	
+bcms	Oni sami napišu što misle o sebi.				COMP	SB0084	Sandra		1	
+cs	My/vy zůstáváme/zůstáváte mezi sebou.				REFL	SB0085	Sandra		1	
+ru	Я/ты/он/старик рассказывал о себе.				REFL	SB0086	Sandra		1	
+ru	Я/ты/она/старуха рассказывала о себе.				REFL	SB0086	Sandra		1	
+pl	Opowiadałem/opowiadałam o sobie.				REFL	SB0086	Sandra		1	
+pl	Ty opowiadałeś/opowiadałaś o sobie.				REFL	SB0086	Sandra		1	
+bcms	Troica boraca su došla.				AGR-NUM	SB0087	Sandra		1	
+ru	Это мое дитя. Ее зовут Лена.				AGRSEM	SB0088	Sandra		1	
+ru	Это наш новый психолог. Он является специалистом по возрастной психологии.				AGRSEM	SB0089	Sandra		1	
+ru	Это наш новый психолог. Она является специалистом по возрастной психологии.				AGRSEM	SB0089	Sandra		1	
+ru	Это наша новая психолог. Она является специалистом по возрастной психологии.				AGRSEM	SB0089	Sandra		1	
+bcms	Uglednik se na jezik modernoga doba prevodi kao VIP.				REFCLIT	SB0090	Sandra		1	
+cs	Měřily se somatické parametry: tělesná výška, obvod hlavy, obvod hrudníku.				REFCLIT, PASS	SB0091	Sandra		1	
+cs	Taxi zastavilo před hotelem.				AGRSEM	SB0092	Sandra		1	
+pl	Istotnie, młode szympansy wydają się nam niezwykle podobne do ludzkich niemowląt.				REFCLIT	SB0093	Sandra		1	
+bcms	Sindikati su nezadavoljni predloženim programom.				NOMPRED	SB0094	Sandra		1	
+bcms	Mnoge reakcije bile vrlo negativne.				NOMPRED	SB0095	Sandra		1	
+bcms	To su otvorena pitanja.				NOMPRED	SB0096	Sandra		1	
+cs	Existuje mnoho malých čaker, ale pouze sedm hlavních, z nichž každá odpovídá jedné barvě světelného spektra.				AGR-NUM	SB0097	Sandra		1	
+ru	Вчера мы читали книгу.				AGRSEM	SB0098	Sandra		1	diese Beispiele sollten parallel geführt werden
+pl	Wczoraj czytaliśmy/czytałyśmy książkę.				AGRSEM	SB0098	Sandra		1	diese Beispiele sollten parallel geführt werden
+bcms	Jučer smo čitali/čitale knjigu.				AGRSEM	SB0098	Sandra		1	diese Beispiele sollten parallel geführt werden
+cs	Včera jsme četli/četly knihu.				AGRSEM	SB0098	Sandra		1	diese Beispiele sollten parallel geführt werden
+pl	To mój kolega z czasów, gdy pracowaliśmy w dziennikarskim fachu we Lwowie.				NOMPRED	SB0099	Sandra		1	
+pl	Znajomy dał mi swój nowy numer telefonu, pożegnał się i poszedł.				POSS	SB0100	Sandra		1	
+bcms	Organizator putovanja bila je moja malenkost.				NOMPRED	SB0101	Sandra		1	
+pl	Czeka na pana jakiś mężczyzna.				IDEFIN	SB0102	Sandra		1	
+bcms	Uvjeren sam da Mirko je došao.				COMP	SB0103	Sandra		1	diese Beispiele sollten parallel geführt werden
+pl	Jestem przekonany, że Michał już przyszedł.				COMP	SB0104	Sandra		1	diese Beispiele sollten parallel geführt werden
+cs	Jsem přesvědčen, že Michal už přišel.				COMP	SB0104	Sandra		1	diese Beispiele sollten parallel geführt werden
+ru	Когда начнутся зимние каникулы, Ивановы поедут в отпуск.				NAME	SB0105	Sandra		1	
+ru	Соня сообщила, что она сегодня не может прийти.				COMP	SB0106	Sandra		1	
+pl	Była wiosna, gdy odwiedzili nas Nowakowie.				NAME	SB0107	Sandra		1	
+pl	Marek wierzy, że zda ten egzamin.				COMP	SB0108	Sandra		1	
+ru	Я хочу узнать, что думает Миша.				COMP	SB0109	Sandra		1	
+pl	Chcę wiedzieć, co myśli Michał.				COMP	SB0109	Sandra		1	
+bcms	Zanima me što Mirko misli.				COMP	SB0109	Sandra		1	
+cs	Chci vědět, co si Michal myslí.				COMP	SB0109	Sandra		1	
+ru	Вы не могли бы открыть окно?				SA-DIR	SB0110	Sandra		1	
+pl	Mógłby pan otworzyć okno?				SA-DIR	SB0110	Sandra		1	
+bcms	Možete li otvoriti prozor?				SA-DIR	SB0110	Sandra		1	
+cs	Mohli byste otevřít okno?				SA-DIR	SB0110	Sandra		1	
+ru	Читай/те эту книгу!				SA-DIR	SB0111	Sandra		1	
+pl	Czytaj/Czytajcie tę książkę!				SA-DIR	SB0111	Sandra		1	
+bcms	Čitaj/Čitajte ovu knjigu!				SA-DIR	SB0111	Sandra		1	
+cs	Přečti/Přečtěte tuto knihu!				SA-DIR	SB0111	Sandra		1	
+ru	Уберите комнату!				SA-DIR	SB0112	Sandra		1	
