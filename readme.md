@@ -2,21 +2,22 @@
 
 
 ## Repository structure
-        annotate.py
-		createTables.py
-		tables/
-			data_input/
-				input.tsv
-			data_output/
-				tokens.tsv
-				slavexample.tsv
-				category.tsv
-			stand_off/
-				sourcedesc.tsv
-				referencedesc.tsv
-				languages.tsv
-				categorydesc.tsv
-			requirements.txt 
+    requirements.txt 
+    annotate.py
+    createTables.py
+    tables/
+		data_input/
+			input.tsv
+		data_output/
+			tokens.tsv
+			slavexample.tsv
+			category.tsv
+		stand_off/
+			sourcedesc.tsv
+			referencedesc.tsv
+			languages.tsv
+			categorydesc.tsv
+		
 
 ## Scripts
 		
