@@ -33,7 +33,7 @@ Calling the scripts:
 	$ python createTables.py
 
 ## Tables
-### Token
+### tokens.tsv
 The first 9 columns match the standard CoNNL-U format:
 
 1. ID: Word index, integer starting at 1 for each new sentence; may be a range for multiword tokens; may be a decimal number for empty nodes (decimal numbers can be lower than 1 but must be greater than 0).1)
@@ -56,11 +56,11 @@ The first 9 columns match the standard CoNNL-U format:
 
 The columns 16. and 17. are only there for our information and should be removed from the final table
 
-### Category
+### category.tsv
 1. CAT: Category for the example
 2. EXAMPLEID: Language specific string (LANGCODE + VERSION + str(range of 1000))
 
-### SlavExample
+### slavexample.tsv
 1. SOURCE: The corpus or Website in which the example has been found
 2. REFERENCE: The written source in which the example has been found in the Format: Author (Year)
 3. REFERENCE_PAGE: The page for the quote in REFERENCE
@@ -74,19 +74,19 @@ The columns 16. and 17. are only there for our information and should be removed
 
 ## Stand-Off tsv
 
-### sourcedesc
+### sourcedesc.tsv
 1. SOURCE: Source (short)
 2. DESC: Source (long)
 
-### referencedesc
+### referencedesc.tsv
 1. REFERENCE: Reference (short)
 2. DESC: Reference (long)
 
-### languages
+### languages.tsv
 1. LANGUAGE: Language
 2. LANGCODE: (Language code like ru, bcms, etc.)
 
-### categorydesc
+### categorydesc.tsv
 1. CAT: Category (short)
 2. DESC: Category
 3. INFO: Information about this category
