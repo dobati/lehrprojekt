@@ -1,0 +1,9 @@
+to do: last version before correcting the tags
+
+-> add sys.argument version number
+-> validification with python
+	- validate stand off
+	- validate that stand off arg are used
+	- validate examples
+
+make a graph repr of the workflow

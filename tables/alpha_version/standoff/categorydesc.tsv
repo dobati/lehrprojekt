@@ -1,0 +1,73 @@
+CATDESC	CAT	INFO
+Possessivity	POSS	Kürzer Text über diese Kategorie
+Existence	EXIST	
+Indefinite	IDEFIN	
+Impersonal	IPER	
+Reciprocal	RECI	
+Intransitive	ITR	
+Iterative	ITER	
+Future	FUTUR	
+Epistemic	EPIST	
+Dispositional	DISP	
+Circumstantial	CIRC	
+Deontic	DEO	
+Definite	DEFIN	
+Generic	GENER	
+Anaphoric reference	ANAPH	
+Cataphoric reference	CATAPH	
+Deictic reference	DEIC	
+Pro-drop	DROP	
+Differential object marking	DOM	
+Differential subject marking	DSM	
+Apprehensionale strategy	APPR	
+Preventive	PRV	
+Directive speech act	SA-DIR	
+Optativic speech act	SA-OPT	
+Commissive speech act	SA-COM	
+Echo-deontic (interpretative) utterance	ECH	
+Implicative predicate	IMPP	
+Pseudo coordination	PCOORD	
+Complex predicate: take	TAKE	
+Complex predicate: go	GO	
+Compex predicate: give 	GIVE	
+Double verb	DV	
+Non-specific reference	NSPEC	
+Specific reference	SPEC	
+Approximative	APPROX	
+Resultative	RESULT	
+Nominal predication	NOMPRED	
+Relative clause	RC	
+Semantic agreement	AGRSEM	
+Local	LOCAL	
+Pre-postposition	PREPOST	
+Evidential	EVID	
+Reflexive	REFL	
+Marked focus	MFOC	
+Marked topic	MTOP	
+Prepositive	PREP	
+Genitive	GEN	
+Genitivus partitivus	GENPART	
+Hypothetical	HYP	
+Differential object marking, negation-conditioned	DOM-NEG	
+Existential, negated	EXIST-NEG	
+Differetial object marking, animacy conditioned	DOM-ANIM	
+Perfective aspect for future tense	PFUT	
+Differential object marking, indefinite-conditioned	DOM-IND	
+Differential subject marking, animacy-conditioned	DSM-ANIM	
+Locative	LOC	
+Dative controller	DAT-CTR	
+possessive adjective	POSS-ADJ	
+dativus absolutus	DAT-ABS	
+object control	OBJ-CTR	
+agreement numerals	AGR-NUM	
+Eigenname	NAME	
+Lesarten von incountables	INCOUNT	
+Kurzform des Adjektivs	SF-ADJ	
+Langform des Adjektivs	LF-ADJ	
+Graduierung der Adjektive	GRAD	
+Passiv	PASS	
+Komplementsatz	COMP	
+Dummy Subjekt	DUMMY	
+Postfix	POSTFIX	
+Reflexive cliticon	REFCLIT	
+Modalität	MOD	

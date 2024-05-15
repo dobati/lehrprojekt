@@ -10,7 +10,7 @@ slavexample.write("\t".join(["SOURCE","REFERENCE", "REFERENCE_PAGE","GROUPID","_
 tokens_table = Input2Conllu(inputfile, annotated_output)
 
 ## create tokens table (in conllu format)
-x = tokens_table.dict2conllu()
+#x = tokens_table.dict2conllu()
 
 def createCategoryTable(myexample, myfile):
     ## category has the index 3
@@ -36,12 +36,13 @@ def createSlavExampleTable(myexample, myfile):
     return "pass"
 
 for key in sorted(tokens_table.inputdict):
+    #print(key, tokens_table.inputdict[key])
+    # sort according to alignment id
+    ## sorting on groupid failed to implement
     for example in sorted(tokens_table.inputdict[key],key=lambda k: k[5]):
         if len(example)==11:
-            
-            # 11 column have to be specified: example, source, reference, page, cat, groupid, editor, comment, version, comment_intern
-            #['Eго взволновали.', '', 'Wiemer & Giger (2005)', '', 'RESULT', 'IM0007', 'Imke', '', '1', '', 'ru0100159']
+            # 11 column have to be specified: example, source, ref, red_page, cat, alignment, editor, comment, version, comment_intern, example_id
             createCategoryTable(example, category)
             createSlavExampleTable(example, slavexample)
         else:
-            print("there have to be 11 columns in the data list:\nexample, source, ref, cat, alignment, editor, comment, version, example_id")
+            print("there have to be 9 columns in the data list:\nexample, source, ref, cat, alignment, editor, comment, version, example_id")

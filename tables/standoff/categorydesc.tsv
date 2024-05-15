@@ -1,73 +1,69 @@
 CATDESC	CAT	INFO
-Possessivity	POSS	Kürzer Text über diese Kategorie
-Existence	EXIST	
-Indefinite	IDEFIN	
-Impersonal	IPER	
-Reciprocal	RECI	
-Intransitive	ITR	
-Iterative	ITER	
-Future	FUTUR	
-Epistemic	EPIST	
-Dispositional	DISP	
-Circumstantial	CIRC	
-Deontic	DEO	
-Definite	DEFIN	
-Generic	GENER	
+Agreement numerals	AGR-NUM	
 Anaphoric reference	ANAPH	
-Cataphoric reference	CATAPH	
-Deictic reference	DEIC	
-Pro-drop	DROP	
-Differential object marking	DOM	
-Differential subject marking	DSM	
-Apprehensionale strategy	APPR	
-Preventive	PRV	
-Directive speech act	SA-DIR	
-Optativic speech act	SA-OPT	
-Commissive speech act	SA-COM	
-Echo-deontic (interpretative) utterance	ECH	
-Implicative predicate	IMPP	
-Pseudo coordination	PCOORD	
-Complex predicate: take	TAKE	
-Complex predicate: go	GO	
-Compex predicate: give 	GIVE	
-Double verb	DV	
-Non-specific reference	NSPEC	
-Specific reference	SPEC	
+Apprehensionale strategy	APPR	Means indicating that the named situation is (very) likely, but undesirable (compare 'fear').
 Approximative	APPROX	
-Resultative	RESULT	
-Nominal predication	NOMPRED	
-Relative clause	RC	
-Semantic agreement	AGRSEM	
-Local	LOCAL	
-Pre-postposition	PREPOST	
-Evidential	EVID	
-Reflexive	REFL	
-Marked focus	MFOC	
-Marked topic	MTOP	
-Prepositive	PREP	
-Genitive	GEN	
-Genitivus partitivus	GENPART	
-Hypothetical	HYP	
-Differential object marking, negation-conditioned	DOM-NEG	
-Existential, negated	EXIST-NEG	
-Differetial object marking, animacy conditioned	DOM-ANIM	
-Perfective aspect for future tense	PFUT	
-Differential object marking, indefinite-conditioned	DOM-IND	
-Differential subject marking, animacy-conditioned	DSM-ANIM	
-Locative	LOC	
+Circumstantial	CIRC	Modal restriction concerning the possible or necessary conditions for a situation to occur.
+Complex predicate: give 	GIVE	Complex predicate with the structure GIVE (AND) V, expressing modal and temporal meanings.
+Complex predicate: take	TAKE	Pseudo-coordinative complex predicate with the structure TAKE (AND) V, with V = verb and TAKE specifying an ingressive phase or the unexpectedness of the event.
 Dative controller	DAT-CTR	
-possessive adjective	POSS-ADJ	
-dativus absolutus	DAT-ABS	
-object control	OBJ-CTR	
-agreement numerals	AGR-NUM	
-Eigenname	NAME	
-Lesarten von incountables	INCOUNT	
-Kurzform des Adjektivs	SF-ADJ	
-Langform des Adjektivs	LF-ADJ	
-Graduierung der Adjektive	GRAD	
-Passiv	PASS	
-Komplementsatz	COMP	
-Dummy Subjekt	DUMMY	
-Postfix	POSTFIX	
-Reflexive cliticon	REFCLIT	
-Modalität	MOD	
+Dativus absolutus	DAT-ABS	
+Definiteness	DEFIN	Reference applying if the speaker assumes that the interlocutor(s) can identify the object/person/situation spoken about.
+Deontic	DEO	Modal restriction as possible or necessary based on socially conditioned expectations (norms).
+Differential object marking	DOM	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the (direct) object of the clause. 
+Differential object marking, animacy conditioned	DOM-ANIM	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the (direct) object of the clause. The coding of the direct object is conditioned by distinctions on an animacy scale.
+Differential object marking, indefinite-conditioned	DOM-IND	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the (direct) object of the clause. The coding of the direct object is conditioned by weakened referential status.
+Differential object marking, negation-conditioned	DOM-NEG	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the (direct) object of the clause. The coding of the direct object is conditioned by negation.
+Differential subject marking	DSM	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the subject of the clause.
+Differential subject marking, animacy-conditioned	DSM-ANIM	A specific type of differential argument marking (see Witzlack-Makarevich & Seržant 2018: 3) concerning the subject of the clause. The coding of the subject is conditioned by distinctions on an animacy scale.
+Directive speech act	SA-DIR	Speech act by which the speaker attempts to make the (direct or indirect) addressee perform (or not to perform) some action.
+Dispositional	DISP	Modal restriction concerning the capabilities (POSS) or requirements (NEC) of an individual.
+Double verb	DV	Juxtaposition of forms (agreeing in all relevant categories) of two lexical verbs in a functionally/semantically symmetric relation, i.e. neither of the verbs functions as operator on the other, but they jointly describe ONE situation.
+Dummy subject	DUMMY	Mere syntactic placeholder of a subject position, without any role status in an argument structure (a.k.a. expletive subject).
+Echo-deontic (interpretative) utterance	ECH	„[E]xpressions referring to obligations or acts of volition with which the speaker disagrees, and achieving this reference through echoically reproducing the  grammatical or lexical means by which such obligations or acts of volition are customarily expressed.“ (Holvoet, ESLL)
+Proper name	NAME	Proper names uniquely identify their referents. Differently from common nouns, they only have a reference and no sense. 
+Epistemic	EPIST	Probability judgments, i.e. modal restrictions concerning the subjective assessment that a given proposition can or must apply (have applied, will apply).
+Evidential	EVID	“Evidentiality proper is understood as stating the existence of a source of evidence for some information; that includes stating that there is some evidence, and also specifying what type of evidence there is.” (Aikhenvald 2003: 1)
+Existence	EXIST	Expression of existence.
+Existential, negated	EXIST-NEG	Expression of negated existence / non-existence.. 
+Future	FUTUR	Verbal form denoting a single situation that is posterior to a reference interval. In the prototypical case, this reference interval is the current moment of speech (deictic time reference).
+Genitive	GEN	
+Genitivus partitivus	GENPART	A genitive used to express a partitive (part-of) relation.
+Gradation of adjectives	GRAD	Expression of comparative and superlative degree.
+Hypothetical	HYP	Expression of a hypothetical situation, i.e. a situation that is possible, imagined etc., but not (yet) real. 
+Impersonal	IPER	Construction which does not change the argument (i.e. role) relations, but syntactically suppresses, or deranks, the most agent-like argument without promoting a syntactically privileged argument.
+Implicative predicate	IMPP	Complex predicate with the first part claiming that the event denoted by the second part has actually occurred, or is occurring.
+Indefinite	IDEFIN	Reference applying if the speaker does not assume that the interlocutor(s) can identify the object/person/situation spoken about.
+Intransitive	ITR	Overt marking of the reduction of valency, e.g. intransitivisation.  
+Iterative	ITER	Refers to the "count" of entire situations (named by the predicate). A.k.a external pluractionality.
+Complement clause	COMP	Clause that fulfils the function of an argument to a predicate (verb, noun) in a higher (or larger) constituent.
+Short form of adjectives	SF-ADJ	Nominal inflection of adjectives (diachronically original).
+Long form or adjectives	LF-ADJ	Pronominal inflection of adjectives (diachronically secondary).
+Lesarten von incountables	INCOUNT	Readings of incountable (first of all, mass) nouns (e.g. meronymic, taxonomic readings).
+Locative	LOC	
+Marked focus	MFOC	Emphatic focus/comment (with falling intonation), contrastive to a subsequent or preceding focus (or assertion).
+Marked topic	MTOP	Emphatic topic (with rising intonation), e.g. after a topic change or contrastive to a subsequent topic.
+Modality	MOD	Specification on predicational or propositional level that restricts the content as possible (POSS) or necessary (NEC).
+Nominal predication	NOMPRED	Predication with a form of a word (or word combination) that is not a verb.
+Non-specific reference	NSPEC	Reference for which the speaker assumes that the object/person spoken about exists (in some world), but cannot (yet) be identified by the interlocutor(s).
+Object control	OBJ-CTR	Semantic sharing of an argument between a matrix clause and an embedded clause; the argument is pronounced only in the matrix clause.
+Passive	PASS	Speech act expressing a wish.
+Perfective aspect for future tense	PFUT	Construction which does not change the argument (i.e. role) relations, but which changes its (morpho)syntactic coding and promotes the more patientlike argument into a syntactically privileged position.
+Possessive adjective	POSS-ADJ	Default interpretation of perfective present as marking singular events after a reference interval (see FUTURE).
+Possessivity	POSS	Establishes a reference point X (“possessor”) for the identification of the “possessum” Y.
+Postfix	POSTFIX	Last affix in a verb form, thus in a position after tense and person-number marking.
+Pre-postposition	PREPOST	
+Prepositive	PREP	
+Preventive	PRV	Speech act warning against an undesirable event that the addressee might inadvertently evoke.
+Pro-drop	DROP	Pro-drop describes to the possibility of a language to leave non-emphatic subject pronouns unexpressed.
+Pseudo coordination	PCOORD	Juxtaposition of verb forms (normally agreeing in all relevant categories) in a functionally/semantically asymmetric relation (comparable to auxiliary + lexical verb).
+Reciprocal	RECI	Two (or more) participants A and B of a situation fulfilling both two different roles in relation to one another, simultaneously or in successive turns.
+Reflexive	REFL	The same participant of a situation fulfils two different roles.
+Reflexive cliticon	REFCLIT	Clitic that, originating as a reflexive marker sensu stricto, has expanded into various functions of argument reduction, or permutation.
+Relative clause	RC	Clause modifying a noun phrase either by restricting its reference (restrictive relative clause) or elaborating it (non-restrictive relative clause). RCs may be introduced by relative pronouns (number and gender agreement with head noun; case assigned by predicate in RC)  or non-inflected relative particles that may be accompanied by resumptive pronouns in some languages. 
+Resultative	RESULT	Verbal construction denoting the post-state of a state-changing (= telic) event.
+Semantic agreement	AGRSEM	Agreement based not on form, but on (implied) reference relations (e.g., from a group to its individuals), e.g. with numerals or collective nouns.
+Specific reference	SPEC	Reference to an exemplar, token that is known to the speaker.
+Double verb	DV	Juxtaposition of forms (agreeing in all relevant categories) of two lexical verbs in a functionally/semantically symmetric relation, i.e. neither of the verbs functions as operator on the other, but they jointly describe ONE situation.
+Generic	GENER	Reference to the species, or type, as such (not its exemplar, or token).
+Commissive speech act	SA-COM	Speech act by which the speaker obliges themselves to perform (or not perform) some action.
